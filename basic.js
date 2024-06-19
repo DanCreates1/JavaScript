@@ -10,3 +10,22 @@ let price = 100
 console.log(typeof price);
 
 
+
+// variable = A container that stores a value
+
+// First declaration    let x;
+// Second assignment    x = 100;
+
+let x;
+x = 200;
+
+console.log(x);
+
+
+//let age = 25;
+//let price = 100
+
+//console.log(`You are ${age} years old`);
+//console.log(`The price is $${price}`)
+
+
