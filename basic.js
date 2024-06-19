@@ -50,7 +50,39 @@ let online = true;
 let forSale = true;
 let isStudent = false;
 
+
 console.log(typeof online);
 console.log(`pouyan is online: ${online}`);
 console.log(`Is this house for sale: ${forSale}`);
 console.log(`Enrolled: ${isStudent}`)
+
+
+
+
+//arithmetic operators = values, variables, etc
+// + - * /
+//example 11 = x + 8
+
+
+//let students = 30;
+
+//students = students + 1;    //PLUS
+//students = students - 1;    //minus 
+//students = students * 2;    //times
+//students = students / 2;    //division
+//students = students ** 2;   //to the power
+//let extraStudent = students % 3;   
+
+
+//students += 1;
+//students -= 1;
+//students *= 2;
+//students /= 2;
+//students **= 2;
+//students %= 2;
+
+//students++;
+//students--;
+
+
+//console.log(students);
