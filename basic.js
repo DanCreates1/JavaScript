@@ -29,3 +29,16 @@ console.log(x);
 //console.log(`The price is $${price}`)
 
 
+
+//STRINGS
+//Strings can contain numbers
+let firstName = "Pouyan";
+let favoriteFood =  "pizza"
+let email = "pouayn123@gmail.com";
+
+console.log(typeof firstName);
+console.log(`your name is ${firstName}`);
+console.log(`you like ${favoriteFood}`);
+console.log(`your email is ${email}`);
+
+
