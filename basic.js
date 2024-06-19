@@ -42,3 +42,15 @@ console.log(`you like ${favoriteFood}`);
 console.log(`your email is ${email}`);
 
 
+
+//Booleans
+//They are either true or false
+
+let online = true;
+let forSale = true;
+let isStudent = false;
+
+console.log(typeof online);
+console.log(`pouyan is online: ${online}`);
+console.log(`Is this house for sale: ${forSale}`);
+console.log(`Enrolled: ${isStudent}`)
