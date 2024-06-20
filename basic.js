@@ -86,3 +86,18 @@ console.log(`Enrolled: ${isStudent}`)
 
 
 //console.log(students);
+
+
+//CONST = a variable that can't be changed
+//you just need this p element in your html file <p id="p1"><p1>
+const PT = 3.14159;
+let radius;
+let circumference;
+
+radius = window.prompt("Enter the radius of a circle");
+radius = Number(radius);
+
+circumference = 2 * PT * radius;
+
+//console.log("The circumference is:", circumference)
+document.getElementById("p1").textContent = ("The circumference is:", circumference)
