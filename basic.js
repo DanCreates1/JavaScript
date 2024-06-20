@@ -125,3 +125,60 @@ let minimum;
 
 
 console.log(x)
+
+
+
+
+
+
+
+//hypotenuse calc program
+//HTML file👇🏼
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+  
+      <label id="aLabel">Side A:</label><br>
+      <input type="text" id="ATextBox">
+      <label id="bLabel">Side B:</label><br>
+      <input type="text" id="bTextBox"><br>
+      <button type="button" id="submitButton">submit</button><br>
+      <label id="cLabel">Side C:</label><br>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+
+//JS file👇🏼
+let a;
+let b;
+let c;
+/*
+a = window.prompt("Enter side A")
+a = Number(a);
+
+b = window.prompt("Enter side B")
+b = Number(b);
+
+c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
+console.log("Side C:", c)
+*/
+
+document.getElementById("submitButton").onclick = function(){
+
+    a = document.getElementById("ATextBox").value;
+    a = Number(a);
+
+    b = document.getElementById("bTextBox").value
+    b = Number(b);
+
+    c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
+
+    document.getElementById("cLabel").innerHTML = "side C: " + c;
+}
