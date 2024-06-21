@@ -182,3 +182,22 @@ document.getElementById("submitButton").onclick = function(){
 
     document.getElementById("cLabel").innerHTML = "side C: " + c;
 }
+
+
+
+// useful string propersties & methods
+let username = "Bro Code";
+let phoneNumber = "123-456-7890";
+
+console.log(username.length);
+console.log(username.charAt(0));
+console.log(username.indexOf("0"));
+console.log(username.lastIndexOf("0"));
+console.log(username.trim(0));
+console.log(username.toUpperCase());
+console.log(username.toLowerCase());
+
+phoneNumber = phoneNumber.replaceAll("-", "/");
+
+console.log(phoneNumber);
+
