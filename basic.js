@@ -201,3 +201,20 @@ phoneNumber = phoneNumber.replaceAll("-", "/");
 
 console.log(phoneNumber);
 
+
+
+
+//Slice() extract a section of a sting
+let fullName = "Mr.engine NB";
+let firstName;
+let lastName;
+
+//firstName = fullName.slice(0, 3)
+//lastName = fullName.slice(0)
+
+lastName = fullName.slice(0, fullName.indexOf(" ") + 1);
+firstName = fullName.slice(fullName.indexOf(" ") + 1);
+
+
+console.log(lastName);
+console.log(firstName)
