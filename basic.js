@@ -230,3 +230,19 @@ console.log(letter)
 
 console.log(lastName);
 console.log(firstName)
+
+
+
+
+
+//----------------------------------------------------------------
+// IF statment 
+let age = 1;
+
+if(age >= 18){
+   console.log("you are over 18");
+}
+else{
+   console.log("you are less then 18")
+}
+
