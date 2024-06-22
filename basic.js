@@ -246,3 +246,22 @@ else{
    console.log("you are less then 18")
 }
 
+//A better version👇🏼
+
+let age;
+
+age = window.prompt("enter your age");
+if(age >= 18){
+   console.log("you are an adult");
+}
+else if( age < 0){
+   console.log("you haven't been born yet");
+}
+else{
+   console.log("you are not an adult");
+}
+
+console.log(`your age is ${age}`);
+
+
+
