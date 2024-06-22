@@ -216,5 +216,17 @@ lastName = fullName.slice(0, fullName.indexOf(" ") + 1);
 firstName = fullName.slice(fullName.indexOf(" ") + 1);
 
 
+
+
+
+//method chaining = calling one method after another
+
+let userName = "DAN";
+
+let letter = userName.charAt(0).toUpperCase();
+console.log(letter)
+
+
+
 console.log(lastName);
 console.log(firstName)
