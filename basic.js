@@ -265,3 +265,35 @@ console.log(`your age is ${age}`);
 
 
 
+
+
+
+
+
+
+// Switch = statement that examines a value
+// usually used when you have soo many else and if statment
+
+
+
+let grade = "A";
+
+switch(grade){
+   case "A":
+      console.log("you did great");
+      break;
+
+   case "B":
+      console.log("you did good");
+      break;
+
+   case "C":
+      console.log("you passed");
+      break;
+
+   case "F":
+      console.log("you  failure");
+      break;
+   default:
+      console.log(grade, "is not a letter grade!");
+}
