@@ -307,7 +307,7 @@ switch(grade){
 // && AND (BOTH conditions must be true)
 // || or (Either condituin can be true)
 
-
+//&& and👇🏼
 let temp = 15;
 
 if(temp > 0 && temp < 30){
@@ -317,3 +317,12 @@ else{
    console.log('The weather is bad!');
 }
 
+// OR ||👇🏼
+let temp = 15;
+
+if(temp <= 0 || temp >= 30){
+   console.log("The weather is Bad!");
+}
+else{
+   console.log('The weather is Good!');
+}
