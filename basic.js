@@ -363,3 +363,18 @@ else{
 else{
    console.log('The weather is Good!');
 }
+
+
+
+
+
+//while loop-------------------------------------------------------
+// while something is true it repeats it self
+
+let userName = "";
+
+while(userName == "" || userName == null){
+   userName = window.prompt("Enter your name:")
+}
+console.log("Hello", userName);
+//document.getElementById("h1").innerHTML = "hello "+ userName;
