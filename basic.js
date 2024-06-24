@@ -297,3 +297,23 @@ switch(grade){
    default:
       console.log(grade, "is not a letter grade!");
 }
+
+
+
+
+
+
+// gives us the abillity to check more then 1 condition concurrently
+// && AND (BOTH conditions must be true)
+// || or (Either condituin can be true)
+
+
+let temp = 15;
+
+if(temp > 0 && temp < 30){
+   console.log("The weather is good!");
+}
+else{
+   console.log('The weather is bad!');
+}
+
