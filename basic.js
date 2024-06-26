@@ -420,3 +420,17 @@ for(let i = 10; i > 0; i-=1 ){
    console.log(i)
 }
 console.log("happy new year")
+
+
+
+
+// break = break out of a loop entirely
+
+for(let i = 1; i <= 20; i+=1){
+   if(i == 13){
+      break;
+   }
+
+   console.log(i)
+}
+
