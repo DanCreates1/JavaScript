@@ -414,3 +414,9 @@ for(let counter = 1; counter <= 100; counter+=1 ){
 for(let i = 1; i <= 100; i+=1 ){
    console.log(counter)
 }
+
+//negative counter👇🏼
+for(let i = 10; i > 0; i-=1 ){
+   console.log(i)
+}
+console.log("happy new year")
