@@ -204,6 +204,13 @@ console.log(phoneNumber);
 
 
 
+
+//how to kill your laptop with three lines of code(Do not try at home)
+//for loop = repeat some code a certain amount of time 
+//for(let counter = 1; 1 == 1; counter+=1 ){
+   console.log(counter)
+}
+
 //Slice() extract a section of a sting
 let fullName = "Mr.engine NB";
 let firstName;
@@ -392,3 +399,13 @@ do{
 }while(userName == "")
    
 console.log("Hello", userName);
+
+
+
+
+
+//for loop = repeat some code a certain amount of time
+
+for(let counter = 1; counter <= 100; counter+=1 ){
+   console.log(counter)
+}
