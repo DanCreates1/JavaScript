@@ -409,3 +409,8 @@ console.log("Hello", userName);
 for(let counter = 1; counter <= 100; counter+=1 ){
    console.log(counter)
 }
+
+//lets make it simple( i used "i" insted of counter)
+for(let i = 1; i <= 100; i+=1 ){
+   console.log(counter)
+}
