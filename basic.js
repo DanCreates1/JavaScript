@@ -509,3 +509,21 @@ console.log("The area is:", area)
 function getArea(width, height){
    return width * height;
 }
+
+
+
+
+// ternary operator = shortcut for ab 'if/else statement'
+//                   takes 3 operands
+
+//                   1.a condition with?
+//                   2. expression
+//                   3. expression if False
+
+
+let adult = CheckAge(18);
+console.log(adult)
+
+function CheckAge(age){
+    return age >= 18 ? true : false;
+}
