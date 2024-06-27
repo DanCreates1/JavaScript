@@ -555,3 +555,17 @@ function doSomething(){
       console.log(i)
    }
 }
+
+
+// Template literals = delimited with (`(back tikes))
+//                      instead of double or single quotes
+//                      allow embedded variables and expressions
+
+
+let userName = "Dan";
+let items = 3;
+let total = 75;
+
+console.log("Hello", userName);
+console.log("You have", items, "items in your cart");
+console.log("Your total is $", total);
