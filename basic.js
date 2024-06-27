@@ -527,3 +527,10 @@ console.log(adult)
 function CheckAge(age){
     return age >= 18 ? true : false;
 }
+
+//another version of the ternary operator👇🏼
+CheckWinner(true);
+
+function CheckWinner(win){
+   win ? console.log('You win') :  console.log('You lose');
+}
