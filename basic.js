@@ -443,3 +443,18 @@ for(let i = 1; i <= 20; i+=1){
 
    console.log(i)
 }
+
+
+
+//nested loop = a loop inside of another loop
+
+let rows = window.prompt('Enter # of rows')
+
+let columns = window.prompt('Enter # of columns')
+
+for(let i = 1; i <= rows; i+=1){
+   for(let j = 1; j <= columns; j+=1){
+      document.getElementById("myrectangel").innerHTML +=j;
+   }
+   document.getElementById("myrectangel").innerHTML += "<br>";
+}
