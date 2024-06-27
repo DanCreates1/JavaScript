@@ -574,6 +574,19 @@ console.log("Your total is $", total);
 
 console.log("--------------------------------")
 
+
 console.log(`Hello ${userName}`);
 console.log(`You have ${items} items in your cart`);
 console.log(`Your total is $${total}`);
+
+
+console.log("-------------------------")
+
+
+let text = 
+`Hello ${userName}
+You have ${items} items in your cart
+Your total is $${total}`
+
+console.log(text)
+
