@@ -529,6 +529,7 @@ function CheckAge(age){
 }
 
 //another version of the ternary operator👇🏼
+
 CheckWinner(true);
 
 function CheckWinner(win){
