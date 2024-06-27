@@ -473,3 +473,20 @@ for(let i = 1; i <= rows; i+=1){
    }
    document.getElementById("myrectangel").innerHTML += "<br>";
 }
+
+
+
+//function = Define code once, and use it as many times as you want
+
+let username = "Dan";
+let age = 21;
+
+happyBirthday()
+
+function happyBirthday(){
+   console.log("happy birthday to you")
+   console.log("happy birthday to you")
+   console.log("happy birthday dear", username)
+   console.log("happy birthday to you")
+   console.log("You are", age,"years old")
+}
