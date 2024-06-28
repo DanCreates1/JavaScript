@@ -590,3 +590,19 @@ Your total is $${total}`
 
 console.log(text)
 
+
+
+
+//toLocaleString() = return a string with a language
+//                   sensitive representation
+
+// number.toLocaleString(locale, {options});
+
+//'locale' = specify that language (undefined = default set in browser)
+// 'options' = object with formatting options
+
+let myNum = 123456.789;
+
+//myNum = myNum.toLocaleString("en-US"); //US English
+//myNum = myNum.toLocaleString("hi-IN"); // Hindi
+//myNum = myNum.toLocaleString("de-DE"); // Standard German
