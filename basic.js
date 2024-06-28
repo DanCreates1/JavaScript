@@ -617,3 +617,21 @@ let myNum = 100;
 
 console.log(myNum);
 
+
+
+//array = think of it as a variable
+//           that can store multiple values
+
+let fruits = ["appl", "orange", "banana"];
+
+//fruits[2] = "coconut";
+
+fruits.push("lemon")    //add an element
+fruits.pop();           //remove last element
+fruits.unshift("mango");//add element to beginning
+fruits.shift();         //remove element from beginnig
+
+let lenght = fruits.length;
+let index = fruits.indexOf("kiwi");
+
+console.log(index);
