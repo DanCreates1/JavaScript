@@ -661,3 +661,21 @@ fruits = fruits.sort().reverse();
 for(let fruit of fruits){
    console.log(fruits);
 }
+
+
+
+//2D array = An array of arrays
+
+let fruit =      ["appels", "oranges", "bananas"];
+let vegetables = ["carrots", "onions", "potatoes"];
+let meats =      ["eggs", "chicken", "fish"];
+
+let groceryList = [fruit, vegetables, meats];
+
+groceryList[2][2] = "steak";
+
+for(let list of groceryList){
+   for(let food of list){
+      console.log(food);
+   }
+}
