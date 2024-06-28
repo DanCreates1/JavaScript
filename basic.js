@@ -649,3 +649,15 @@ for(let i = prices.length -1; i >=0; i-=1){
 for(prices of prices){
    console.log(prices)
 }
+
+
+
+//how to sort arrays👇🏼
+let fruits = ["appl", "orange", "banana", "mango"]
+
+//fruits = fruits.sort();
+fruits = fruits.sort().reverse();
+
+for(let fruit of fruits){
+   console.log(fruits);
+}
