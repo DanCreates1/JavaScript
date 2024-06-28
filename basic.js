@@ -635,3 +635,17 @@ let lenght = fruits.length;
 let index = fruits.indexOf("kiwi");
 
 console.log(index);
+
+
+
+//loop through an array
+let prices = [5, 10, 15, 20];
+   /*
+for(let i = prices.length -1; i >=0; i-=1){
+   console.log(prices[i])
+}  
+   */
+
+for(prices of prices){
+   console.log(prices)
+}
