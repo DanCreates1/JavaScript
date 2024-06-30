@@ -58,6 +58,7 @@ console.log(`Enrolled: ${isStudent}`)
 
 
 
+
 //arithmetic operators = values, variables, etc
 // + - * /
 //example 11 = x + 8
