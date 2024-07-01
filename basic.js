@@ -680,3 +680,14 @@ for(let list of groceryList){
       console.log(food);
    }
 }
+
+
+
+
+//spread operator = allows an  iterable such as an or string
+//                  to be expanded in places where zero or more
+//                  arguments are expected (unpacks the elements)
+
+let userName = "Mr engine"
+//It will spread the string👇🏼
+console.log(...userName)
