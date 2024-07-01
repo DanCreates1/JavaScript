@@ -691,3 +691,11 @@ for(let list of groceryList){
 let userName = "Mr engine"
 //It will spread the string👇🏼
 console.log(...userName)
+
+
+let calss1 = ["bob", "patrick", "sandy"];
+let calss2 = ["squidward", "Mr.krabs", "plankton"];
+
+calss1.push(...calss2);
+
+console.log(...calss1);
