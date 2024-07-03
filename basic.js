@@ -803,3 +803,30 @@ function aescendingSort(x, y){
 function print(element){
    console.log(element);
 }
+
+
+
+
+//45.arrow function = compact alternative to a traditional function
+   /*
+const greating = function(userName){
+   console.log(`Hello ${userName}`);
+}
+
+greating("Dan");
+   */
+      /*
+const greating = userName => console.log(`Hello ${userName}`);
+
+greating("Dan");     */
+
+   /*
+const percent = (x, y) => x / y * 100;
+
+console.log(`${percent(2, 10)}%`)
+                  */
+
+let grades = [100, 50, 90, 60, 80, 70];
+
+grades.sort((x, y) => x - y);
+grades.forEach((element) => console.log(element))
