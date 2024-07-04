@@ -845,3 +845,25 @@ function shuffle(array){
    return array;
 }
       
+
+
+
+//nested function = Functions inside other function
+//                  Inner functions are "hidden" from ourside
+
+let userName = "Dan";
+let userInbox = 0;
+
+login();
+
+function login(){
+   displayUserName();
+   displayInbox();
+
+   function displayUserName(){
+      console.log(`Welcome ${userName}`);
+   }
+   function displayInbox(){
+      console.log(`You have ${userInbox} new messages`)
+   }
+}
