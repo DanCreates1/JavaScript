@@ -867,3 +867,31 @@ function login(){
       console.log(`You have ${userInbox} new messages`)
    }
 }
+
+
+
+//Map = object that holds key-value pairs of any data type
+
+const store = new Map([
+   ["t-shirt", 20],
+   ["jeans", 30],
+   ["socks", 50],
+   ["underwear", 50]
+]);
+
+//get method
+store.get("t-shirt");
+
+//set method
+store.set("hat", 40);
+
+//delete method
+store.delete("hat");
+
+//has method
+console.log(store.has("underwear"));
+
+//size method
+console.log(store.size);
+
+store.forEach((value, key) => console.log(`${key} ${value}`))
