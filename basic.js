@@ -23,6 +23,7 @@ x = 200;
 console.log(x);
 
 
+
 //let age = 25;
 //let price = 100
 
