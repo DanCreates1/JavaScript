@@ -1065,3 +1065,30 @@ console.log(student3.name);
 console.log(student3.age);
 console.log(student3.gpa);
 student3.study();
+
+
+
+
+//static keyword = belongs to he class, not the objects
+//                 properties: useful for caches, fixed-configuration
+//                 methods:    uselful for utility functions
+
+class Car{
+
+   static numberOfCars = 0;
+   constructor(model){
+      this.model = model;
+      this.numberOfCars += 1;
+   }
+   static startRace(){
+      console.log("3...2...1...GO!");
+   }
+}
+
+const car1 = new Car("Mustang");
+const car2 = new Car("Nissan");
+const car3 = new Car("BMW");
+
+console.log(car1.numberOfCars);
+console.log(car2.numberOfCars);
+console.log(car3.numberOfCars);
