@@ -1092,3 +1092,70 @@ const car3 = new Car("BMW");
 console.log(car1.numberOfCars);
 console.log(car2.numberOfCars);
 console.log(car3.numberOfCars);
+
+
+
+// inheritance = a child can inherit all the 
+//               methods and properties from another calss
+
+class Animal{
+   alive = true;
+
+   eat(){
+      console.log(`${this.name} is eating`)
+   }
+   sleep(){
+      console.log(`This ${this.name} is sleeping`)
+   }
+}
+
+
+class Rabbit extends Animal{
+   name = "rabbit";
+
+   run(){
+      console.log(`This ${this.name} is runing`)
+   }
+} 
+
+class Fish extends Animal{
+   name = "fish";
+
+   swim(){
+      console.log(`This ${this.name} is swimming`)
+   }
+}
+
+class Hawk extends Animal{
+   name = "hawk";
+
+   fly(){
+      console.log(`This ${this.name} is flying`)
+   }
+}
+
+const rabbit = new Rabbit();
+const fish = new Fish();
+const hawk = new Hawk();
+
+
+
+
+console.log(`The rabbit is alive = ${rabbit.alive}`)
+rabbit.eat();
+rabbit.sleep();
+rabbit.run();
+
+console.log("-----------------------------------------");
+
+console.log(`The fish is alive = ${fish.alive}`)
+fish.eat();
+fish.sleep();
+fish.swim();
+
+console.log("-----------------------------------------");
+
+console.log(`The Hawk is alive = ${hawk.alive}`)
+hawk.eat();
+hawk.sleep();
+hawk.fly();
