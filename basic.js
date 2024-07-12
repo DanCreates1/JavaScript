@@ -1219,3 +1219,63 @@ console.log("----------------------------------------");
 console.log(hawk.name);
 console.log(hawk.age);
 console.log(hawk.flySpeed);
+
+
+
+//getter = special method that makes a property readable
+//setter = special method that makes a property writeable
+
+//validate and modify a value when reading/writing a property
+
+   /* function rectanlgeArea(widht, height){
+   x = widht * height 
+   console.log(x)
+}
+   */
+
+class Rectanlge{
+
+   constructor(widht, height){
+      this.widht = widht;
+      this.height = height;
+   }
+
+   set widht(newWidth){
+      if(newWidth > 0){
+         this._width = newWidth
+      }
+      else{
+         console.error("Width must be a postive number")
+      }
+   }
+
+   set height(newHeight){
+      if(newHeight > 0){
+         this._height = newHeight
+      }
+      else{
+         console.error("Height must be a postive number")
+      }
+   }
+
+   get widht(){
+      return `${this._width.toFixed(1)}cm`;
+   }
+
+   get height(){
+      return `${this._height.toFixed(1)}cm`;
+   }
+
+   get area(){
+      return `${(this.widht * this._height).toFixed(1)}cm^2`
+   } 
+}
+
+
+const rectanlge = new Rectanlge(5, 6);
+
+//rectanlgeArea(3, 4)
+
+console.log(rectanlge.widht);
+console.log(rectanlge.height);
+console.log(rectanlge.area);
