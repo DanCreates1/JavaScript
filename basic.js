@@ -1358,3 +1358,22 @@ console.log(person.firstName);
 console.log(person.lastName);
 console.log(person.fullName);
 console.log(person.age);
+
+
+// destructuring = extract values fromm arrays and objects,
+//                 then assign to varibles in a convenient way
+//                 [] = to perform array destructuring
+//                 {} = to perform object destructuring
+//                 5 examples
+
+//--------------- EXAMPLE 1 ----------------
+// SWAP THE VALUE OF TWO VARIABLES
+      
+let a = 1;
+let b = 2;
+
+[a, b] = [b, a];
+
+console.log(a);
+console.log(b);
+   
