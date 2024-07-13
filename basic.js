@@ -1299,3 +1299,62 @@ const percent = new person(420, 69, "pizza");
 console.log(percent.firstName);
 console.log(percent.lastName);
 console.log(percent.age);
+
+
+
+class Person {
+   constructor(firstName, lastName, age) {
+      this.firstName = firstName;
+      this.lastName = lastName;
+      this.age = age;
+   }
+
+   set firstName(newFirstName) {
+      if (typeof newFirstName === "string" && newFirstName.length > 0) {
+         this._firstName = newFirstName;
+      } else {
+         console.error("First name must be a non-empty string");
+      }
+   }
+
+
+   set lastName(newLastName) {
+      if (typeof newLastName === "string" && newLastName.length > 0) {
+         this._lastName = newLastName;
+      } else {
+         console.error("Last name must be a non-empty string");
+      }
+   }
+
+   set age(newAge){
+       if(typeof newAge === "number" && newAge >= 0){
+          this._age = newAge;
+      }
+      else{
+         console.error("Age must be a non-negative number");
+      }
+   }
+
+   get firstName() {
+      return "First name: " + this._firstName;
+   }
+
+   get lastName() {
+      return "Last name: " + this._lastName;
+   }
+
+   get fullName(){
+      return "Full name: " + this._firstName + " " + this._lastName;
+   }
+
+   get age(){
+      return "Age: " + this._age;
+   }
+}
+
+const person = new Person("John", "Doe", 26);
+
+console.log(person.firstName);
+console.log(person.lastName);
+console.log(person.fullName);
+console.log(person.age);
