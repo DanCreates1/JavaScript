@@ -1398,4 +1398,4 @@ const [firstColor, secondColor, thirdColor, ...exteraColors] = colors
 console.log(firstColor);
 console.log(secondColor);
 console.log(thirdColor);
-console.log(exteraColors)
+console.log(exteraColors);
