@@ -1273,3 +1273,29 @@ const rectangle = new Rectangle(5, 6);
 console.log(rectangle.width); 
 console.log(rectangle.height);
 console.log(rectangle.area); 
+
+
+
+class person{
+
+   constructor(firstName, lastName, age){
+      this.firstName = firstName;
+      this.lastName = lastName;
+      this.age = age;
+   }
+
+   set firstName(newFirstName){
+      if(typeof newFirstName === "string" && newFirstName.lenght > 0){
+         this._firstName = newFirstName;
+      }
+      else{
+         console.error("First name must be a non-empty string");
+      }
+   }
+}
+
+const percent = new person(420, 69, "pizza");
+
+console.log(percent.firstName);
+console.log(percent.lastName);
+console.log(percent.age);
