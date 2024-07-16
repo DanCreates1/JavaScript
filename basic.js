@@ -46,6 +46,7 @@ console.log(`your email is ${email}`);
 
 
 
+
 //Booleans
 //They are either true or false
 
