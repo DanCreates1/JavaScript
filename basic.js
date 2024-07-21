@@ -1437,3 +1437,30 @@ console.log(firstColor);
 console.log(secondColor);
 console.log(thirdColor);
 console.log(exteraColors);
+
+
+
+
+//--------------- EXAMPLE 5 ----------------
+// DESTRUCTURE IN FUNCTION PARAMETERS
+
+function displayPerson({firstName, lastName, age, job="Unemployed"}){
+   console.log(`Name: ${firstName} ${lastName}`)
+   console.log(`age: ${age}`)
+   console.log(`jog: ${job}`)
+}
+
+const person1 = {
+   firstName: "Spongebob",
+   lastName: "squarePants",
+   age: 30,
+   job: "Fry Cook",
+}
+
+const person2 = {
+   firstName: "Patrick",
+   lastName: "Star",
+   age: 30,
+}
+
+displayPerson(person1)
