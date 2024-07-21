@@ -1397,6 +1397,42 @@ const colors = ["red", "green", "blue", "black", "white"];
 
 const [firstColor, secondColor, thirdColor, ...exteraColors] = colors
 
+
+//--------------- EXAMPLE 4 ----------------
+// EXTRACT VALUES FROM OBJECTS
+
+const person1 = {
+   firstName: "Spongebob",
+   lastName: "squarePants",
+   age: 30,
+   job: "Fry Cook",
+}
+
+const person2 = {
+   firstName: "Patrick",
+   lastName: "Star",
+   age: 30,
+}
+/*
+const {firstName, lastName, age ,job="Unemployed"} = person1;
+
+console.log(person1);
+
+console.log(firstName);
+console.log(lastName);
+console.log(age);
+console.log(job);
+   */   
+
+const {firstName, lastName, age ,job="Unemployed"} = person2;
+
+console.log(person2);
+
+console.log(firstName);
+console.log(lastName);
+console.log(age);
+console.log(job);
+
 console.log(firstColor);
 console.log(secondColor);
 console.log(thirdColor);
