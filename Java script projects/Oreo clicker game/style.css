@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.level{
+    color: black;
+}
+
+h1{
+    text-align: center;
+    color: black;
+}
