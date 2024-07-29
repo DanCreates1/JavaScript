@@ -11,7 +11,6 @@ document.getElementById('submitButton').addEventListener('click', function() {
         
         inputBox.value = '';
 
-        // Add event listener to the task item to remove it when clicked
         taskItem.addEventListener('click', function() {
             taskList.removeChild(taskItem);
         });
