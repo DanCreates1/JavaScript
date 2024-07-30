@@ -1462,3 +1462,30 @@ const person2 = {
 }
 
 displayPerson(person1)
+
+
+//nested objects = Objects inside of other Objects.
+//                 Allows you to represent more complex data structures
+//                 child Objects is enclosed by a Parent Object
+
+//                 Person{Address{}, ContactInfo{}}
+//                 ShoppingCart{keyboard{}, Mouse{}, Monitor}
+
+
+const person = {
+   fullName: "Spongbob squardpants",
+   age:30,
+   isStudent: true,
+   hobbies: ["karate", "jellyfishing", "cooking"],
+   adress: {
+      street: "123 Conch St.",
+      city: "Bikini Bottom",
+      country: "Int. Water"
+   } 
+}
+
+
+console.log(person.fullName);
+console.log(person.age);
+console.log(person.isStudent);
+console.log(person.hobbies[2]);
