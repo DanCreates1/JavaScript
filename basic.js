@@ -1485,6 +1485,38 @@ const person = {
 }
 
 
+class Person{
+   constructor(name, age, ...adress){
+      this.name = name;
+      this.age = age;
+      this.adress = new Address(...adress);
+   }
+}
+
+class Address{
+
+   constructor(street, city, country){
+      this.street = street;
+      this.city = city;
+      this.country = country;
+   }
+}
+
+const person1 = new Person("Spongebob", 30, "124 Counch St.",
+                                            "Bikini Bottom",
+                                            "Int. Waters")
+
+const person2 = new Person("Patrick", 37, "128 Counch St.",
+                                          "Bikini Bottom",
+                                          "Int. Waters")
+                                          
+const person3 = new Person("Squidward", 35, "126 Counch St.",
+                                            "Bikini Bottom",
+                                            "Int. Waters")
+
+console.log(person3.adress)  
+
+
 console.log(person.fullName);
 console.log(person.age);
 console.log(person.isStudent);
