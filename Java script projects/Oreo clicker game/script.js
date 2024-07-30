@@ -29,6 +29,6 @@ function add(){
      }
 
      if(clicks >= 100){
-        document.getElementById("level").textContent = "Congrat you finished the game and wasted you time only for a nonsense game"
+        document.getElementById("level").textContent = "Congratulations you finished the game"
      }
 }
