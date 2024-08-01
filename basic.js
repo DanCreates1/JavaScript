@@ -1605,3 +1605,51 @@ const people = [
  
  console.log(people);
  
+
+
+
+
+ // Date objects = Objects the contain values that represent dates and times
+ //                These date objects can be changed and formatted
+
+const date = new Date();
+
+
+
+const year = date.getFullYear()
+const month = date.getMonth()
+const day = date.getDay()
+const hour = date.getHours()
+const minutes = date.getMinutes()
+const second = date.getSeconds()
+const milliseconds = date.getMilliseconds()
+
+
+console.log(date);
+console.log(year);
+console.log(month);
+console.log(day);
+console.log(hour);
+console.log(minutes);
+console.log(second);
+console.log(milliseconds);
+
+
+const date2 = new Date()
+
+date2.setFullYear(2020);
+date2.setMonth(6);
+date2.setDate(1);
+date2.setHours(2);
+date2.setMinutes(3);
+date2.setSeconds(4);
+
+console.log(date2);
+
+
+const Date1 = new Date("2023-12-31");
+const Date2 = new Date("2024-01-01");
+
+if(Date2 > Date1){
+   console.log("Happy new year")
+}
