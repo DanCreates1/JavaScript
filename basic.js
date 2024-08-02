@@ -1701,3 +1701,31 @@ counter.increment();
 counter.increment();
 
 console.log(`The current count is ${counter.getCount()}`);
+
+
+function createGame(){
+   let score = 0;
+
+   function increaseScore(points){
+      score += points;
+      console.log(`+${points}pts`);
+   }
+
+   function decreaseScore(points){
+      score -= points;
+      console.log(`-${points}pts`);
+   }
+   function getScore(){
+      return score;
+   }
+
+ return{increaseScore, decreaseScore, getScore}  
+}
+
+const game = createGame()
+
+game.increaseScore(3);
+game.increaseScore(1);
+game.decreaseScore(2)
+
+console.log(`your score is ${game.getScore()}`);
