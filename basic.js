@@ -1776,3 +1776,65 @@ function clearTimer() {
   </body>
 </html>
 */
+
+
+
+
+//Digital clock program
+
+function updateClock(){
+   const now = new Date();
+   let hours = now.getHours();
+   const meridim = hours >= 12 ? "PM" : "AM";
+   hours = hours % 12 || 12;
+   hours = hours.toString().padStart(2, 0);
+   const minutes = now.getMinutes().toString().padStart(2, 0);
+   const seconds = now.getSeconds().toString().padStart(2, 0);
+   const timeString = `${hours}:${minutes}:${seconds} ${meridim}`;
+   document.getElementById("clock").textContent = timeString;
+}
+
+updateClock()
+setInterval(updateClock, 1000);
+
+//html👇🏼
+/*
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>lol</title>
+  </head>
+  <body>
+    <div id="clock-container">
+      <div id="clock">00:00:00</div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
+*/
+
+//css👇🏼
+/*
+body{
+    margin: 0;
+}
+
+#clock-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    backdrop-filter: blur(10px);
+    height: 100vh;
+   
+}
+
+#clock{
+    font-family: monospace;
+    font-size: 6.5rem;
+    width: 100%; 
+}
+*/
