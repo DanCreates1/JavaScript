@@ -1725,6 +1725,10 @@ function createGame(){
 const game = createGame()
 
 game.increaseScore(3);
+game.increaseScore(1);
+game.decreaseScore(2)
+
+console.log(`your score is ${game.getScore()}`);
 
 
 
@@ -1772,14 +1776,3 @@ function clearTimer() {
   </body>
 </html>
 */
-
-
-
-
-
-
-
-game.increaseScore(1);
-game.decreaseScore(2)
-
-console.log(`your score is ${game.getScore()}`);
