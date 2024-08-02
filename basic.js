@@ -1725,6 +1725,60 @@ function createGame(){
 const game = createGame()
 
 game.increaseScore(3);
+
+
+
+
+
+
+
+
+
+
+// setTimeout() = function in JavaScript that allows you to schedule
+//                the execution of a function after an amount of time (millisecinds)
+//                Times are approximate
+//                (execution time may very based on the workload the JavaScript runtime env.)
+
+//                setTimeout(callback, dely);
+
+
+let timeoutID;
+
+function startTimer() {
+   timeoutID = setTimeout(() => window.alert("Hello"), 3000);
+   console.log("STARTED");
+}
+
+function clearTimer() {
+   clearTimeout(timeoutID);
+   console.log("CLEARED");
+}
+
+//HTML👇🏼
+/*
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>lol</title>
+  </head>
+  <body>
+    <button onclick="startTimer()">start</button>
+    <button onclick="clearTimer()">stop</button>
+    <script src="script.js"></script>
+  </body>
+</html>
+*/
+
+
+
+
+
+
+
 game.increaseScore(1);
 game.decreaseScore(2)
 
