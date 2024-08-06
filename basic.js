@@ -1927,6 +1927,83 @@ func1(func2);
 const userName = "Dan creates";
 const welcomeMsg = document.getElementById("Welcome-msg");
 
+
+
+
+//element selectors = Methods used to target and manipulate HTMl elemensts
+//                    They allow you to select one or multiple HTML elements
+//                    from the DOM (Document Object Model)
+
+// 1. document.getElementByID()        //ELEMENT OR NULL
+// 1. document.getElementByID()    // HTML COLLECTION
+// 3. document.getElementByTagName()   // ELEMENT OR NULL
+// 4. document.querySelector()         // ELEMENT OR NULL
+// 5. document.querySelectorAll        // NODELOST
+
+
+//--------2. document.getElementByID()----------------
+/*
+const myHeading = document.getElementById("my-heading");
+myHeading.style.backgroundColor = "yellow";
+myHeading.style.textAlign = "center"
+
+console.log(myHeading);
+            */
+
+
+//---------1. document.getElementByClassName()------------------
+/*
+ const fruits = document.getElementsByClassName("fruits");
+
+// fruits[1].style.backgroundColor = "yellow"
+
+for(let fruit of fruits){
+  fruit.style.backgroundColor = "yellow"
+
+}
+*/
+
+/*
+//---------3. document.getElementByTagName() ------------------
+
+const h4Elements = document.getElementsByTagName("h4");
+const liElements = document.getElementsByTagName("li");
+
+//h4Elements[0].style.backgroundColor = "yellow";
+
+for(let h4Element of h4Elements){
+   h4Element.style.backgroundColor = "yellow";
+}
+
+for(let liElement of liElements){
+   liElement.style.backgroundColor = "lightGreen"
+}
+     
+
+Array.from(h4Elements).forEach(h4Element =>{
+   h4Element.style.backgroundColor = "yellow"
+});
+
+Array.from(liElements).forEach(liElement =>{
+   liElement.style.backgroundColor = "lightGreen"
+});
+ */
+
+//---------4. document.querySelector() ------------------
+/*
+const element = document.querySelector("ol");
+console.log(element)
+//element.style.backgroundColor = "yellow";
+console.log(element);
+      */
+
+
+//----------------5. document.querySelectorAll-------------------
+const foods = document.querySelectorAll("li");
+
+foods.forEach(food => {
+   food.style.backgroundColor = "yellow";
+})
 welcomeMsg.textContent += userName === "" ? 'Guest' : userName
 
 //html👇🏼
