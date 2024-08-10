@@ -2198,3 +2198,78 @@ myBox.addEventListener("mouseout", event =>{
     text-align: center;
     align-items: center;
 }
+
+
+
+
+
+
+// eventListener = Listen for specific events to create interactive web pages
+//                 events: keydown, keyup
+//                 document.addEventListener(event, callback);
+
+const myBox = document.getElementById("myBox");
+const moveAmount = 10;
+let x = 0;
+let y = 0;
+
+document.addEventListener("keydown", event => {
+
+   if(event.key.startsWith("Arrow")){
+
+      switch(event.key){
+         case"ArrowUp":
+            y -= moveAmount;
+            break;
+         case "ArrowDown":
+            y += moveAmount;
+            break;
+         case "ArrowLeft":
+            x -= moveAmount;
+            break;
+         case "ArrowRight":
+            x += moveAmount;
+            break;
+      }
+      myBox.style.top = `${y}px`
+      myBox.style.left = `${x}px`
+   }
+})
+
+document.addEventListener("keydown", event => {
+   myBox.textContent = "😮";
+   myBox.style.backgroundColor =  "tomato"
+});
+
+document.addEventListener("keyup", event => {
+   myBox.textContent = "😁";
+   myBox.style.backgroundColor =  "lightBlue"
+});
+
+//HTML👇🏼
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>JavaScript</title>
+  </head>
+  <body>
+
+    <div id="myBox">😁</div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+//CSS
+#myBox{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    font-size: 7.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
