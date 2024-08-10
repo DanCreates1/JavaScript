@@ -2144,3 +2144,57 @@ document.getElementById("box1").removeChild(newH1);
     <script src="script.js"></script>
   </body>
 </html>
+
+
+
+
+
+
+//eventListener = Listen for specific events to create interacive web pages
+//                events: click, mouseover, mouseout
+//                .addEventListener(event, callback);
+
+const myBox = document.getElementById("myBox");
+
+
+myBox.addEventListener("click", function(event){
+   event.target.style.backgroundColor = "tomato";
+   event.target.textContent = "Ouch💀!";
+});
+
+myBox.addEventListener("mouseover", event =>{
+   event.target.style.backgroundColor = "yellow";
+   event.target.textContent = "Don't do it😭";
+});
+
+myBox.addEventListener("mouseout", event =>{
+   event.target.style.backgroundColor = "lightGreen";
+   event.target.textContent = "Click Me😁";
+});
+
+//HTML👇🏼
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>JavaScript</title>
+  </head>
+  <body>
+  <div id="myBox">Click Me 😁</div>
+    <script src="script.js"></script>
+  </body>
+</html>
+
+//CSS👇🏼
+#myBox{
+    background-color: lightgreen;
+    width: 300px;
+    height: 300px;
+    font-size: 4.5rem;
+    font-weight: bold;
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
