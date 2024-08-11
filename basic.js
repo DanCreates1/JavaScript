@@ -2273,3 +2273,46 @@ document.addEventListener("keyup", event => {
     align-items: center;
     position: relative;
 }
+
+
+
+
+//65
+//Hide/show
+const myButton = document.getElementById("myButton");
+const myImg = document.getElementById("myImg");
+
+myButton.addEventListener("click", event => {
+
+   if(myImg.style.visibility === "hidden"){
+      myImg.style.visibility = "visible";
+      myButton.textContent = "Hide"
+   }
+   else{
+   myImg.style.visibility = "hidden";
+   myButton.textContent = "Show"
+   }
+});
+
+//HTML👇🏼
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>JavaScript</title>
+  </head>
+  <body>
+
+<img src="Gtr.png" id="myImg"><br>
+<button id="myButton">Hide</button><br>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+//CSS👇🏼
+#myButton{
+    font-size: 3rem;
+}
