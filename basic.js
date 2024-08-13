@@ -2378,3 +2378,32 @@ buttons.forEach(button => {
       console.log(buttons);
    });
 });
+//HTML👇🏼
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>JavaScript</title>
+  </head>
+  <body>
+    <button class="myButtons">Button 1</button>
+    <button class="myButtons">Button 2</button>
+    <button class="myButtons">Button 3</button>
+    <button class="myButtons">Button 4</button>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
+//CSS`👇🏼
+.myButtons{
+    font-size: 4rem;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    background-color: hsl(205, 100%, 60%);
+    color: white;
+}
