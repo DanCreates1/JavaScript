@@ -2407,3 +2407,112 @@ buttons.forEach(button => {
     background-color: hsl(205, 100%, 60%);
     color: white;
 }
+
+
+//67
+//classList = Element property in JavaScript used to interact
+//            with an element's list of classes (CSS classes)
+//            Allows you to make reusable classes for many elements
+//            across your webpage
+
+// add()
+// remove()
+// toggle(rempve if present, add if not)
+// replace(oldClass, newClass)
+// contains()
+
+//const myButton = document.getElementById("myButton");
+
+//myButton.classList.add("enabled");
+//myButton.classList.remove("enabled");
+/*
+myButton.addEventListener("mouseover", event => {
+      myButton.classList.add("hover")
+});
+
+myButton.addEventListener("mouseout", event => {
+   myButton.classList.remove("hover")
+});
+//you can replace the .add and .remove function with the toggle function it will do the same thing
+
+
+const myH1 = document.getElementById("myH1");
+const myButton = document.getElementById("myButton");
+
+myH1.classList.add("enabled");
+myButton.classList.add("enabled");
+
+myH1.addEventListener("click", event => {
+
+   if(event.target.classList.contains("disabled")){
+      event.target.textContent += "🤬";
+   }
+   else{
+      event.target.classList.replace("enabled", "disabled");
+   }
+});
+   //HTML for 👆🏼
+   <h1 id="myH1">Hello</h1>
+    <button id="myButton">My Button</button>
+    */
+
+
+
+
+let buttons = document.querySelectorAll(".myButtons");
+
+buttons.forEach(button => {
+   button.classList.add("enabled");
+});
+
+buttons.forEach(button =>{
+   button.addEventListener("mouseover", event => {
+      event.target.classList.toggle("hover");
+   });
+});
+
+buttons.forEach(button =>{
+   button.addEventListener("mouseout", event => {
+      event.target.classList.toggle("hover");
+   });
+});
+
+buttons.forEach(button => {
+   button.addEventListener("click", event => {
+      if(event.target.classList.contains("disabled")){
+         event.target.textContent += "🤬";
+      }
+      else{
+         event.target.classList.replace("enabled", "disabled");
+      }
+      
+   });
+});
+//html👇🏼
+<button class="myButtons">Button 1</button>
+<button class="myButtons">Button 2</button>
+<button class="myButtons">Button 3</button>
+<button class="myButtons">Button 4</button>
+//CSS👇🏼
+.myButtons{
+   font-size: 4rem;
+   margin: 10px;
+   border: none;
+   border-radius: 5px;
+   padding: 10px 15px;
+}
+
+.enabled{
+   background-color: hsl(204, 100%, 50%);
+   color: white;
+}
+
+.hover{
+   box-shadow: 0 0 10px black;
+   font-weight: bold;
+}
+
+.disabled{
+   background-color: hsl(0, 0%, 60%);
+   color: hsl(0, 0%, 80%);
+}
