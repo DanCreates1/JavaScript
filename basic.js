@@ -2635,3 +2635,87 @@ walkDog().then( value => {console.log(value); return cleanKitchen()})
          .then(value => {console.log(value); return takeOutTrash()})
          .then(value => {console.log(value); console.log("you finshed all the tasks")})
          .catch(error => console.error(error));
+
+
+
+
+
+
+// Async/Await = Async = makes a function return a promise
+//               Await = makes an async function wait for a promise
+
+
+//               Allows you write asynchronous code in a synchronous manner
+//               Async dosen't have resolve or reject parameters
+//               Everything after Await is placed in an event queue
+
+// 1. WALK THE DOG
+// 2. CLEAN THE KITCHEN
+// 3. TAKE OUT THE TRASH 
+
+function walkDog(){
+
+   
+   return new Promise((resolve, reject) => {
+      setTimeout(() => {
+
+         const dogwalked =true;
+         if(dogwalked){
+            resolve("you walk the dog");
+         }
+         else{
+            reject("you didn't walk the dog");
+         }
+         
+      }, 1500);
+   })
+}
+
+function cleanKitchen(){
+   return new Promise((resolve, reject) => {
+      setTimeout(() => {
+
+         const kitchenCleaned = false;
+
+         if(kitchenCleaned){
+         resolve("you clean the kitchen");
+         }
+         else{
+         reject("you didn't clean the kitchen")
+         }
+      }, 2500)
+   })
+}
+
+function takeOutTrash(){
+   return new Promise((resolve, reject) => {
+      setTimeout(() => {
+         const trashTakenOut = true;
+         if(trashTakenOut){
+            resolve("you take outh the trash");
+         }
+         else{
+            reject("you didn't take out the trash")
+         }
+         
+      }, 1500)
+   })
+}
+
+async function doChores(){
+   try{
+   const walkDogResult = await walkDog();
+   console.log(walkDogResult);
+
+   const cleanKitchenResult = await cleanKitchen();
+   console.log(cleanKitchenResult);
+   
+   const takeOutTrashResult = await takeOutTrash();
+   console.log(takeOutTrashResult);
+   }
+   catch(error){
+      console.error(error)
+   }
+}
+
+doChores()
