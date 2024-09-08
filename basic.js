@@ -11,6 +11,7 @@ let price = 100
 console.log(typeof price);
 
 
+
 // variable = A container that stores a value
 
 // First declaration    let x;
