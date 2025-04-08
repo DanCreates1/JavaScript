@@ -1,6 +1,6 @@
 this is where i put the plans for the project
 use this to go to the directory:
-cd JavaScript/"Java script projects"/cars
+cd JavaScript/"Java script projects"/cars npm start
 
 TASKS:
     1. create the carFlashCard.jsx
