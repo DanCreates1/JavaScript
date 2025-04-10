@@ -1,22 +1,23 @@
 import './App.css';
 import React from 'react';
-import carFlashCar from './Components/carFlashCard';
+import Car from './Components/Car.jsx';
+import carData from './CarsData.js';
 
 
 function App() {
   
   const [cars, setCars] = React.useState()
 
-  const carElement = cars.map((car) => {
+  const carElement = carData.map((car) => {
     return (
-      <carFlashCar />
+      <Car Image={carData.Image}  />
     )
   }
   )
   
   return (
     <main>
-      {}
+      {carElement}
     </main>
   );
 }
