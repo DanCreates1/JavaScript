@@ -1,20 +1,21 @@
-export default function carFlahcard(props) {
+export default function Car(props) {
     return(
-        <div className="carFlashcard">
-            <img src={props.Image} alt={props.Name} />
-            <h2>{props.Name}</h2>
-            <br />
-            <p>Price: {props.Price}</p>
-            <p>Engine: {props.Engine}</p>
-            <p>Horsepower: {props.Horsepower}</p>
-            <p>Torque: {props.Torque}</p>
-            <p>Top Speed: {props.TopSpeed}</p>
-            <p>0-60 mph: {props.to60} seconds</p>
-            <p>Weight: {props.Weight} lbs</p>
-            <p>Fuel Economy: {props.FuelEconomy} mpg</p>
-            <p>Transmission: {props.Transmission}</p>
-            <p>Drivetrain: {props.Drivetrin}</p>
-            <p>Description: {props.Description}</p>
+        <div class="car-card">
+        <img src={props.Image}  class="car-image"/>
+        <div class="car-details">
+        <h2>Name: {props.Name}</h2>
+        <p><strong>Price:</strong> {props.Price}</p>
+        <p><strong>Engine:</strong> {props.Engine}</p>
+        <p><strong>Horsepower:</strong> {props.Horsepower}</p>
+        <p><strong>Torque:</strong> {props.Torque}</p>
+        <p><strong>Top Speed:</strong>{props.TopSpeed}</p>
+        <p><strong>0-60 mph:</strong>{props.to60}</p>
+        <p><strong>Weight:</strong>{props.Weight}</p>
+        <p><strong>Fuel Economy:</strong> {props.FuelEconomy}</p>
+        <p><strong>Transmission:</strong> {props.Transmission}</p>
+        <p><strong>Drivetrain:</strong> {props.Drivetrin}</p>
+        <p><strong>Description:</strong> {props.Description}</p>
+        </div>
         </div>
     )
 }

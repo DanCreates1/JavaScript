@@ -1,0 +1,31 @@
+.car-card {
+    display: flex;
+    flex-direction: row;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    margin: 20px auto;
+    max-width: 900px;
+    background: #ffffff;
+  }
+  
+  .car-image {
+    width: 300px;
+    object-fit: cover;
+  }
+  
+  .car-details {
+    padding: 20px;
+    flex-grow: 1;
+  }
+  
+  .car-details h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  .car-details p {
+    margin: 6px 0;
+    color: #555;
+  }
+  
