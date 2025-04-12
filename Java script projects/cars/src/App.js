@@ -10,7 +10,7 @@ function App() {
 
   const carElement = carData.map((car) => {
     return (
-      <Car Image={carData.Image}  />
+      <Car Image={car.Image}  Name={car.Name} Price={car.Price} />
     )
   }
   )
