@@ -10,6 +10,10 @@ TASKS:
     5. pull the image from th api proccese the .env file and map over the data
     6. find an API that reuturns only car images 
 
+For later:
+You can also pass this value using a client_id query parameter:
+https://api.unsplash.com/photos/?client_id=YOUR_ACCESS_KEY
+
 
 DB/flashcard contents:
     Image(API pull)

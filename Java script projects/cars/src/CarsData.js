@@ -1,3 +1,40 @@
+/*
+    The G.O.A.T. (Greatest Of All Time) of cars
+    This is a list of the greatest cars of all time. This is not a 
+    list of the best cars, but rather a list of the most iconic and influential 
+    cars in history. This is a work in progress and will be updated as new cars are added to the list.
+
+    This is gonna be used for the legend
+
+1. Japan
+    Nissan
+    Toyota
+    Honda
+    Subaru
+    Mazda
+    Suzuki
+    Lexus
+
+2. Germany
+
+    BMW
+    Mercedes-Benz
+    Audi
+    Volkswagen
+    Porsche
+    
+
+
+*/
+
+
+
+
+
+
+
+
+
 
 export default [
     {
