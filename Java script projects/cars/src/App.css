@@ -1,6 +1,9 @@
 *{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 }
+body{
+  background: #919191;
+}
 .car-card {
     display: flex;
     flex-direction: row;
@@ -9,7 +12,7 @@
     overflow: hidden;
     margin: 20px auto;
     max-width: 900px;
-    background: #ffffff;
+    background: #b9b9b9;
   }
   
   .car-image {
