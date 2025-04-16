@@ -1,207 +1,229 @@
 /*
-    The G.O.A.T. (Greatest Of All Time) of cars
-    This is a list of the greatest cars of all time. This is not a 
-    list of the best cars, but rather a list of the most iconic and influential 
-    cars in history. This is a work in progress and will be updated as new cars are added to the list.
+ The G.O.A.T. (Greatest Of All Time) of Cars
+This list includes some of the most iconic, influential, and greatest cars in history, not necessarily the best in performance, but the most legendary. This will be updated as new cars are added.
 
-    This is gonna be used for the legend
+---
 
-1. Japan
-    Nissan
-        Gtr R35
-        Gtr R34
-        Gtr R33
-        Gtr R32
-        Z350
-        Z370
+ 1. Japan
 
-    Toyota
-        Supra
-        GR86
-    
-    Honda
-        Civic Type R
-        NSX
-        S2000
-        Integra Type R
-        Accord Type R
+### Nissan
+- GT-R R35
+- GT-R R34
+- GT-R R33
+- GT-R R32
+- Z350
+- Z370
 
-    Subaru
-        WRX STI
-        WRX
-        BRZ
-        Legacy GT
-    Mazda
-        RX7
-        RX8
-        MX5 Miata
+### Toyota
+- Supra
+- GR86
 
-    Lexus
-        LFA
-        LC500
-        ISF
-        GSF
+### Honda
+- Civic Type R
+- NSX
+- S2000
+- Integra Type R
+- Accord Type R
 
-2. Germany
-    BMW
-        M3
-        M4
-        M5
-        M6
-        M8
-        X5M
-        X6M
-        Z4M
+### Subaru
+- WRX STI
+- WRX
+- BRZ
+- Legacy GT
 
-    Mercedes-Benz
-        AMG GT
-        C63 AMG
-        E63 AMG
-        SLS AMG
-        SLR McLaren
-        G63 AMG
-        G65 AMG
-        G65 AMG 6x6
-        G-Class
-        G-Wagon
+### Mazda
+- RX7
+- RX8
+- MX5 Miata
 
-    Audi
-        R8
-        RS7
-        RS6
+### Lexus
+- LFA
+- LC500
+- ISF
+- GSF
 
-    Porsche
-        911
-        911 Turbo S
-        911 GT3
-        911 GT3 RS
-        911 GT2 RS
-        911 Carrera GTS
-        911 Targa 4 GTS
-        911 S/T
-        911 Sport Classic
-        918 Spyder
-        Cayman GT4
-        718 Cayman GT4 RS
-        718 Cayman GTS 4.0
-        718 Boxster GTS 4.0
-        718 Spyder
-        Panamera Turbo S
-    
-3. france
-    Bugatti
-        Veyron
-        Chiron
-        Divo
-        Centodieci
-        Bolide
+---
 
-4. Italy
-    Ferrari
-        F40
-        F50
-        LaFerrari
-        488 Pista
-        812 Superfast
-        SF90 Stradale
+## 2. Germany
 
-    Lamborghini
-        Lamborghini
-        Aventador SVJ
-        Huracán STO
-        Revuelto
-        Sesto Elemento
-        Centenario
-        Veneno
-        Sián FKP 37
+### BMW
+- M3
+- M4
+- M5
+- M6
+- M8
+- X5M
+- X6M
+- Z4M
 
-    Maserati
-        MC20
-        MC12
-        GranTurismo Trofeo
-        GranTurismo MC Stradale
-        GranCabrio Sport
+### Mercedes-Benz
+- AMG GT
+- C63 AMG
+- E63 AMG
+- SLS AMG
+- SLR McLaren
+- G63 AMG
+- G65 AMG
+- G65 AMG 6x6
+- G-Class
+- G-Wagon
 
-    Alfa Romeo
-        Alfa Romeo
-        8C Competizione
-        8C Spider
-        4C
-        4C Spider
-        Giulia Quadrifoglio
-        Giulia GTA
-        Giulia GTAm
+### Audi
+- R8
+- RS7
+- RS6
 
-    Pagani
-        Huayra
-        Huayra Roadster
-        Huayra BC
-        Huayra BC Roadster
-        Zonda
-        Zonda F
-        Zonda R
-        Zonda S
-        Zonda Cinque
-        Zonda 760
+### Porsche
+- 911
+- 911 Turbo S
+- 911 GT3
+- 911 GT3 RS
+- 911 GT2 RS
+- 911 Carrera GTS
+- 911 Targa 4 GTS
+- 911 S/T
+- 911 Sport Classic
+- 918 Spyder
+- Cayman GT4
+- 718 Cayman GT4 RS
+- 718 Cayman GTS 4.0
+- 718 Boxster GTS 4.0
+- 718 Spyder
+- Panamera Turbo S
 
-5. USA
-    Ford
-        Mustang GT
-        Mustang Shelby GT500
-        Mustang Mach 1
-        Ford GT
-        Ford GT40
+---
 
-    ChevroletChevrolet
-        Corvette Stingray
-        Corvette Z06
-        Corvette ZR1
-        Corvette C8
-        Camaro SS
-        Camaro ZL1
+## 3. France
 
-    Dodge
-        Challenger SRT Hellcat
-        Challenger SRT Demon
-        Challenger Super Stock
-        Viper ACR
-        Viper GTS
+### Bugatti
+- Veyron
+- Chiron
+- Divo
+- Centodieci
+- Bolide
 
-    Cadillac
-        CTS-V
-        CT5-V Blackwing
-        XLR-V
-        Escalade-V (performance version)
+---
 
+## 4. Italy
 
-6. UK
-    Aston Martin
-        Vantage
-        Vantage S
-        Vantage AMR
-        DB11
-        DBS Superleggera
-        Vanquish
-        One-77
-        DB9
-        Aston Martin Valhalla
+### Ferrari
+- F40
+- F50
+- LaFerrari
+- 488 Pista
+- 812 Superfast
+- SF90 Stradale
 
-    Rolls-Royce
-        Wraith
-        Dawn
-        Ghost
-        Cullinan
-        Spectre
+### Lamborghini
+- Aventador SVJ
+- Huracán STO
+- Revuelto
+- Sesto Elemento
+- Centenario
+- Veneno
+- Sián FKP 37
 
-    Jaguar
-        F-Type
-        F-Type R
-        F-Type SVR
-        XE SV Project 8
-        XKR-S
-        XJ220
+### Maserati
+- MC20
+- MC12
+- GranTurismo Trofeo
+- GranTurismo MC Stradale
+- GranCabrio Sport
 
-    McLaren 
+### Alfa Romeo
+- 8C Competizione
+- 8C Spider
+- 4C
+- 4C Spider
+- Giulia Quadrifoglio
+- Giulia GTA
+- Giulia GTAm
+
+### Pagani
+- Huayra
+- Huayra Roadster
+- Huayra BC
+- Huayra BC Roadster
+- Zonda
+- Zonda F
+- Zonda R
+- Zonda S
+- Zonda Cinque
+- Zonda 760
+
+---
+
+## 5. USA
+
+### Ford
+- Mustang GT
+- Mustang Shelby GT500
+- Mustang Mach 1
+- Ford GT
+- Ford GT40
+
+### Chevrolet
+- Corvette Stingray
+- Corvette Z06
+- Corvette ZR1
+- Corvette C8
+- Camaro SS
+- Camaro ZL1
+
+### Dodge
+- Challenger SRT Hellcat
+- Challenger SRT Demon
+- Challenger Super Stock
+- Viper ACR
+- Viper GTS
+
+### Cadillac
+- CTS-V
+- CT5-V Blackwing
+- XLR-V
+- Escalade-V (performance version)
+
+---
+
+## 6. UK
+
+### Aston Martin
+- Vantage
+- Vantage S
+- Vantage AMR
+- DB11
+- DBS Superleggera
+- Vanquish
+- One-77
+- DB9
+- Aston Martin Valhalla
+
+### Rolls-Royce
+- Wraith
+- Dawn
+- Ghost
+- Cullinan
+- Spectre
+
+### Jaguar
+- F-Type
+- F-Type R
+- F-Type SVR
+- XE SV Project 8
+- XKR-S
+- XJ220
+
+### McLaren
+- P1
+- 720S
+- 765LT
+- 570S
+- 570GT
+- Artura
+- McLaren Sabre
+- McLaren Elva
+- McLaren Speedtail
+- McLaren F1
 */
 
 
