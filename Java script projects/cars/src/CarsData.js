@@ -132,7 +132,18 @@
         Giulia GTA
         Giulia GTAm
 
-    pagani
+    Pagani
+        Huayra
+        Huayra Roadster
+        Huayra BC
+        Huayra BC Roadster
+        Zonda
+        Zonda F
+        Zonda R
+        Zonda S
+        Zonda Cinque
+        Zonda 760
+
 
 
 5. USA
