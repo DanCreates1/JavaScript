@@ -284,5 +284,5 @@ export default [
                       Its aggressive styling, sporty suspension, and advanced technology create a thrilling driving experience. 
                       Inside, the X5 M offers a luxurious and spacious cabin with premium materials and cutting-edge infotainment features, 
                       making it a perfect blend of performance and comfort for enthusiasts and families alike.`
-    }
+    },
 ];
