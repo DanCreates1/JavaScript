@@ -8,21 +8,136 @@
 
 1. Japan
     Nissan
+        Gtr R35
+        Gtr R34
+        Gtr R33
+        Gtr R32
+        Z350
+        Z370
+
     Toyota
+        Supra
+        GR86
+    
     Honda
+        Civic Type R
+        NSX
+        S2000
+        Integra Type R
+        Accord Type R
+
     Subaru
+        WRX STI
+        WRX
+        BRZ
+        Legacy GT
     Mazda
-    Suzuki
+        RX7
+        RX8
+        MX5 Miata
+
     Lexus
+        LFA
+        LC500
+        ISF
+        GSF
 
 2. Germany
     BMW
-    Mercedes-Benz
-    Audi
-    Volkswagen
-    Porsche
-    
+        M3
+        M4
+        M5
+        M6
+        M8
+        X5M
+        X6M
+        Z4M
 
+    Mercedes-Benz
+        AMG GT
+        C63 AMG
+        E63 AMG
+        SLS AMG
+        SLR McLaren
+        G63 AMG
+        G65 AMG
+        G65 AMG 6x6
+        G-Class
+        G-Wagon
+
+    Audi
+        R8
+        RS7
+        RS6
+
+    Porsche
+        911
+        911 Turbo S
+        911 GT3
+        911 GT3 RS
+        911 GT2 RS
+        911 Carrera GTS
+        911 Targa 4 GTS
+        911 S/T
+        911 Sport Classic
+        918 Spyder
+        Cayman GT4
+        718 Cayman GT4 RS
+        718 Cayman GTS 4.0
+        718 Boxster GTS 4.0
+        718 Spyder
+        Panamera Turbo S
+    
+3. france
+    Bugatti
+        Veyron
+        Chiron
+        Divo
+        Centodieci
+        Bolide
+
+4. Italy
+    Ferrari
+        F40
+        F50
+        LaFerrari
+        488 Pista
+        812 Superfast
+        SF90 Stradale
+
+    Lamborghini
+        Lamborghini
+        Aventador SVJ
+        Huracán STO
+        Revuelto
+        Sesto Elemento
+        Centenario
+        Veneno
+        Sián FKP 37
+
+    Maserati
+        MC20
+        MC12
+        GranTurismo Trofeo
+        GranTurismo MC Stradale
+        GranCabrio Sport
+
+    Alfa Romeo
+        Giulia Quadrifoglio
+    pagani
+
+
+5. USA
+    Ford
+    Chevrolet
+    Dodge
+    Cadillac
+
+6. UK
+    Aston Martin
+    Rolls Royce
+    Jaguar
+    McLaren 
 */
 
 
