@@ -186,8 +186,21 @@
         DB9
         Aston Martin Valhalla
 
-    Rolls Royce
+    Rolls-Royce
+        Wraith
+        Dawn
+        Ghost
+        Cullinan
+        Spectre
+
     Jaguar
+        F-Type
+        F-Type R
+        F-Type SVR
+        XE SV Project 8
+        XKR-S
+        XJ220
+
     McLaren 
 */
 
