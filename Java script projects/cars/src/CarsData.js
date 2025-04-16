@@ -123,7 +123,15 @@
         GranCabrio Sport
 
     Alfa Romeo
+        Alfa Romeo
+        8C Competizione
+        8C Spider
+        4C
+        4C Spider
         Giulia Quadrifoglio
+        Giulia GTA
+        Giulia GTAm
+
     pagani
 
 
