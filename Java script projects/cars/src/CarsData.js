@@ -152,9 +152,27 @@
         Ford GT
         Ford GT40
 
-    Chevrolet
+    ChevroletChevrolet
+        Corvette Stingray
+        Corvette Z06
+        Corvette ZR1
+        Corvette C8
+        Camaro SS
+        Camaro ZL1
+
     Dodge
+        Challenger SRT Hellcat
+        Challenger SRT Demon
+        Challenger Super Stock
+        Viper ACR
+        Viper GTS
+
     Cadillac
+        CTS-V
+        CT5-V Blackwing
+        XLR-V
+        Escalade-V (performance version)
+
 
 6. UK
     Aston Martin
