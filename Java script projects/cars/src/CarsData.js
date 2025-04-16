@@ -6,90 +6,90 @@ This list includes some of the most iconic, influential, and greatest cars in hi
 
  1. Japan
 
-### Nissan
-- GT-R R35
-- GT-R R34
-- GT-R R33
-- GT-R R32
-- Z350
-- Z370
+Nissan
+    GT-R R35
+    GT-R R34
+    GT-R R33
+    GT-R R32
+    Z350
+    Z370
 
-### Toyota
-- Supra
-- GR86
+Toyota
+    Supra
+    GR86
 
-### Honda
-- Civic Type R
-- NSX
-- S2000
-- Integra Type R
-- Accord Type R
+Honda
+    Civic Type R
+    NSX
+    S2000
+    Integra Type R
+    Accord Type R
 
 ### Subaru
-- WRX STI
-- WRX
-- BRZ
-- Legacy GT
+    WRX STI
+    WRX
+    BRZ
+    Legacy GT
 
 ### Mazda
-- RX7
-- RX8
-- MX5 Miata
+    RX7
+    RX8
+    MX5 Miata
 
 ### Lexus
-- LFA
-- LC500
-- ISF
-- GSF
+    LFA
+    LC500
+    ISF
+    GSF
 
 ---
 
 ## 2. Germany
 
 ### BMW
-- M3
-- M4
-- M5
-- M6
-- M8
-- X5M
-- X6M
-- Z4M
+    M3
+    M4
+    M5
+    M6
+    M8
+    X5M
+    X6M
+    Z4M
 
 ### Mercedes-Benz
-- AMG GT
-- C63 AMG
-- E63 AMG
-- SLS AMG
-- SLR McLaren
-- G63 AMG
-- G65 AMG
-- G65 AMG 6x6
-- G-Class
-- G-Wagon
+    AMG GT
+    C63 AMG
+    E63 AMG
+    SLS AMG
+    SLR McLaren
+    G63 AMG
+    G65 AMG
+    G65 AMG 6x6
+    G-Class
+    G-Wagon
 
 ### Audi
-- R8
-- RS7
-- RS6
+    R8
+    RS7
+    RS6
 
 ### Porsche
-- 911
-- 911 Turbo S
-- 911 GT3
-- 911 GT3 RS
-- 911 GT2 RS
-- 911 Carrera GTS
-- 911 Targa 4 GTS
-- 911 S/T
-- 911 Sport Classic
-- 918 Spyder
-- Cayman GT4
-- 718 Cayman GT4 RS
-- 718 Cayman GTS 4.0
-- 718 Boxster GTS 4.0
-- 718 Spyder
-- Panamera Turbo S
+    911
+    911 Turbo S
+    911 GT3
+    911 GT3 RS
+    911 GT2 RS
+    911 Carrera GTS
+    911 Targa 4 GTS
+    911 S/T
+    911 Sport Classic
+    918 Spyder
+    Cayman GT4
+    718 Cayman GT4 RS
+    718 Cayman GTS 4.0
+    718 Boxster GTS 4.0
+    718 Spyder
+    Panamera Turbo S
 
 ---
 
