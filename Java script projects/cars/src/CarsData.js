@@ -25,18 +25,18 @@ Honda
     Integra Type R
     Accord Type R
 
-### Subaru
+Subaru
     WRX STI
     WRX
     BRZ
     Legacy GT
 
-### Mazda
+Mazda
     RX7
     RX8
     MX5 Miata
 
-### Lexus
+Lexus
     LFA
     LC500
     ISF
@@ -46,7 +46,7 @@ Honda
 
 ## 2. Germany
 
-### BMW
+BMW
     M3
     M4
     M5
@@ -56,7 +56,7 @@ Honda
     X6M
     Z4M
 
-### Mercedes-Benz
+Mercedes-Benz
     AMG GT
     C63 AMG
     E63 AMG
@@ -68,12 +68,12 @@ Honda
     G-Class
     G-Wagon
 
-### Audi
+Audi
     R8
     RS7
     RS6
 
-### Porsche
+Porsche
     911
     911 Turbo S
     911 GT3
@@ -95,7 +95,7 @@ Honda
 
 ## 3. France
 
-### Bugatti
+Bugatti
     Veyron
     Chiron
     Divo
@@ -106,7 +106,7 @@ Honda
 
 ## 4. Italy
 
-### Ferrari
+Ferrari
     F40
     F50
     LaFerrari
@@ -114,7 +114,7 @@ Honda
     812 Superfast
     SF90 Stradale
 
-### Lamborghini
+Lamborghini
     Aventador SVJ
     Huracán STO
     Revuelto
@@ -123,14 +123,14 @@ Honda
     Veneno
     Sián FKP 37
 
-### Maserati
+Maserati
     MC20
     MC12
     GranTurismo Trofeo
     GranTurismo MC Stradale
     GranCabrio Sport
 
-### Alfa Romeo
+Alfa Romeo
     8C Competizione
     8C Spider
     4C
@@ -139,7 +139,7 @@ Honda
     Giulia GTA
     Giulia GTAm
 
-### Pagani
+Pagani
     Huayra
     Huayra Roadster
     Huayra BC
@@ -155,14 +155,14 @@ Honda
 
 ## 5. USA
 
-### Ford
+Ford
     Mustang GT
     Mustang Shelby GT500
     Mustang Mach 1
     Ford GT
     Ford GT40
 
-### Chevrolet
+Chevrolet
     Corvette Stingray
     Corvette Z06
     Corvette ZR1
@@ -170,14 +170,14 @@ Honda
     Camaro SS
     Camaro ZL1
 
-### Dodge
+Dodge
     Challenger SRT Hellcat
     Challenger SRT Demon
     Challenger Super Stock
     Viper ACR
     Viper GTS
 
-### Cadillac
+Cadillac
     CTS-V
     CT5-V Blackwing
     XLR-V
@@ -185,9 +185,9 @@ Honda
 
 ---
 
-## 6. UK
+6. UK
 
-### Aston Martin
+Aston Martin
     Vantage
     Vantage S
     Vantage AMR
@@ -198,14 +198,14 @@ Honda
     DB9
     Aston Martin Valhalla
 
-### Rolls-Royce
+Rolls-Royce
     Wraith
     Dawn
     Ghost
     Cullinan
     Spectre
 
-### Jaguar
+Jaguar
     F-Type
     F-Type R
     F-Type SVR
@@ -213,7 +213,7 @@ Honda
     XKR-S
     XJ220
 
-### McLaren
+McLaren
     P1
     720S
     765LT
