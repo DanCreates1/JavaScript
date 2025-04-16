@@ -176,6 +176,16 @@
 
 6. UK
     Aston Martin
+        Vantage
+        Vantage S
+        Vantage AMR
+        DB11
+        DBS Superleggera
+        Vanquish
+        One-77
+        DB9
+        Aston Martin Valhalla
+
     Rolls Royce
     Jaguar
     McLaren 
