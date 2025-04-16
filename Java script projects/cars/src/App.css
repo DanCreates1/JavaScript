@@ -3,6 +3,7 @@
 }
 body{
   background: #919191;
+  display: inline-block;
 }
 .car-card {
     display: flex;
