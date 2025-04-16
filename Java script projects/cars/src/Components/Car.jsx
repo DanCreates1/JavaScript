@@ -3,7 +3,7 @@ export default function Car(props) {
         <div class="car-card">
         <img src={props.Image}  class="car-image"/>
         <div class="car-details">
-        <h2>Name: {props.Name}</h2>
+        <h2>{props.Name}</h2>
         <p><strong>Price:</strong> {props.Price}</p>
         <p><strong>Engine:</strong> {props.Engine}</p>
         <p><strong>Horsepower:</strong> {props.Horsepower}</p>
