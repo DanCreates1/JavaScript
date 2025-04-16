@@ -4,7 +4,7 @@ This list includes some of the most iconic, influential, and greatest cars in hi
 
 ---
 
- 1. Japan
+1. Japan
 
 Nissan
     GT-R R35
@@ -44,7 +44,7 @@ Lexus
 
 ---
 
-## 2. Germany
+2. Germany
 
 BMW
     M3
@@ -93,7 +93,7 @@ Porsche
 
 ---
 
-## 3. France
+3. France
 
 Bugatti
     Veyron
@@ -104,7 +104,7 @@ Bugatti
 
 ---
 
-## 4. Italy
+4. Italy
 
 Ferrari
     F40
@@ -153,7 +153,7 @@ Pagani
 
 ---
 
-## 5. USA
+5. USA
 
 Ford
     Mustang GT
