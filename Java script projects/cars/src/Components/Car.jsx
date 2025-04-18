@@ -16,14 +16,14 @@ export default function Car(props) {
         <p><strong>Engine:</strong> {props.engine}</p>
         <p><strong>Horsepower:</strong> {props.horsepower}</p>
         <p></p>
-        <p><strong>Top Speed:</strong>{props.topSpeed}</p>
-        <p><strong>0-100 Km/h:</strong>{props.to100}</p>
+        <p><strong>Top Speed:</strong> {props.topSpeed}</p>
+        <p><strong>0-100 Km/h:</strong> {props.to100}</p>
         <button onClick={toggleShow}>Show{isShown ? " Less" : " More"}</button>
 
         {isShown && 
         <>
         <p><strong>Torque:</strong> {props.torque}</p>
-        <p><strong>Weight:</strong>{props.weight}</p>
+        <p><strong>Weight:</strong> {props.weight}</p>
         <p><strong>Fuel Economy:</strong> {props.fuelEconomy}</p>
         <p><strong>Transmission:</strong> {props.transmission}</p>
         <p><strong>Drivetrain:</strong> {props.drivetrin}</p>

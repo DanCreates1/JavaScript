@@ -278,6 +278,25 @@ export default [
                       The GT-R R34's combination of cutting-edge technology, racing heritage, and timeless styling has solidified its status as a true automotive icon.`
     },
     {
+        name: "gtr R33",
+        Img: "https://images.pexels.com/photos/18818906/pexels-photo-18818906/free-photo-of-a-blue-nissan-skyline-gt-r-on-the-driveway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price: "$50,000",
+        engine: "2.6L Inline-6 Twin-Turbo",
+        horsepower: 280,
+        transmission: "5-Speed Manual",
+        torque: 368,
+        topSpeed: "250 km/h",
+        to100: 5.5,
+        weight: "3300 KG",
+        fuelEconomy: 20,
+        transmission: "6-Speed Manual",
+        drivetrin: "AWD",
+        description: `The Nissan GT-R R33 is a high-performance sports car that has earned a dedicated following among automotive enthusiasts. 
+                      With its powerful inline-six engine and advanced all-wheel-drive system, the R33 delivers impressive acceleration and handling capabilities. 
+                      Its sleek design and aerodynamic features contribute to its striking appearance on the road. 
+                      The GT-R R33 is known for its balance of performance and comfort, making it a versatile choice for both daily driving and spirited track sessions.`
+    },
+    {
         country:"Italy",
         name: "Lamborghini Huracan",
         Img: "https://images.unsplash.com/photo-1607870379000-1f6d5e892aba?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
