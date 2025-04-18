@@ -10,7 +10,9 @@ function App() {
 
   const carElement = carData.map((car) => {
     return (
-      <Car Img={car.Img}
+      <Car 
+            country={car.country}
+            Img={car.Img}
             name={car.name}
             price={car.price} 
             engine={car.engine} 

@@ -224,18 +224,27 @@ McLaren
     McLaren Elva
     McLaren Speedtail
     McLaren F1
+    
+    
+    GT-R R35
+      GT-R R34
+      GT-R R33
+      GT-R R32
+      Z350
+      Z370
 */
-
 
 
 
 export default [
     {
-        name: "Gtr R35",
+        country: "Japan",
+        name: " Nissan Gtr R35",
         Img: "https://images.unsplash.com/photo-1611859266238-4b98091d9d9b?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         price: "$121,090",
         engine: "3.8L V6 Twin-Turbo",
         horsepower: 565,
+        transmission: "6-Speed Manual",
         torque: 467,
         topSpeed: "315 km/h",
         to100: 2.9,
@@ -249,11 +258,33 @@ export default [
                       With a focus on performance and precision engineering, the GT-R R35 has earned a reputation as one of the most capable and thrilling cars in its class.`
     },
     {
+        country:"",
+        name: "gtr R34",
+        Img: "https://images.unsplash.com/photo-1611859266238-4b98091d9d9b?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        price: "$80,000",
+        engine: "2.6L Inline-6 Twin-Turbo",
+        horsepower: 276,
+        transmission: "6-Speed Manual",
+        torque: 368,
+        topSpeed: "250 km/h",
+        to100: 4.4,
+        weight: 3300,
+        fuelEconomy: 20,
+        transmission: "6-Speed Manual",
+        drivetrin: "AWD",
+        description: `The Nissan GT-R R34 is a legendary sports car that has left an indelible mark on automotive history.
+                      Renowned for its iconic design and performance, the R34 features a potent inline-six engine with twin-turbocharging, delivering impressive power and acceleration. 
+                      Its advanced all-wheel-drive system enhances handling and stability, making it a favorite among enthusiasts. 
+                      The GT-R R34's combination of cutting-edge technology, racing heritage, and timeless styling has solidified its status as a true automotive icon.`
+    },
+    {
+        country:"italy",
         name: "Lamborghini Huracan",
         Img: "https://images.unsplash.com/photo-1607870379000-1f6d5e892aba?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         price: "$250,000",
         engine: "5.2L V10",
         horsepower: 630,
+        transmission: "6-Speed Manual",
         torque: 442,
         topSpeed: "325 km/h",
         to100: 2.5,
@@ -267,11 +298,13 @@ export default [
                       Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`
     },
     {
+        country:"",
         name: "BMW X5M",
         Img: "https://images.unsplash.com/photo-1653227158553-ddaa680cdd65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         price: "$120,000",
         engine: "4.4L V8 Twin-Turbo",
         horsepower: 600,
+        transmission: "6-Speed Manual",
         torque: 553,
         topSpeed: "290 km/h",
         to100: 3.8,

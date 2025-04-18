@@ -6,6 +6,8 @@ export default function Car(props) {
         setIsShown(!isShown);
     }
     return(
+        <>
+        <h1>{props.country}</h1>
         <div class="car-card">
         <img src={props.Img}  class="car-image"/>           
         <div class="car-details">
@@ -13,6 +15,7 @@ export default function Car(props) {
         <p><strong>Price:</strong> {props.price}</p>
         <p><strong>Engine:</strong> {props.engine}</p>
         <p><strong>Horsepower:</strong> {props.horsepower}</p>
+        <p></p>
         <p><strong>Top Speed:</strong>{props.topSpeed}</p>
         <p><strong>0-100 Km/h:</strong>{props.to100}</p>
         <button onClick={toggleShow}>Show{isShown ? " Less" : " More"}</button>
@@ -29,5 +32,6 @@ export default function Car(props) {
 
         </div>
         </div>
+        </>
     )
 }
