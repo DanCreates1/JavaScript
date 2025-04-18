@@ -233,6 +233,7 @@ export default [
     {
         name: "Gtr R35",
         Img: "https://images.unsplash.com/photo-1611859266238-4b98091d9d9b?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        price: "$121,090",
         engine: "3.8L V6 Twin-Turbo",
         horsepower: 565,
         torque: 467,
@@ -250,7 +251,7 @@ export default [
     {
         name: "Lamborghini Huracan",
         Img: "https://images.unsplash.com/photo-1607870379000-1f6d5e892aba?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        price: 250000,
+        price: "$250,000",
         engine: "5.2L V10",
         horsepower: 630,
         torque: 442,
@@ -268,7 +269,7 @@ export default [
     {
         name: "BMW X5M",
         Img: "https://images.unsplash.com/photo-1653227158553-ddaa680cdd65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        price: 120000,
+        price: "$120,000",
         engine: "4.4L V8 Twin-Turbo",
         horsepower: 600,
         torque: 553,

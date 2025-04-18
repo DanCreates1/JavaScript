@@ -3,9 +3,9 @@
 }
 body{
   background: #919191;
-  display: flex;
 }
 .car-card {
+    
     border-radius: 12px;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
     overflow: hidden;
@@ -33,6 +33,11 @@ body{
   .car-details p {
     margin: 6px 0;
     color: #555;
+  }
+   button {
+    text-decoration: none;
+    border-radius: 12px;
+    background-color: transparent;
   }
   
 
