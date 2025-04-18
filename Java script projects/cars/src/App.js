@@ -10,18 +10,18 @@ function App() {
 
   const carElement = carData.map((car) => {
     return (
-      <Car Image={car.Image}
-            Name={car.Name}
-            Price={car.Price} 
-            Engine={car.Engine} 
-            Horesepower={car.Horsepower}
-            Torque={car.Torque} 
-            to60={car.to60}
-            Weight={car.Weight}
-            FuelEconomy={car.FuelEconomy}
-            Transmission={car.Transmission}
-            Drivereain={car.Drivetrin}
-            Description={car.Description}  />
+      <Car Img={car.Img}
+            name={car.name}
+            price={car.price} 
+            engine={car.engine} 
+            horesepower={car.Horsepower}
+            torque={car.Torque} 
+            to100={car.to100}
+            weight={car.weight}
+            fuelEconomy={car.fuelEconomy}
+            transmission={car.transmission}
+            drivereain={car.drivetrin}
+            description={car.description}  />
     )
   }
   )
