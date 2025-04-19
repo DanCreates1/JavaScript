@@ -256,7 +256,7 @@ export default [
                       Known for its powerful twin-turbocharged V6 engine, advanced all-wheel-drive system, and cutting-edge technology, 
                       the GT-R offers exhilarating speed and handling. Its aggressive design and aerodynamic features contribute to its striking presence on the road. 
                       With a focus on performance and precision engineering, the GT-R R35 has earned a reputation as one of the most capable and thrilling cars in its class.`,
-        video: "https://www.youtube.com/embed/2v4g0j1a3xE"
+        video: "https://youtu.be/y9xBDeK6q7c?si=8b1FqTFuL3AVZjaj"
     },
     {
         
