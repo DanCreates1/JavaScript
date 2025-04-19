@@ -28,6 +28,8 @@ export default function Car(props) {
         <p><strong>Transmission:</strong> {props.transmission}</p>
         <p><strong>Drivetrain:</strong> {props.drivetrin}</p>
         <p><strong>Description:</strong> {props.description}</p>
+        <h3>watch a video on {props.name}</h3>
+        <iframe width="420" height="345" src={props.video}></iframe>
         </>}
 
         </div>

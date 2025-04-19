@@ -3,7 +3,6 @@
 }
 body{
   background: #919191;
-  display: flex;
   flex-direction: column;
 }
 .car-card {
@@ -14,6 +13,15 @@ body{
     margin: 20px auto;
     max-width: 400px;
     background: #b9b9b9;
+  }
+  .car-card:hover {
+    box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    scale: 1.02;
+  }
+  .car-card::after{
+    scale: 1.0;
+    transition: all 0.3s ease;
   }
   
   .car-image {

@@ -245,17 +245,18 @@ export default [
         engine: "3.8L V6 Twin-Turbo",
         horsepower: 565,
         transmission: "6-Speed Manual",
-        torque: 467,
-        topSpeed: "315 km/h",
-        to100: 2.9,
-        weight: 3820,
-        fuelEconomy: 16,
+        torque: "633 Nm",
+        topSpeed: "330 km/h",
+        to100: 2.7,
+        weight: "1730 KG",
+        fuelEconomy: "13 L/100 km",
         transmission: "6-Speed Dual-Clutch",
         drivetrin: "AWD",
         description: `The Nissan GT-R R35 is a high-performance sports car that has become an icon in the automotive world. 
                       Known for its powerful twin-turbocharged V6 engine, advanced all-wheel-drive system, and cutting-edge technology, 
                       the GT-R offers exhilarating speed and handling. Its aggressive design and aerodynamic features contribute to its striking presence on the road. 
-                      With a focus on performance and precision engineering, the GT-R R35 has earned a reputation as one of the most capable and thrilling cars in its class.`
+                      With a focus on performance and precision engineering, the GT-R R35 has earned a reputation as one of the most capable and thrilling cars in its class.`,
+        video: "https://www.youtube.com/embed/2v4g0j1a3xE"
     },
     {
         
@@ -265,7 +266,7 @@ export default [
         engine: "2.6L Inline-6 Twin-Turbo",
         horsepower: 276,
         transmission: "6-Speed Manual",
-        torque: 368,
+        torque: "397 Nm",
         topSpeed: "250 km/h",
         to100: 4.4,
         weight: 3300,
@@ -296,6 +297,30 @@ export default [
                       Its sleek design and aerodynamic features contribute to its striking appearance on the road. 
                       The GT-R R33 is known for its balance of performance and comfort, making it a versatile choice for both daily driving and spirited track sessions.`
     },
+    {
+        name: "gtr R32",
+        Img: "https://images.pexels.com/photos/18818907/pexels-photo-18818907/free-photo-of-a-blue-nissan-skyline-gt-r-on-the-driveway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price: "$40,000",
+        engine: "2.6L Inline-6 Twin-Turbo",
+        horsepower: 280,
+        transmission: "5-Speed Manual",
+        torque: 368,
+        topSpeed: "250 km/h",
+        to100: 5.6,
+        weight: 3300,
+        fuelEconomy: 20,
+        transmission: "5-Speed Manual",
+        drivetrin: "AWD",
+        description: `The Nissan GT-R R32 is a legendary sports car that has become an icon in the automotive world.
+                      Known for its powerful inline-six engine and advanced all-wheel-drive system, the R32 delivers exhilarating performance and handling. 
+                      Its aggressive styling and aerodynamic features contribute to its striking presence on the road. 
+                      The GT-R R32's combination of cutting-edge technology, racing heritage, and timeless design has solidified its status as a true automotive icon.`
+    },
+
+
+
+
+
     {
         country:"Italy",
         name: "Lamborghini Huracan",
