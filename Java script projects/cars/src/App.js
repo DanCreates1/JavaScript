@@ -16,7 +16,8 @@ function App() {
             name={car.name}
             price={car.price} 
             engine={car.engine} 
-            horesepower={car.horsepower}
+            horsepower={car.horsepower}
+            topSpeed={car.topSpeed} 
             torque={car.torque} 
             to100={car.to100}
             weight={car.weight}
