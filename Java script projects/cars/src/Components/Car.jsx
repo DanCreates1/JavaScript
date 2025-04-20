@@ -8,6 +8,8 @@ export default function Car(props) {
     return(
         <>
         <h1>{props.country}</h1>
+        <br/>
+        <h3>{props.brand}</h3>
         <div class="car-card">
         <img src={props.Img}  class="car-image"/>           
         <div class="car-details">

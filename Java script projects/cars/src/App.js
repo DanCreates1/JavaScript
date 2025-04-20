@@ -12,6 +12,7 @@ function App() {
     return (
       <Car 
             country={car.country}
+            brand={car.brand}
             Img={car.Img}
             name={car.name}
             price={car.price} 

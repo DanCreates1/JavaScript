@@ -239,6 +239,7 @@ McLaren
 export default [
     {
         country: "Japan",
+        brand: "Nissan",
         name: " Nissan Gtr R35",
         Img: "https://images.pexels.com/photos/18748244/pexels-photo-18748244/free-photo-of-silver-nissan-in-front-of-a-car-showroom.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$121,090",
@@ -323,6 +324,7 @@ export default [
 
     {
         country:"Italy",
+        brand: "Lamborghini",
         name: "Lamborghini Huracan",
         Img: "https://images.unsplash.com/photo-1607870379000-1f6d5e892aba?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         price: "$250,000",
@@ -342,6 +344,8 @@ export default [
                       Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`
     },
     {
+        country:"Germany",
+        brand: "BMW",
         name: "BMW X5M",
         Img: "https://images.unsplash.com/photo-1653227158553-ddaa680cdd65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         price: "$120,000",
