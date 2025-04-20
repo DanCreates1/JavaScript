@@ -25,7 +25,8 @@ function App() {
             fuelEconomy={car.fuelEconomy}
             transmission={car.transmission}
             drivereain={car.drivetrin}
-            description={car.description}  />
+            description={car.description}
+            video={car.video}  />
     )
   }
   )
