@@ -31,7 +31,14 @@ export default function Car(props) {
         <p><strong>Drivetrain:</strong> {props.drivetrin}</p>
         <p><strong>Description:</strong> {props.description}</p>
         <h3>watch a video on {props.name}</h3>
-        <iframe width="350" height="245" src={props.video} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" ></iframe>
+        <iframe
+        width="350"
+        height="245"
+        src={props.video}
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowFullScreen
+        ></iframe>
+
         </>}
 
         </div>
