@@ -216,9 +216,10 @@ Nissan
     McLaren F1
     
 
-    
+
     Toyota
-        Supra
+        Supra mk4 
+        Supra mk5
         GR86
     
  Honda
@@ -241,13 +242,12 @@ Nissan
            price: "$121,090",
         engine: "3.8L V6 Twin-Turbo",
         horsepower: 565,
-        transmission: "6-Speed Manual",
+        transmission: "6-Speed Dual-Clutch",
         torque: "633 Nm",
         topSpeed: "330 km/h",
         to100: 2.7,
         weight: "1730 KG",
         fuelEconomy: "13 L/100 km",
-        transmission: "6-Speed Dual-Clutch",
         drivetrin: "AWD",
         description: `The Nissan GT-R R35 is a high-performance sports car that has become an icon in the automotive world. 
                       Known for its powerful twin-turbocharged V6 engine, advanced all-wheel-drive system, and cutting-edge technology, 
@@ -288,7 +288,6 @@ Nissan
         to100: 5.5,
         weight: "3300 KG",
         fuelEconomy: 20,
-        transmission: "6-Speed Manual",
         drivetrin: "AWD",
         description: `The Nissan GT-R R33 is a high-performance sports car that has earned a dedicated following among automotive enthusiasts. 
                       With its powerful inline-six engine and advanced all-wheel-drive system, the R33 delivers impressive acceleration and handling capabilities. 
@@ -308,13 +307,22 @@ Nissan
         to100: 5.6,
         weight: 3300,
         fuelEconomy: 20,
-        transmission: "5-Speed Manual",
         drivetrin: "AWD",
         description: `The Nissan GT-R R32 is a legendary sports car that has become an icon in the automotive world.
                       Known for its powerful inline-six engine and advanced all-wheel-drive system, the R32 delivers exhilarating performance and handling. 
                       Its aggressive styling and aerodynamic features contribute to its striking presence on the road. 
                       The GT-R R32's combination of cutting-edge technology, racing heritage, and timeless design has solidified its status as a true automotive icon.`,
         video: "https://www.youtube.com/embed//YgrfX70w-K4?si=QyLdoripHFz6REji"
+    },
+    {
+        brand: "Toyota",
+        name: "Toyota Supra MK5",
+        Img: "https://images.pexels.com/photos/3874337/pexels-photo-3874337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price: "$65,000",
+        engine: "3.0L Inline-6 Twin-Turbo",
+        horsepower: 382,
+        transmission: "8-Speed Automatic",
+
     },
 
 
