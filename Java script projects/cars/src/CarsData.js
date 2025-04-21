@@ -283,7 +283,7 @@ Nissan
         engine: "2.6L Inline-6 Twin-Turbo",
         horsepower: 280,
         transmission: "5-Speed Manual",
-        torque: 368,
+        torque: "364 Nm",
         topSpeed: "250 km/h",
         to100: 5.5,
         weight: "3300 KG",
@@ -297,12 +297,12 @@ Nissan
     },
     {
         name: "gtr R32",
-        Img: "https://images.pexels.com/photos/18818907/pexels-photo-18818907/free-photo-of-a-blue-nissan-skyline-gt-r-on-the-driveway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        Img: "https://images.pexels.com/photos/30313569/pexels-photo-30313569/free-photo-of-nissan-gtr-in-motion-at-sunset-in-ankara.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$40,000",
         engine: "2.6L Inline-6 Twin-Turbo",
         horsepower: 280,
         transmission: "5-Speed Manual",
-        torque: 368,
+        torque: "353 Nm",
         topSpeed: "250 km/h",
         to100: 5.6,
         weight: 3300,
@@ -322,6 +322,7 @@ Nissan
         engine: "3.0L Inline-6 Twin-Turbo",
         horsepower: 382,
         transmission: "8-Speed Automatic",
+        torque: "500 Nm",
 
     },
 
