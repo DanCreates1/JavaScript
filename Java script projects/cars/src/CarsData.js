@@ -14,39 +14,29 @@ Nissan
     Z350
     Z370
 
-Toyota
-    Supra
-    GR86
-
-Honda
-    Civic Type R
-    NSX
-    S2000
-    Integra Type R
-    Accord Type R
-
-Subaru
+    
+    Subaru
     WRX STI
     WRX
     BRZ
     Legacy GT
-
-Mazda
+    
+    Mazda
     RX7
     RX8
     MX5 Miata
-
-Lexus
+    
+    Lexus
     LFA
     LC500
     ISF
     GSF
-
----
-
-2. Germany
-
-BMW
+    
+    ---
+    
+    2. Germany
+    
+    BMW
     M3
     M4
     M5
@@ -55,8 +45,8 @@ BMW
     X5M
     X6M
     Z4M
-
-Mercedes-Benz
+    
+    Mercedes-Benz
     AMG GT
     C63 AMG
     E63 AMG
@@ -67,13 +57,13 @@ Mercedes-Benz
     G65 AMG 6x6
     G-Class
     G-Wagon
-
-Audi
+    
+    Audi
     R8
     RS7
     RS6
-
-Porsche
+    
+    Porsche
     911
     911 Turbo S
     911 GT3
@@ -90,31 +80,31 @@ Porsche
     718 Boxster GTS 4.0
     718 Spyder
     Panamera Turbo S
-
----
-
-3. France
-
-Bugatti
+    
+    ---
+    
+    3. France
+    
+    Bugatti
     Veyron
     Chiron
     Divo
     Centodieci
     Bolide
-
----
-
-4. Italy
-
-Ferrari
+    
+    ---
+    
+    4. Italy
+    
+    Ferrari
     F40
     F50
     LaFerrari
     488 Pista
     812 Superfast
     SF90 Stradale
-
-Lamborghini
+    
+    Lamborghini
     Aventador SVJ
     Huracán STO
     Revuelto
@@ -122,15 +112,15 @@ Lamborghini
     Centenario
     Veneno
     Sián FKP 37
-
-Maserati
+    
+    Maserati
     MC20
     MC12
     GranTurismo Trofeo
     GranTurismo MC Stradale
     GranCabrio Sport
-
-Alfa Romeo
+    
+    Alfa Romeo
     8C Competizione
     8C Spider
     4C
@@ -138,8 +128,8 @@ Alfa Romeo
     Giulia Quadrifoglio
     Giulia GTA
     Giulia GTAm
-
-Pagani
+    
+    Pagani
     Huayra
     Huayra Roadster
     Huayra BC
@@ -150,44 +140,44 @@ Pagani
     Zonda S
     Zonda Cinque
     Zonda 760
-
----
-
-5. USA
-
-Ford
+    
+    ---
+    
+    5. USA
+    
+    Ford
     Mustang GT
     Mustang Shelby GT500
     Mustang Mach 1
     Ford GT
     Ford GT40
-
-Chevrolet
+    
+    Chevrolet
     Corvette Stingray
     Corvette Z06
     Corvette ZR1
     Corvette C8
     Camaro SS
     Camaro ZL1
-
-Dodge
+    
+    Dodge
     Challenger SRT Hellcat
     Challenger SRT Demon
     Challenger Super Stock
     Viper ACR
     Viper GTS
-
-Cadillac
+    
+    Cadillac
     CTS-V
     CT5-V Blackwing
     XLR-V
     Escalade-V (performance version)
-
----
-
-6. UK
-
-Aston Martin
+    
+    ---
+    
+    6. UK
+    
+    Aston Martin
     Vantage
     Vantage S
     Vantage AMR
@@ -197,23 +187,23 @@ Aston Martin
     One-77
     DB9
     Aston Martin Valhalla
-
-Rolls-Royce
+    
+    Rolls-Royce
     Wraith
     Dawn
     Ghost
     Cullinan
     Spectre
-
-Jaguar
+    
+    Jaguar
     F-Type
     F-Type R
     F-Type SVR
     XE SV Project 8
     XKR-S
     XJ220
-
-McLaren
+    
+    McLaren
     P1
     720S
     765LT
@@ -225,18 +215,30 @@ McLaren
     McLaren Speedtail
     McLaren F1
     
+
     
-*/
-
-
-
-export default [
-    {
-        country: "Japan",
-        brand: "Nissan",
-        name: " Nissan Gtr R35",
-        Img: "https://images.pexels.com/photos/18748244/pexels-photo-18748244/free-photo-of-silver-nissan-in-front-of-a-car-showroom.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        price: "$121,090",
+    Toyota
+        Supra
+        GR86
+    
+ Honda
+    Civic Type R
+    NSX
+    S2000
+    Integra Type R
+    Accord Type R
+    
+    */
+   
+   
+   
+   export default [
+       {
+           country: "Japan",
+           brand: "Nissan",
+           name: " Nissan Gtr R35",
+           Img: "https://images.pexels.com/photos/18748244/pexels-photo-18748244/free-photo-of-silver-nissan-in-front-of-a-car-showroom.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+           price: "$121,090",
         engine: "3.8L V6 Twin-Turbo",
         horsepower: 565,
         transmission: "6-Speed Manual",
