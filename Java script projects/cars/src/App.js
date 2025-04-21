@@ -3,7 +3,6 @@ import React from 'react';
 import Car from './Components/Car.jsx';
 import carData from './CarsData.js';
 
-
 function App() {
   
   const [cars, setCars] = React.useState()
@@ -11,6 +10,7 @@ function App() {
   const carElement = carData.map((car) => {
     return (
       <Car 
+            key={car.key}
             country={car.country}
             brand={car.brand}
             Img={car.Img}

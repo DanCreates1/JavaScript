@@ -231,15 +231,16 @@ Nissan
     
     */
    
-   
+import { nanoid } from 'nanoid';
    
    export default [
        {
-           country: "Japan",
-           brand: "Nissan",
-           name: " Nissan Gtr R35",
-           Img: "https://images.pexels.com/photos/18748244/pexels-photo-18748244/free-photo-of-silver-nissan-in-front-of-a-car-showroom.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-           price: "$121,090",
+        key: nanoid(),
+        country: "Japan",
+        brand: "Nissan",
+        name: " Nissan Gtr R35",
+        Img: "https://images.pexels.com/photos/18748244/pexels-photo-18748244/free-photo-of-silver-nissan-in-front-of-a-car-showroom.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price: "$121,090",
         engine: "3.8L V6 Twin-Turbo",
         horsepower: 565,
         transmission: "6-Speed Dual-Clutch",
@@ -256,7 +257,7 @@ Nissan
         video: "https://www.youtube.com/embed/KY0-a-PUU0Q"
     },
     {
-        
+        key: nanoid(),
         name: "gtr R34",
         Img: "https://images.pexels.com/photos/18818905/pexels-photo-18818905/free-photo-of-a-blue-nissan-skyline-gt-r-on-the-driveway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$80,000",
@@ -277,6 +278,7 @@ Nissan
         video: "https://www.youtube.com/embed//Ofv4gy2GamI?si=SOigXNyd2MU0TN_A"
     },
     {
+        key: nanoid(),
         name: "gtr R33",
         Img: "https://images.pexels.com/photos/18818906/pexels-photo-18818906/free-photo-of-a-blue-nissan-skyline-gt-r-on-the-driveway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$50,000",
@@ -296,6 +298,7 @@ Nissan
         video: "https://www.youtube.com/embed//hDCKMjRWtTQ?si=ficYkSzX1rIMndRs"
     },
     {
+        key: nanoid(),
         name: "gtr R32",
         Img: "https://images.pexels.com/photos/30313569/pexels-photo-30313569/free-photo-of-nissan-gtr-in-motion-at-sunset-in-ankara.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$40,000",
@@ -315,6 +318,7 @@ Nissan
         video: "https://www.youtube.com/embed//YgrfX70w-K4?si=QyLdoripHFz6REji"
     },
     {
+        key: nanoid(),
         brand: "Toyota",
         name: "Toyota Supra MK5",
         Img: "https://images.pexels.com/photos/3874337/pexels-photo-3874337.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -334,6 +338,7 @@ Nissan
 
 
     {
+        key: nanoid(),
         country:"Italy",
         brand: "Lamborghini",
         name: "Lamborghini Huracan",
@@ -355,6 +360,7 @@ Nissan
                       Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`
     },
     {
+        key: nanoid(),
         country:"Germany",
         brand: "BMW",
         name: "BMW X5M",
