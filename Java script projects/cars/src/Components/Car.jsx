@@ -10,9 +10,9 @@ export default function Car(props) {
         <h1>{props.country}</h1>
         <br/>
         <h3>{props.brand}</h3>
-        <div class="car-card">
-        <img src={props.Img}  class="car-image"/>           
-        <div class="car-details">
+        <div className="car-card">
+        <img src={props.Img}  className="car-image"/>           
+        <div className="car-details">
         <h2>{props.name}</h2>
         <p><strong>Price:</strong> {props.price}</p>
         <p><strong>Engine:</strong> {props.engine}</p>
