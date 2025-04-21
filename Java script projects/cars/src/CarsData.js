@@ -226,12 +226,6 @@ McLaren
     McLaren F1
     
     
-    GT-R R35
-      GT-R R34
-      GT-R R33
-      GT-R R32
-      Z350
-      Z370
 */
 
 
