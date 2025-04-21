@@ -277,7 +277,8 @@ export default [
         description: `The Nissan GT-R R34 is a legendary sports car that has left an indelible mark on automotive history.
                       Renowned for its iconic design and performance, the R34 features a potent inline-six engine with twin-turbocharging, delivering impressive power and acceleration. 
                       Its advanced all-wheel-drive system enhances handling and stability, making it a favorite among enthusiasts. 
-                      The GT-R R34's combination of cutting-edge technology, racing heritage, and timeless styling has solidified its status as a true automotive icon.`
+                      The GT-R R34's combination of cutting-edge technology, racing heritage, and timeless styling has solidified its status as a true automotive icon.`,
+        video: "https://www.youtube.com/embed//Ofv4gy2GamI?si=SOigXNyd2MU0TN_A"
     },
     {
         name: "gtr R33",
