@@ -266,8 +266,8 @@ Nissan
         torque: "397 Nm",
         topSpeed: "250 km/h",
         to100: 4.4,
-        weight: 3300,
-        fuelEconomy: 20,
+        weight: "1,560 KG",
+        fuelEconomy: "9.0 L/100 km",
         transmission: "6-Speed Manual",
         drivetrin: "AWD",
         description: `The Nissan GT-R R34 is a legendary sports car that has left an indelible mark on automotive history.
@@ -323,11 +323,14 @@ Nissan
         horsepower: 382,
         transmission: "8-Speed Automatic",
         torque: "500 Nm",
+        topSpeed: "250 km/h",
+        to100: 5.2,
+        weight: 1500,
 
     },
+    {
 
-
-
+    },
 
 
     {
