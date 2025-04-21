@@ -297,7 +297,8 @@ export default [
         description: `The Nissan GT-R R33 is a high-performance sports car that has earned a dedicated following among automotive enthusiasts. 
                       With its powerful inline-six engine and advanced all-wheel-drive system, the R33 delivers impressive acceleration and handling capabilities. 
                       Its sleek design and aerodynamic features contribute to its striking appearance on the road. 
-                      The GT-R R33 is known for its balance of performance and comfort, making it a versatile choice for both daily driving and spirited track sessions.`
+                      The GT-R R33 is known for its balance of performance and comfort, making it a versatile choice for both daily driving and spirited track sessions.`,
+        video: "https://www.youtube.com/embed//hDCKMjRWtTQ?si=ficYkSzX1rIMndRs"
     },
     {
         name: "gtr R32",
@@ -316,7 +317,8 @@ export default [
         description: `The Nissan GT-R R32 is a legendary sports car that has become an icon in the automotive world.
                       Known for its powerful inline-six engine and advanced all-wheel-drive system, the R32 delivers exhilarating performance and handling. 
                       Its aggressive styling and aerodynamic features contribute to its striking presence on the road. 
-                      The GT-R R32's combination of cutting-edge technology, racing heritage, and timeless design has solidified its status as a true automotive icon.`
+                      The GT-R R32's combination of cutting-edge technology, racing heritage, and timeless design has solidified its status as a true automotive icon.`,
+        video: "https://www.youtube.com/embed//YgrfX70w-K4?si=QyLdoripHFz6REji"
     },
 
 
