@@ -341,7 +341,24 @@ import { nanoid } from 'nanoid';
 
     },
     {
-
+        key: nanoid(),
+        name: "Toyota Supra MK4",
+        Img: "https://images.pexels.com/photos/28569837/pexels-photo-28569837/free-photo-of-dynamic-toyota-supra-mk4-in-motion-on-open-road.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$100,000",
+        engine: "3.0L Inline-6 Twin-Turbo",
+        horsepower: 321,
+        transmission: "6-Speed Manual",
+        torque: "440 Nm",
+        topSpeed: "250 km/h",
+        to100: 4.6,
+        weight: "1,540 KG",
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "RWD",
+        description: `The Toyota Supra MK4 is a legendary sports car that has become an icon in the automotive world. 
+                      Known for its powerful inline-six engine and advanced turbocharging technology, the MK4 delivers exhilarating performance and handling. 
+                      Its sleek design and aerodynamic features contribute to its striking presence on the road. 
+                      The Supra MK4's combination of cutting-edge technology, racing heritage, and timeless styling has solidified its status as a true automotive legend.`,
+        video: "https://www.youtube.com/embed//cwKAS9vQq90?si=Fen7HYkeHycKsR2i"
     },
 
 
