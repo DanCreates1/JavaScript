@@ -289,7 +289,7 @@ import { nanoid } from 'nanoid';
         topSpeed: "250 km/h",
         to100: 5.5,
         weight: "3300 KG",
-        fuelEconomy: 20,
+        fuelEconomy: "21 L/100 km",
         drivetrin: "AWD",
         description: `The Nissan GT-R R33 is a high-performance sports car that has earned a dedicated following among automotive enthusiasts. 
                       With its powerful inline-six engine and advanced all-wheel-drive system, the R33 delivers impressive acceleration and handling capabilities. 
@@ -308,8 +308,8 @@ import { nanoid } from 'nanoid';
         torque: "353 Nm",
         topSpeed: "250 km/h",
         to100: 5.6,
-        weight: 3300,
-        fuelEconomy: 20,
+        weight: "1,430 KG",
+        fuelEconomy: "13 L/100 km",
         drivetrin: "AWD",
         description: `The Nissan GT-R R32 is a legendary sports car that has become an icon in the automotive world.
                       Known for its powerful inline-six engine and advanced all-wheel-drive system, the R32 delivers exhilarating performance and handling. 
@@ -329,7 +329,15 @@ import { nanoid } from 'nanoid';
         torque: "500 Nm",
         topSpeed: "250 km/h",
         to100: 5.2,
-        weight: 1500,
+        weight: "1,410 KG",
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "RWD",
+        description: `The Toyota Supra MK5 is a modern sports car that pays homage to its legendary predecessors.
+                      With its sleek design and powerful inline-six engine, the MK5 delivers exhilarating performance and precise handling. 
+                      The advanced technology and features, including a responsive infotainment system and driver-assistance options, enhance the driving experience.
+                      The Supra's rear-wheel-drive layout and balanced chassis make it a joy to drive on both the road and the track.
+                      With a rich heritage and a strong following, the MK5 Supra continues to capture the hearts of automotive enthusiasts around the world.`,
+        video: "https://www.youtube.com/embed//FblJGCdMlds?si=s2lXVZmgg40lWDL4"
 
     },
     {
