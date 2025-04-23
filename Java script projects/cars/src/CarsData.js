@@ -416,6 +416,27 @@ import { nanoid } from 'nanoid';
                       With its exclusivity and performance pedigree, the Lexus LFA has become a sought-after collector's item among automotive enthusiasts.`,
         video: "https://www.youtube.com/embed///PopzpO-Iu94?si=sD50eS_p9ZZCnSDo"
     },
+    {
+        key: nanoid(),
+        name: "Lexus LC500",
+        Img: "https://images.pexels.com/photos/2684218/pexels-photo-2684218.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$95,000",
+        engine: "5.0L V8",
+        horsepower: 471,
+        transmission: "10-Speed Automatic",
+        torque: "540 Nm",
+        topSpeed: "250 km/h",
+        to100: 4.4,
+        weight: "1,900 KG",
+        fuelEconomy: "11 L/100 km",
+        drivetrin: "RWD",
+        description: `The Lexus LC 500 is a luxurious grand tourer that combines stunning design with exhilarating performance. 
+                      Powered by a naturally aspirated V8 engine, the LC 500 delivers impressive power and a thrilling driving experience. 
+                      Its sleek and aerodynamic exterior is complemented by a meticulously crafted interior featuring premium materials and advanced technology. 
+                      With a focus on comfort and refinement, the LC 500 offers a perfect balance of performance and luxury, making it an ideal choice for those who seek both style and substance.`,
+        video: "https://www.youtube.com/embed///giIP0XdT7SA?si=MJbRA2j1If2jdWzF"
+
+    },
 
 
     {
