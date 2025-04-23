@@ -215,16 +215,6 @@ Nissan
     McLaren Speedtail
     McLaren F1
     
-
-
-   
-    
- Honda
-    Civic Type R
-    NSX
-    S2000
-    Integra Type R
-    Accord Type R
     
     */
    
@@ -381,7 +371,7 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         name: "Honda NSX",
-        Img: "https://images.pexels.com/photos/16475132/pexels-photo-16475132/free-photo-of-a-red-honda-nsx-on-the-road.jpeg?auto=compress&cs=tinysrgb&w=600",
+        Img: "https://images.pexels.com/photos/26936242/pexels-photo-26936242/free-photo-of-black-honda-nsx.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$157,000",
         engine: "3.5L V6 Twin-Turbo + Electric Motors",
         horsepower: 537,
@@ -398,6 +388,33 @@ import { nanoid } from 'nanoid';
                       The NSX's sleek design and aerodynamic features contribute to its striking appearance, while its luxurious interior offers comfort and advanced technology. 
                       With a rich racing heritage and a focus on innovation, the Honda NSX continues to captivate automotive enthusiasts around the world.`,
         video: "https://www.youtube.com/embed//41E1x3dbC1g?si=725FbtupNq6Vfpx0"
+    },
+    /* Lexus
+    LFA
+    LC500
+    ISF
+    GSF*/
+    {
+        key: nanoid(),
+        brand: "lexus",
+        name: "Lexus LFA",
+        Img: "https://images.pexels.com/photos/29994567/pexels-photo-29994567/free-photo-of-sleek-purple-lexus-in-foggy-morro-bay.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$375,000",
+        engine: "4.8L V10",
+        horsepower: 552,
+        transmission: "6-Speed Automated Manual",
+        torque: "480 Nm",
+        topSpeed: "325 km/h",
+        to100: 3.6,
+        weight: "1,480 KG",
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "RWD",
+        description: `The Lexus LFA is a limited-production supercar that represents the pinnacle of Lexus engineering and design. 
+                      Powered by a high-revving V10 engine, the LFA delivers exhilarating performance and a spine-tingling exhaust note. 
+                      Its lightweight construction, advanced aerodynamics, and precise handling make it a true driver's car. 
+                      The LFA's striking design and luxurious interior showcase Lexus' commitment to craftsmanship and attention to detail. 
+                      With its exclusivity and performance pedigree, the Lexus LFA has become a sought-after collector's item among automotive enthusiasts.`,
+        video: "https://www.youtube.com/embed///PopzpO-Iu94?si=sD50eS_p9ZZCnSDo"
     },
 
 
