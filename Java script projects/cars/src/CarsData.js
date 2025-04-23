@@ -29,9 +29,7 @@ Nissan
     Lexus
     LFA
     LC500
-    ISF
-    GSF
-    
+
     ---
     
     2. Germany
@@ -389,11 +387,6 @@ import { nanoid } from 'nanoid';
                       With a rich racing heritage and a focus on innovation, the Honda NSX continues to captivate automotive enthusiasts around the world.`,
         video: "https://www.youtube.com/embed//41E1x3dbC1g?si=725FbtupNq6Vfpx0"
     },
-    /* Lexus
-    LFA
-    LC500
-    ISF
-    GSF*/
     {
         key: nanoid(),
         brand: "lexus",
@@ -437,6 +430,29 @@ import { nanoid } from 'nanoid';
         video: "https://www.youtube.com/embed///giIP0XdT7SA?si=MJbRA2j1If2jdWzF"
 
     },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "BMW",
+        name: "BMW X5M",
+        Img: "https://images.unsplash.com/photo-1653227158553-ddaa680cdd65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        price: "$120,000",
+        engine: "4.4L V8 Twin-Turbo",
+        horsepower: 600,
+        transmission: "6-Speed Manual",
+        torque: 553,
+        topSpeed: "290 km/h",
+        to100: 3.8,
+        weight: 5300,
+        fuelEconomy: 18,
+        transmission: "8-Speed Automatic",
+        drivetrin: "AWD",
+        description: `The BMW X5 M is a high-performance luxury SUV that combines the practicality of an SUV with the exhilarating performance of a sports car. 
+                      Powered by a robust twin-turbocharged V8 engine, the X5 M delivers impressive acceleration and handling capabilities. 
+                      Its aggressive styling, sporty suspension, and advanced technology create a thrilling driving experience. 
+                      Inside, the X5 M offers a luxurious and spacious cabin with premium materials and cutting-edge infotainment features, 
+                      making it a perfect blend of performance and comfort for enthusiasts and families alike.`
+    },
 
 
     {
@@ -460,28 +476,5 @@ import { nanoid } from 'nanoid';
                       With its aggressive design, powerful V10 engine, and advanced aerodynamics, the Huracán delivers exhilarating performance and breathtaking speed. 
                       Its luxurious interior features cutting-edge technology and premium materials, providing a perfect blend of comfort and sportiness. 
                       Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`
-    },
-    {
-        key: nanoid(),
-        country:"Germany",
-        brand: "BMW",
-        name: "BMW X5M",
-        Img: "https://images.unsplash.com/photo-1653227158553-ddaa680cdd65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        price: "$120,000",
-        engine: "4.4L V8 Twin-Turbo",
-        horsepower: 600,
-        transmission: "6-Speed Manual",
-        torque: 553,
-        topSpeed: "290 km/h",
-        to100: 3.8,
-        weight: 5300,
-        fuelEconomy: 18,
-        transmission: "8-Speed Automatic",
-        drivetrin: "AWD",
-        description: `The BMW X5 M is a high-performance luxury SUV that combines the practicality of an SUV with the exhilarating performance of a sports car. 
-                      Powered by a robust twin-turbocharged V8 engine, the X5 M delivers impressive acceleration and handling capabilities. 
-                      Its aggressive styling, sporty suspension, and advanced technology create a thrilling driving experience. 
-                      Inside, the X5 M offers a luxurious and spacious cabin with premium materials and cutting-edge infotainment features, 
-                      making it a perfect blend of performance and comfort for enthusiasts and families alike.`
     },
 ];
