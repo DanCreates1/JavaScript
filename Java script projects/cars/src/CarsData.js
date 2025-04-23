@@ -217,10 +217,7 @@ Nissan
     
 
 
-    Toyota
-        Supra mk4 
-        Supra mk5
-        GR86
+   
     
  Honda
     Civic Type R
@@ -359,6 +356,48 @@ import { nanoid } from 'nanoid';
                       Its sleek design and aerodynamic features contribute to its striking presence on the road. 
                       The Supra MK4's combination of cutting-edge technology, racing heritage, and timeless styling has solidified its status as a true automotive legend.`,
         video: "https://www.youtube.com/embed//cwKAS9vQq90?si=Fen7HYkeHycKsR2i"
+    },
+    {
+        brand: "Honda",
+        key: nanoid(),
+        name: "Honda Civic Type R",
+        Img: "https://images.pexels.com/photos/16475131/pexels-photo-16475131/free-photo-of-top-view-of-a-sports-honda-civic-type-r.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$54,000",
+        engine: "2.0L Inline-4 Turbo",
+        horsepower: 306,
+        transmission: "6-Speed Manual",
+        torque: "400 Nm",
+        topSpeed: "272 km/h",
+        to100: 5.4,
+        weight: "1,400 KG",
+        fuelEconomy: "9.7 L/100 km",
+        drivetrin: "FWD",
+        description: `The Honda Civic Type R is a high-performance hatchback that has gained a reputation for its thrilling driving experience and track-ready capabilities. 
+                      Powered by a turbocharged inline-four engine, the Type R delivers impressive power and acceleration. 
+                      Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic performance on the road and track. 
+                      Inside, the Type R features a driver-focused cockpit with advanced technology and sporty accents, making it a favorite among enthusiasts who seek both practicality and excitement.`,
+        video: "https://www.youtube.com/embed//eUxHfkJPvCw?si=MY0cN4pAa2Fano0-"
+    },
+    {
+        key: nanoid(),
+        name: "Honda NSX",
+        Img: "https://images.pexels.com/photos/16475132/pexels-photo-16475132/free-photo-of-a-red-honda-nsx-on-the-road.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$157,000",
+        engine: "3.5L V6 Twin-Turbo + Electric Motors",
+        horsepower: 537,
+        transmission: "9-Speed Dual-Clutch",
+        torque: "646 Nm",
+        topSpeed: "307 km/h",
+        to100: 3.0,
+        weight: "1,490 KG",
+        fuelEconomy: "11 L/100 km",
+        drivetrin: "AWD",
+        description: `The Honda NSX is a legendary supercar that combines cutting-edge technology with exhilarating performance. 
+                      Featuring a twin-turbocharged V6 engine paired with electric motors, the NSX delivers impressive power and acceleration. 
+                      Its advanced all-wheel-drive system and precise handling make it a joy to drive on both the road and the track. 
+                      The NSX's sleek design and aerodynamic features contribute to its striking appearance, while its luxurious interior offers comfort and advanced technology. 
+                      With a rich racing heritage and a focus on innovation, the Honda NSX continues to captivate automotive enthusiasts around the world.`,
+        video: "https://www.youtube.com/embed//41E1x3dbC1g?si=725FbtupNq6Vfpx0"
     },
 
 
