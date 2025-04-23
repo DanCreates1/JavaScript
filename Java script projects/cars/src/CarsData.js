@@ -430,28 +430,37 @@ import { nanoid } from 'nanoid';
         video: "https://www.youtube.com/embed///giIP0XdT7SA?si=MJbRA2j1If2jdWzF"
 
     },
+    /* BMW
+    M3
+    M4
+    M5
+    M6
+    M8
+    X5M
+    X6M
+    Z4M*/
     {
         key: nanoid(),
         country:"Germany",
         brand: "BMW",
-        name: "BMW X5M",
-        Img: "https://images.unsplash.com/photo-1653227158553-ddaa680cdd65?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        price: "$120,000",
-        engine: "4.4L V8 Twin-Turbo",
-        horsepower: 600,
+        Name: "BMW M3",
+        Img: "https://images.pexels.com/photos/30313560/pexels-photo-30313560/free-photo-of-sleek-bmw-car-parked-outdoors-in-ankara.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$73,800",
+        engine: "3.0L Inline-6 Twin-Turbo",
+        horsepower: 473,
         transmission: "6-Speed Manual",
-        torque: 553,
+        torque: "550 Nm",
+        
         topSpeed: "290 km/h",
-        to100: 3.8,
-        weight: 5300,
-        fuelEconomy: 18,
-        transmission: "8-Speed Automatic",
-        drivetrin: "AWD",
-        description: `The BMW X5 M is a high-performance luxury SUV that combines the practicality of an SUV with the exhilarating performance of a sports car. 
-                      Powered by a robust twin-turbocharged V8 engine, the X5 M delivers impressive acceleration and handling capabilities. 
-                      Its aggressive styling, sporty suspension, and advanced technology create a thrilling driving experience. 
-                      Inside, the X5 M offers a luxurious and spacious cabin with premium materials and cutting-edge infotainment features, 
-                      making it a perfect blend of performance and comfort for enthusiasts and families alike.`
+        to100: 4.1,
+        weight: "1,600 KG",
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "RWD",
+        description: `The BMW M3 is a high-performance sports sedan that has become an icon in the automotive world. 
+                      Known for its powerful inline-six engine and precise handling, the M3 delivers exhilarating performance on both the road and the track. 
+                      Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience. 
+                      Inside, the M3 features a driver-focused cockpit with advanced technology and premium materials, making it a favorite among enthusiasts who seek both luxury and performance.`,
+        video: "https://www.youtube.com/embed//Ku66VHVQpZQ?si=R1IX5cH9RpqpRrLG"
     },
 
 
