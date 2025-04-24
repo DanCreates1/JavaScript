@@ -462,6 +462,28 @@ import { nanoid } from 'nanoid';
                       Inside, the M3 features a driver-focused cockpit with advanced technology and premium materials, making it a favorite among enthusiasts who seek both luxury and performance.`,
         video: "https://www.youtube.com/embed//Ku66VHVQpZQ?si=R1IX5cH9RpqpRrLG"
     },
+    {
+        key: nanoid(),
+        brand: "BMW",
+        name: "BMW M4",
+        Img: "https://images.pexels.com/photos/8253060/pexels-photo-8253060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        price: "$75,000",
+        engine: "3.0L Inline-6 Twin-Turbo",
+        horsepower: 473,
+        transmission: "6-Speed Manual",
+        torque: "550 Nm",
+        topSpeed: "290 km/h",
+        to100: 4.1,
+        weight: "1,600 KG",
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "RWD",
+        description: `The BMW M4 is a high-performance coupe that combines stunning design with exhilarating performance.
+                      Powered by a turbocharged inline-six engine, the M4 delivers impressive power and acceleration.
+                        Its sleek and aerodynamic exterior is complemented by a meticulously crafted interior featuring premium materials and advanced technology.
+                        With a focus on driving dynamics and precision engineering, the M4 offers a thrilling driving experience that appeals to enthusiasts and luxury car buyers alike.`,
+        video: "https://www.youtube.com/embed//mRlZ44awDtg?si=oXEYq8I1hBB0v30z"
+
+    },
 
 
     {
