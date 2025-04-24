@@ -443,7 +443,7 @@ import { nanoid } from 'nanoid';
         key: nanoid(),
         country:"Germany",
         brand: "BMW",
-        Name: "BMW M3",
+        name: "BMW M3",
         Img: "https://images.pexels.com/photos/30313560/pexels-photo-30313560/free-photo-of-sleek-bmw-car-parked-outdoors-in-ankara.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$73,800",
         engine: "3.0L Inline-6 Twin-Turbo",
@@ -483,6 +483,28 @@ import { nanoid } from 'nanoid';
                         With a focus on driving dynamics and precision engineering, the M4 offers a thrilling driving experience that appeals to enthusiasts and luxury car buyers alike.`,
         video: "https://www.youtube.com/embed//mRlZ44awDtg?si=oXEYq8I1hBB0v30z"
 
+    },
+    {
+        key: nanoid(),
+        brand: "BMW",
+        name: "BMW M5",
+        Img: "https://images.pexels.com/photos/17888840/pexels-photo-17888840/free-photo-of-a-blue-bmw-m5-parked-on-a-street-at-night.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$104,000",
+        engine: "4.4L V8 Twin-Turbo",
+        horsepower: 600,
+        transmission: "8-Speed Automatic",
+        torque: "750 Nm",
+        topSpeed: "305 km/h",
+        to100: 3.4,
+        weight: "1,800 KG",
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "AWD",
+        description: `The BMW M5 is a high-performance luxury sedan that combines power, precision, and sophistication. 
+                      Powered by a twin-turbocharged V8 engine, the M5 delivers exhilarating acceleration and impressive handling capabilities. 
+                      Its sleek design and aerodynamic features contribute to its striking presence on the road. 
+                      Inside, the M5 offers a luxurious interior with advanced technology and premium materials, providing both comfort and performance. 
+                      With its blend of power and refinement, the BMW M5 is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+        video: "https://www.youtube.com/embed//CLecdI8ibP4?si=-75YlmSScOp0nSYw"
     },
 
 
