@@ -391,7 +391,7 @@ import { nanoid } from 'nanoid';
         key: nanoid(),
         brand: "lexus",
         name: "Lexus LFA",
-        Img: "https://images.pexels.com/photos/29994567/pexels-photo-29994567/free-photo-of-sleek-purple-lexus-in-foggy-morro-bay.jpeg?auto=compress&cs=tinysrgb&w=600",
+        Img: "https://media.ed.edmunds-media.com/lexus/lfa/2012/oem/2012_lexus_lfa_coupe_base_fq_oem_1_500.jpg",
         price: "$375,000",
         engine: "4.8L V10",
         horsepower: 552,
