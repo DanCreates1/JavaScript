@@ -5,11 +5,13 @@
 }
 body{
   background: #919191;
-  flex-direction: row;
-  flex-direction:column;
-  display: flex;
   justify-content: center;
   align-items: center;
+}
+main{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap
 }
 .car-card {
     direction:ltr;
