@@ -7,7 +7,7 @@ export default function Car(props) {
     }
     return(
         <>
-        <h1>{props.country}</h1>
+        <div>{props.country}</div>
         <br/>
         <h3>{props.brand}</h3>
         <div className="car-card">

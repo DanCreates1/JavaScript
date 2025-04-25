@@ -464,7 +464,7 @@ import { nanoid } from 'nanoid';
     },
     {
         key: nanoid(),
-        brand: "BMW",
+
         name: "BMW M4",
         Img: "https://images.pexels.com/photos/8253060/pexels-photo-8253060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$75,000",
@@ -486,7 +486,6 @@ import { nanoid } from 'nanoid';
     },
     {
         key: nanoid(),
-        brand: "BMW",
         name: "BMW M5",
         Img: "https://images.pexels.com/photos/17888840/pexels-photo-17888840/free-photo-of-a-blue-bmw-m5-parked-on-a-street-at-night.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$104,000",
