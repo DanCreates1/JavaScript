@@ -555,6 +555,27 @@ import { nanoid } from 'nanoid';
                       With a focus on driving dynamics and precision engineering, the M8 offers a thrilling driving experience that appeals to enthusiasts and luxury car buyers alike.`,
         video: "https://www.youtube.com/embed///mlKQEJQkwM4?si=m-hTmwgwTTjI1yKI"
     },
+    {
+        key: nanoid(),
+        name: "BMW X5M",
+        brand: "BMW",
+        Img: "https://www.topgear.com/sites/default/files/cars-car/image/2020/11/p90400092_highres_bmw-x5m.jpg",
+        price: "$115,000",
+        engine: "4.4L V8 Twin-Turbo",
+        horsepower: 600,
+        transmission: "8-Speed Automatic",
+        torque: "750 Nm",
+        topSpeed: "290 km/h",
+        to100: 3.8,
+        weight: "2,400 KG",
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "AWD",
+        description: `The BMW X5 M is a high-performance luxury SUV that combines the practicality of an SUV with the exhilarating performance of a sports car. 
+                      Powered by a twin-turbocharged V8 engine, the X5 M delivers impressive power and acceleration. 
+                      Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience. 
+                      Inside, the X5 M features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and comfort.`,
+        video: "https://www.youtube.com/embed//1KpEoaTsAVA?si=fz_bljwz7mtbHDbo  "
+    },
 
     {
         key: nanoid(),
@@ -578,4 +599,5 @@ import { nanoid } from 'nanoid';
                       Its luxurious interior features cutting-edge technology and premium materials, providing a perfect blend of comfort and sportiness. 
                       Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`
     },
+    
 ];
