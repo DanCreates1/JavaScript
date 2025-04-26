@@ -557,6 +557,29 @@ import { nanoid } from 'nanoid';
     },
     {
         key: nanoid(),
+        name: "BMW z4M",
+        brand: "BMW",
+        Img: "https://hips.hearstapps.com/autoweek/assets/s3fs-public/2019-bmw-z4-1.jpg?resize=480",
+        price: "$69,000",
+        engine: "3.0L Inline-6 Twin-Turbo",
+        horsepower: 382,
+        transmission: "6-Speed Manual",
+        torque: "500 Nm",
+        topSpeed: "250 km/h",
+        to100: 4.4,
+        weight: "1,500 KG",
+        fuelEconomy: "7L/100 km",
+        drivetrin: "RWD",
+        description: `The BMW Z4 M is a high-performance roadster that combines exhilarating driving dynamics with open-top enjoyment. 
+                      Powered by a naturally aspirated inline-six engine, the Z4 M delivers impressive power and acceleration. 
+                      Its sleek design and aerodynamic features contribute to its striking appearance on the road. 
+                      The Z4 M's precise handling and rear-wheel-drive layout make it a joy to drive on both winding roads and the track. 
+                      With a focus on performance and driver engagement, the BMW Z4 M is a true enthusiast's car that offers an unforgettable driving experience.`,
+        video: "https://www.youtube.com/embed///wVBTZngzRbc?si=h2WCPot_jcfRm5p1"
+        
+    },
+    {
+        key: nanoid(),
         name: "BMW X5M",
         brand: "BMW",
         Img: "https://www.topgear.com/sites/default/files/cars-car/image/2020/11/p90400092_highres_bmw-x5m.jpg",
@@ -574,7 +597,7 @@ import { nanoid } from 'nanoid';
                       Powered by a twin-turbocharged V8 engine, the X5 M delivers impressive power and acceleration. 
                       Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience. 
                       Inside, the X5 M features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and comfort.`,
-        video: "https://www.youtube.com/embed//1KpEoaTsAVA?si=fz_bljwz7mtbHDbo  "
+        video: "https://www.youtube.com/embed//1KpEoaTsAVA?si=fz_bljwz7mtbHDbo"
     },
 
     {
