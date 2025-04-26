@@ -7,8 +7,6 @@ export default function Car(props) {
     }
     return(
         <>
-        <div>
-        </div>
         <div className="car-card">
         <img src={props.Img}  className="car-image"/>           
         <div className="car-details">
