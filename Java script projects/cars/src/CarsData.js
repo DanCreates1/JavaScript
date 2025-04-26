@@ -512,6 +512,27 @@ import { nanoid } from 'nanoid';
                       With its blend of power and refinement, the BMW M5 is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
         video: "https://www.youtube.com/embed//CLecdI8ibP4?si=-75YlmSScOp0nSYw"
     },
+    {
+        key: nanoid(),
+        name: "BMW M6",
+        brand: "BMW",
+        Img: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2017-03-07_Geneva_Motor_Show_0996.JPG/500px-2017-03-07_Geneva_Motor_Show_0996.JPG",
+        price: "$120,000",
+        engine: "4.4L V8 Twin-Turbo",
+        horsepower: 600,
+        transmission: "7-Speed Dual-Clutch",
+        torque: "750 Nm",
+        topSpeed: "305 km/h",
+        to100: 3.9,
+        weight: "1,800 KG",
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "RWD",
+        description: `The BMW M6 is a high-performance luxury coupe that combines stunning design with exhilarating performance. 
+                      Powered by a twin-turbocharged V8 engine, the M6 delivers impressive power and acceleration. 
+                      Its sleek and aerodynamic exterior is complemented by a meticulously crafted interior featuring premium materials and advanced technology. 
+                      With a focus on driving dynamics and precision engineering, the M6 offers a thrilling driving experience that appeals to enthusiasts and luxury car buyers alike.`,
+        video:"https://www.youtube.com/embed///Iia63WdpN00?si=7MeC_OZjFZCrcV4H"
+    },
 
 
     {
