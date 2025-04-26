@@ -244,6 +244,7 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         name: "gtr R34",
+        brand: "Nissan",
         Img: "https://images.pexels.com/photos/18818905/pexels-photo-18818905/free-photo-of-a-blue-nissan-skyline-gt-r-on-the-driveway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$80,000",
         engine: "2.6L Inline-6 Twin-Turbo",
@@ -265,6 +266,7 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         name: "gtr R33",
+        brand: "Nissan",
         Img: "https://images.pexels.com/photos/18818906/pexels-photo-18818906/free-photo-of-a-blue-nissan-skyline-gt-r-on-the-driveway.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$50,000",
         engine: "2.6L Inline-6 Twin-Turbo",
@@ -285,6 +287,7 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         name: "gtr R32",
+        brand: "Nissan",
         Img: "https://images.pexels.com/photos/30313569/pexels-photo-30313569/free-photo-of-nissan-gtr-in-motion-at-sunset-in-ankara.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$40,000",
         engine: "2.6L Inline-6 Twin-Turbo",
@@ -328,6 +331,7 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         name: "Toyota Supra MK4",
+        brand: "Toyota",
         Img: "https://images.pexels.com/photos/28569837/pexels-photo-28569837/free-photo-of-dynamic-toyota-supra-mk4-in-motion-on-open-road.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$100,000",
         engine: "3.0L Inline-6 Twin-Turbo",
@@ -369,6 +373,7 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         name: "Honda NSX",
+        brand: "Honda",
         Img: "https://images.pexels.com/photos/26936242/pexels-photo-26936242/free-photo-of-black-honda-nsx.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$157,000",
         engine: "3.5L V6 Twin-Turbo + Electric Motors",
@@ -412,6 +417,7 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         name: "Lexus LC500",
+        brand: "lexus",
         Img: "https://images.pexels.com/photos/2684218/pexels-photo-2684218.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$95,000",
         engine: "5.0L V8",
@@ -464,7 +470,7 @@ import { nanoid } from 'nanoid';
     },
     {
         key: nanoid(),
-
+        brand: "BMW",
         name: "BMW M4",
         Img: "https://images.pexels.com/photos/8253060/pexels-photo-8253060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         price: "$75,000",
@@ -487,6 +493,7 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         name: "BMW M5",
+        brand: "BMW",
         Img: "https://images.pexels.com/photos/17888840/pexels-photo-17888840/free-photo-of-a-blue-bmw-m5-parked-on-a-street-at-night.jpeg?auto=compress&cs=tinysrgb&w=600",
         price: "$104,000",
         engine: "4.4L V8 Twin-Turbo",

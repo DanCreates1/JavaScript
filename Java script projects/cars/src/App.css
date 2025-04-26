@@ -13,9 +13,7 @@ main{
   flex-direction: row;
   flex-wrap: wrap
 }
-div{
-  font-size: 3vh;
-  
+.car-header{
   text-align: center;
   align-items: center;
 }
@@ -68,7 +66,6 @@ div{
 
   @media screen and (max-width: 600px) {
     .car-card {
-      flex-direction: column;
       max-width: 100%;
     }
   

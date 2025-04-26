@@ -7,13 +7,13 @@ export default function Car(props) {
     }
     return(
         <>
-        <div>{props.country}</div>
-        <br/>
-        <h3>{props.brand}</h3>
+        <div>
+        </div>
         <div className="car-card">
         <img src={props.Img}  className="car-image"/>           
         <div className="car-details">
         <h2>{props.name}</h2>
+        <p><strong>Brand:</strong> {props.brand}</p>
         <p><strong>Price:</strong> {props.price}</p>
         <p><strong>Engine:</strong> {props.engine}</p>
         <p><strong>Horsepower:</strong> {props.horsepower}</p>
