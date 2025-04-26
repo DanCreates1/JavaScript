@@ -534,6 +534,27 @@ import { nanoid } from 'nanoid';
         video:"https://www.youtube.com/embed///Iia63WdpN00?si=7MeC_OZjFZCrcV4H"
     },
 
+    {
+        key: nanoid(),
+        name: "BMW M8",
+        brand: "BMW",
+        Img: "https://images.pexels.com/photos/29130255/pexels-photo-29130255/free-photo-of-luxury-bmw-m8-parked-in-modern-urban-garage.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$130,000",
+        engine: "4.4L V8 Twin-Turbo",
+        horsepower: 600,
+        transmission: "8-Speed Automatic",
+        torque: "750 Nm",
+        topSpeed: "305 km/h",
+        to100: 3.0,
+        weight: "1,800 KG",
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "AWD",
+        description: `The BMW M8 is a high-performance luxury coupe that combines stunning design with exhilarating performance. 
+                      Powered by a twin-turbocharged V8 engine, the M8 delivers impressive power and acceleration. 
+                      Its sleek and aerodynamic exterior is complemented by a meticulously crafted interior featuring premium materials and advanced technology. 
+                      With a focus on driving dynamics and precision engineering, the M8 offers a thrilling driving experience that appeals to enthusiasts and luxury car buyers alike.`,
+        video: "https://www.youtube.com/embed///mlKQEJQkwM4?si=m-hTmwgwTTjI1yKI"
+    },
 
     {
         key: nanoid(),
