@@ -439,6 +439,30 @@ import { nanoid } from 'nanoid';
     {
         key: nanoid(),
         country:"Japan",
+        brand: "Lexus",
+        name: "Lexus GT3",
+        Img: "https://hips.hearstapps.com/hmg-prod/images/lexus-newsroom-gtd-pro-announcement-1645807194.jpg",
+        price: "$200,000",
+        engine: "5.4L V8",
+        horsepower: 500,
+        transmission: "6-Speed Sequential",
+        torque: "600 Nm",
+        topSpeed: "300 km/h",
+        to100: 3.5,
+        weight: "1,200 KG",
+        fuelEconomy: "N/A",
+        drivetrin: "RWD",
+        description: `The Lexus RC F GT3 is a high-performance racing car designed for competitive motorsport.
+                        Powered by a naturally aspirated V8 engine, the RC F GT3 delivers impressive power and acceleration on the track.
+                        Its lightweight construction and aerodynamic enhancements contribute to its agility and handling capabilities.
+                        The RC F GT3 features advanced technology and engineering, making it a formidable contender in GT racing series around the world.
+                        With its striking design and racing pedigree, the Lexus RC F GT3 embodies the spirit of performance and competition.`,
+        video: "https://www.youtube.com/embed//yZsbQ0r94zE?si=l_z6hEdRZ4bwb_k8"
+
+    },
+    {
+        key: nanoid(),
+        country:"Japan",
         brand: "Subaru",
         name: "Subaru WRX STI",
         Img: "https://images.pexels.com/photos/17111129/pexels-photo-17111129/free-photo-of-modified-white-subaru-impreza-wrx-sti.jpeg?auto=compress&cs=tinysrgb&w=600",
@@ -527,6 +551,42 @@ import { nanoid } from 'nanoid';
                       The distinctive styling and aerodynamic features contribute to its iconic appearance on the road. 
                       The RX-7's combination of performance, innovation, and driving enjoyment has made it a favorite among automotive enthusiasts and collectors alike.`,
         video: "https://www.youtube.com/embed////uLaPPrXzpO0?si=T_9eZ26Etv6MMQkZ"
+    },
+    {
+        key: nanoid(),
+        country:"Japan",
+        brand: "Mazda",
+        name: "Mazda RX-8",
+        Img: "https://images.spot.im/v1/production/gxhslwb9cld3ls9un6op",
+        price: "$30,000",
+        engine: "1.3L Wankel Rotary",
+        horsepower: 238,
+        transmission: "6-Speed Manual",
+        torque: "250 Nm",
+        topSpeed: "240 km/h",
+        to100: 5.9,
+        weight: "1,300 KG",
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "RWD",
+        description: `The Mazda RX-8 is a unique sports car that features a distinctive rotary engine and a four-door coupe design.
+                        With its lightweight construction and balanced handling, the RX-8 delivers an engaging driving experience.
+                        The innovative design includes rear-hinged doors for easy access to the rear seats, making it a practical choice for a sports car.
+                        The RX-8's high-revving rotary engine provides a thrilling soundtrack and impressive performance, while its sleek styling and aerodynamic features contribute to its sporty appearance.
+                        With a focus on driving enjoyment and innovation, the Mazda RX-8 has earned a dedicated following among automotive enthusiasts.`,
+        video: "https://www.youtube.com/embed//gnQok8pyk-Q?si=fxr_ThgKgbIdS6ze"                
+    },
+    {
+        key: nanoid(),
+        country:"Japan",
+        brand: "Mazda",
+        name: "Mazda MX-5 Miata",
+        Img: "https://images.pexels.com/photos/30313560/pexels-photo-30313560/free-photo-of-sleek-bmw-car-parked-outdoors-in-ankara.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$30,000",
+        engine: "2.0L Inline-4",
+        horsepower: 181,
+        transmission: "6-Speed Manual",
+        torque: "205 Nm",
+
     },
     /*  
     Mazda
