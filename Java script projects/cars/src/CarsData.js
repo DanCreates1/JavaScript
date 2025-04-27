@@ -460,10 +460,35 @@ import { nanoid } from 'nanoid';
         video: "https://www.youtube.com/embed///LxNZFFdgfac?si=Yh1D2hvdZEr_3qm5"
 
     },
-    /* BMW
-        
+    {
+        key: nanoid(),
+        country:"Japan",
+        brand: "Subaru",
+        name: "BRZ",
+        Img: "https://images.pexels.com/photos/31768891/pexels-photo-31768891/free-photo-of-subaru-brz-at-night-gas-station-stop.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$30,000",
+        engine: "2.4L Flat-4",
+        horsepower: 228,
+        transmission: "6-Speed Manual",
+        torque: "250 Nm",
+        topSpeed: "226 km/h",
+        to100: 6.1,
+        weight: "1,300 KG",
+        fuelEconomy: "8 L/100 km",
+        drivetrin: "RWD",
+        description: `The Subaru BRZ is a lightweight sports coupe that emphasizes driving enjoyment and precision handling. 
+                      Powered by a naturally aspirated flat-four engine, the BRZ delivers a balanced and engaging driving experience. 
+                      Its rear-wheel-drive layout and low center of gravity contribute to its nimble handling and responsiveness on the road. 
+                      The sleek design and aerodynamic features enhance its sporty appearance, while the driver-focused interior offers modern technology and comfort. 
+                      With a focus on performance and fun, the Subaru BRZ is a true enthusiast's car that delivers an exhilarating driving experience.`,
+        video: "https://www.youtube.com/embed//B119ipAR-d0?si=jsQ5RGph5NBLmyw_"
+
+
+
+
+    },
+    /*  
     Subaru
-    WRX STI
     WRX
     BRZ
     Legacy GT
