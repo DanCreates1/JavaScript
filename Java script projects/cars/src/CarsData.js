@@ -436,15 +436,42 @@ import { nanoid } from 'nanoid';
         video: "https://www.youtube.com/embed///giIP0XdT7SA?si=MJbRA2j1If2jdWzF"
 
     },
+    {
+        key: nanoid(),
+        country:"Japan",
+        brand: "Subaru",
+        name: "Subaru WRX STI",
+        Img: "https://images.pexels.com/photos/17111129/pexels-photo-17111129/free-photo-of-modified-white-subaru-impreza-wrx-sti.jpeg?auto=compress&cs=tinysrgb&w=600",
+        price: "$40,000",
+        engine: "2.5L Flat-4 Turbo",
+        horsepower: 310,
+        transmission: "6-Speed Manual",
+        torque: "392 Nm",
+        topSpeed: "250 km/h",
+        to100: 4.6,
+        weight: "1,500 KG",
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "AWD",
+        description: `The Subaru WRX STI is a high-performance sports sedan that has gained a cult following among automotive enthusiasts. 
+                      Known for its rally heritage and all-wheel-drive capabilities, the WRX STI delivers exhilarating performance and handling. 
+                      Its turbocharged flat-four engine provides impressive power and torque, while the sport-tuned suspension enhances driving dynamics. 
+                      The aggressive styling and aerodynamic features contribute to its striking presence on the road. 
+                      With a focus on performance and driver engagement, the WRX STI is a true driver's car that offers an unforgettable driving experience.`,
+        video: "https://www.youtube.com/embed///LxNZFFdgfac?si=Yh1D2hvdZEr_3qm5"
+
+    },
     /* BMW
-    M3
-    M4
-    M5
-    M6
-    M8
-    X5M
-    X6M
-    Z4M*/
+        
+    Subaru
+    WRX STI
+    WRX
+    BRZ
+    Legacy GT
+    
+    Mazda
+    RX7
+    RX8
+    MX5 Miata*/
     {
         key: nanoid(),
         country:"Germany",
@@ -557,7 +584,7 @@ import { nanoid } from 'nanoid';
     },
     {
         key: nanoid(),
-        name: "BMW z4M",
+        name: "BMW Z4M",
         brand: "BMW",
         Img: "https://hips.hearstapps.com/autoweek/assets/s3fs-public/2019-bmw-z4-1.jpg?resize=480",
         price: "$69,000",
@@ -598,6 +625,28 @@ import { nanoid } from 'nanoid';
                       Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience. 
                       Inside, the X5 M features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and comfort.`,
         video: "https://www.youtube.com/embed//1KpEoaTsAVA?si=fz_bljwz7mtbHDbo"
+    },
+    {
+        key: nanoid(),
+        name: "BMW X6M",
+        brand: "BMW",
+        Img: "https://media.istockphoto.com/id/1519157870/photo/bmw-x6-m-display-at-a-dealership-bmw-offers-the-x6-in-m60i-or-xdrive40i-models.jpg?s=612x612&w=0&k=20&c=1ZhzMr8NowyYol8A5BBukI30MyZpYxlA96HuWrO7kAg=",
+        price: "$120,000",
+        engine: "4.4L V8 Twin-Turbo",
+        horsepower: 600,
+        transmission: "8-Speed Automatic",
+        torque: "750 Nm", 
+        topSpeed: "290 km/h",
+        to100: 3.8,
+        weight: "2,400 KG",
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "AWD",
+        description: `The BMW X6 M is a high-performance luxury SUV that combines the practicality of an SUV with the exhilarating performance of a sports car. 
+                      Powered by a twin-turbocharged V8 engine, the X6 M delivers impressive power and acceleration. 
+                      Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience. 
+                      Inside, the X6 M features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and comfort.`,
+        video: "https://www.youtube.com/embed//UkGqfOGQWkw?si=A4GWYS5Ck7fao6h6"
+
     },
 
     {
