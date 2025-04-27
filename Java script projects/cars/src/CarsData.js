@@ -482,10 +482,29 @@ import { nanoid } from 'nanoid';
                       The sleek design and aerodynamic features enhance its sporty appearance, while the driver-focused interior offers modern technology and comfort. 
                       With a focus on performance and fun, the Subaru BRZ is a true enthusiast's car that delivers an exhilarating driving experience.`,
         video: "https://www.youtube.com/embed//B119ipAR-d0?si=jsQ5RGph5NBLmyw_"
-
-
-
-
+    },
+    {
+        key: nanoid(),
+        country:"Japan",
+        brand: "Subaru",
+        name: "Legacy GT",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRX-5yJPNShzYuq36Tf8OsXLl8jWtobVMyQQ&s",
+        price: "$35,000",
+        engine: "2.5L Flat-4 Turbo",
+        horsepower: 250,
+        transmission: "6-Speed Manual",
+        torque: "350 Nm",
+        topSpeed: "240 km/h",
+        to100: 6.0,
+        weight: "1,600 KG",
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "AWD",
+        description: `The Subaru Legacy GT is a sporty midsize sedan that combines practicality with performance. 
+                      Powered by a turbocharged flat-four engine, the Legacy GT delivers impressive power and handling capabilities. 
+                      Its all-wheel-drive system enhances traction and stability, making it suitable for various driving conditions. 
+                      The sleek design and spacious interior provide comfort and convenience for both daily commuting and long journeys. 
+                      With a focus on versatility and performance, the Subaru Legacy GT is a well-rounded choice for enthusiasts and families alike.`,
+        video: "https://www.youtube.com/embed///DV6pRm-cXfc?si=2bRguoJ4JHA0_0_h"
     },
     /*  
     Subaru
