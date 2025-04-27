@@ -580,12 +580,23 @@ import { nanoid } from 'nanoid';
         country:"Japan",
         brand: "Mazda",
         name: "Mazda MX-5 Miata",
-        Img: "https://images.pexels.com/photos/30313560/pexels-photo-30313560/free-photo-of-sleek-bmw-car-parked-outdoors-in-ankara.jpeg?auto=compress&cs=tinysrgb&w=600",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9pRkMdwTCbT7EZWciDVckU3kgEC7kcimwxA&s",
         price: "$30,000",
         engine: "2.0L Inline-4",
         horsepower: 181,
         transmission: "6-Speed Manual",
         torque: "205 Nm",
+        topSpeed: "220 km/h",
+        to100: 5.8,
+        weight: "1,200 KG",
+        fuelEconomy: "8 L/100 km",
+        drivetrin: "RWD",
+        description: `The Mazda MX-5 Miata is a lightweight and agile sports car that has become an icon in the automotive world. 
+                      Known for its responsive handling and open-top design, the MX-5 delivers an exhilarating driving experience. 
+                      The naturally aspirated inline-four engine provides ample power while maintaining excellent fuel efficiency. 
+                      Its compact size and rear-wheel-drive layout contribute to its nimble performance on twisty roads. 
+                      With a focus on driving enjoyment and simplicity, the Mazda MX-5 Miata is a true driver's car that embodies the spirit of fun and freedom.`,
+        video: "https://www.youtube.com/embed//Glwxt5uKztM?si=PMx_h5dejjKSsdpw"
 
     },
     /*  
