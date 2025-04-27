@@ -506,12 +506,29 @@ import { nanoid } from 'nanoid';
                       With a focus on versatility and performance, the Subaru Legacy GT is a well-rounded choice for enthusiasts and families alike.`,
         video: "https://www.youtube.com/embed///DV6pRm-cXfc?si=2bRguoJ4JHA0_0_h"
     },
+    {
+        key: nanoid(),
+        country:"Japan",
+        brand: "Mazda",
+        name: "Mazda RX-7",
+        Img: "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/d2/d4/48/caption.jpg?w=1200&h=-1&s=1",
+        price: "$50,000",
+        engine: "1.3L Wankel Rotary",
+        horsepower: 276,
+        transmission: "5-Speed Manual",
+        torque: "400 Nm",
+        topSpeed: "250 km/h",
+        to100: 5.0,
+        weight: "1,200 KG",
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "RWD",
+        description: `The Mazda RX-7 is a legendary sports car known for its unique rotary engine and lightweight design. 
+                      With its agile handling and balanced chassis, the RX-7 delivers an exhilarating driving experience. 
+                      The distinctive styling and aerodynamic features contribute to its iconic appearance on the road. 
+                      The RX-7's combination of performance, innovation, and driving enjoyment has made it a favorite among automotive enthusiasts and collectors alike.`,
+        video: "https://www.youtube.com/embed////uLaPPrXzpO0?si=T_9eZ26Etv6MMQkZ"
+    },
     /*  
-    Subaru
-    WRX
-    BRZ
-    Legacy GT
-    
     Mazda
     RX7
     RX8
