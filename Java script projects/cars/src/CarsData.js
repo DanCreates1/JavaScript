@@ -807,7 +807,7 @@ import { nanoid } from 'nanoid';
         topSpeed: "317 km/h",
         to100: 3.6,
         weight: 1620,
-        fuelEconomy: 12,
+        fuelEconomy: "13 L/100 km", 
         drivetrin: "RWD",
         description: `The Mercedes-Benz AMG GT is a high-performance sports car that combines stunning design with exhilarating performance. 
                       Powered by a twin-turbocharged V8 engine, the AMG GT delivers impressive power and acceleration. 
@@ -829,7 +829,7 @@ import { nanoid } from 'nanoid';
         topSpeed: "250 km/h",
         to100: 3.9,
         weight: 1800,
-        fuelEconomy: 10,
+        fuelEconomy: "10 L/100 km",
         drivetrin: "RWD",
         description: `The Mercedes-Benz C63 AMG is a high-performance luxury sedan that combines power, precision, and sophistication. 
                       Powered by a twin-turbocharged V8 engine, the C63 AMG delivers exhilarating acceleration and impressive handling capabilities. 
@@ -851,7 +851,7 @@ import { nanoid } from 'nanoid';
         topSpeed: "300 km/h",
         to100: 3.4,
         weight: 1900,
-        fuelEconomy: 11,
+        fuelEconomy: "11 L/100 km",
         drivetrin: "AWD",
         description: `The Mercedes-Benz E63 AMG is a high-performance luxury sedan that combines power, precision, and sophistication.
                         Powered by a twin-turbocharged V8 engine, the E63 AMG delivers exhilarating acceleration and impressive handling capabilities.
@@ -881,6 +881,25 @@ import { nanoid } from 'nanoid';
                       Inside, the SLS AMG features a luxurious interior with advanced technology and premium materials, providing both comfort and performance. 
                       With its blend of power and refinement, the Mercedes-Benz SLS AMG is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
         video:"https://www.youtube.com/embed//mj_oHQtfnss?si=Iie1NjDRpbJsuVeC"
+
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz SLR McLaren",
+        Img: "https://www.topgearmedia.co.uk/media/2x/mercedes-slr-mclaren-1.jpg",
+        price: "$500,000",
+        engine: "5.4L V8 Supercharged",
+        horsepower: 617,
+        transmission: "5-Speed Automatic",
+        torque: 780,
+        topSpeed: "334 km/h",
+        to100: 3.4,
+        weight: 1760,
+        fuelEconomy: 15,
+        drivetrin: "RWD",
+
 
     },
 
