@@ -835,7 +835,7 @@ import { nanoid } from 'nanoid';
                       Powered by a twin-turbocharged V8 engine, the C63 AMG delivers exhilarating acceleration and impressive handling capabilities. 
                       Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience. 
                       Inside, the C63 AMG features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and refinement.`,
-        video:"https://www.youtube.com/embed//qrfnL4K5NMI?si=3n1PHDNl8C0-SaSz"
+        video:"https://www.youtube.com/embed//k_eCDIT3Nl8?si=pX2VyuoPcaGWJPg6"
     },
 
     {
