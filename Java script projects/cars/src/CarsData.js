@@ -858,8 +858,8 @@ import { nanoid } from 'nanoid';
                         Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience.
                         Inside, the E63 AMG features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and refinement.`,
         video: "https://www.youtube.com/embed//aeOLFiiVdxw?si=EPldsqB63i5YWDIC"
-
     },
+    
 
     {
         key: nanoid(),
