@@ -815,6 +815,28 @@ import { nanoid } from 'nanoid';
                       With a focus on driving dynamics and precision engineering, the AMG GT offers a thrilling driving experience that appeals to enthusiasts and luxury car buyers alike.`,
         video:"https://www.youtube.com/embed///HqMBCXvdyw8?si=jIFfogs1tKBOs2vK"
     },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz C63 AMG",
+        Img: "https://hips.hearstapps.com/hmg-prod/images/2023-mercedes-amg-c63-s-e-performance-109-65d79697e865a.jpg?crop=0.651xw:0.549xh;0.0897xw,0.326xh&resize=1200:*",
+        price: "$80,000",
+        engine: "4.0L V8 Twin-Turbo",
+        horsepower: 503,
+        transmission: "9-Speed Automatic",
+        torque: 700,
+        topSpeed: "250 km/h",
+        to100: 3.9,
+        weight: 1800,
+        fuelEconomy: 10,
+        drivetrin: "RWD",
+        description: `The Mercedes-Benz C63 AMG is a high-performance luxury sedan that combines power, precision, and sophistication. 
+                      Powered by a twin-turbocharged V8 engine, the C63 AMG delivers exhilarating acceleration and impressive handling capabilities. 
+                      Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience. 
+                      Inside, the C63 AMG features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and refinement.`,
+        video:"https://www.youtube.com/embed//qrfnL4K5NMI?si=3n1PHDNl8C0-SaSz"
+    },
 
     {
         key: nanoid(),
