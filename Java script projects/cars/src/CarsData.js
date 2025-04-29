@@ -873,7 +873,7 @@ import { nanoid } from 'nanoid';
         topSpeed: "317 km/h",
         to100: 3.8,
         weight: 1620,
-        fuelEconomy: 13,
+        fuelEconomy: "13 L/100 km",
         drivetrin: "RWD",
         description: `The Mercedes-Benz SLS AMG is a high-performance luxury sports car that combines stunning design with exhilarating performance. 
                       Powered by a naturally aspirated V8 engine, the SLS AMG delivers impressive power and acceleration. 
@@ -888,7 +888,7 @@ import { nanoid } from 'nanoid';
         country:"Germany",
         brand: "Mercedes-Benz",
         name: "Mercedes-Benz SLR McLaren",
-        Img: "https://www.topgearmedia.co.uk/media/2x/mercedes-slr-mclaren-1.jpg",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzToaVu0a-Agfarwn0ZuNY5cR0HILN_VdxA&s",
         price: "$500,000",
         engine: "5.4L V8 Supercharged",
         horsepower: 617,
@@ -897,9 +897,14 @@ import { nanoid } from 'nanoid';
         topSpeed: "334 km/h",
         to100: 3.4,
         weight: 1760,
-        fuelEconomy: 15,
+        fuelEconomy: "15 L/100 km",
         drivetrin: "RWD",
-
+        description: `The Mercedes-Benz SLR McLaren is a limited-production supercar that represents the pinnacle of automotive engineering and design.
+                      Powered by a supercharged V8 engine, the SLR McLaren delivers breathtaking performance and acceleration.
+                      Its sleek and aerodynamic exterior is complemented by a luxurious interior featuring premium materials and advanced technology.
+                      With a focus on performance and exclusivity, the SLR McLaren is a true collector's item that embodies the spirit of Mercedes-Benz and McLaren's racing heritage.
+                      The SLR McLaren's combination of power, luxury, and cutting-edge technology makes it a standout in the world of high-performance automobiles.`,
+        video : "https://www.youtube.com/embed///hjzfHp3TNL8?si=x3AfnECbvqmOpEo7"
 
     },
 
