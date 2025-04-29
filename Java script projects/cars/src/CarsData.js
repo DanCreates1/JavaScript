@@ -837,6 +837,29 @@ import { nanoid } from 'nanoid';
                       Inside, the C63 AMG features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and refinement.`,
         video:"https://www.youtube.com/embed//k_eCDIT3Nl8?si=pX2VyuoPcaGWJPg6"
     },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz E63 AMG",
+        Img: "https://www.topgear.com/sites/default/files/2022/06/1-Mercedes-AMG-E-Class-Final-Edition.jpg",
+        price: "$110,000",
+        engine: "4.0L V8 Twin-Turbo",
+        horsepower: 603,
+        transmission: "9-Speed Automatic",
+        torque: 850,
+        topSpeed: "300 km/h",
+        to100: 3.4,
+        weight: 1900,
+        fuelEconomy: 11,
+        drivetrin: "AWD",
+        description: `The Mercedes-Benz E63 AMG is a high-performance luxury sedan that combines power, precision, and sophistication.
+                        Powered by a twin-turbocharged V8 engine, the E63 AMG delivers exhilarating acceleration and impressive handling capabilities.
+                        Its aggressive styling, aerodynamic enhancements, and sport-tuned suspension contribute to its dynamic driving experience.
+                        Inside, the E63 AMG features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and refinement.`,
+        video: "https://www.youtube.com/embed//aeOLFiiVdxw?si=EPldsqB63i5YWDIC"
+
+    },
 
     {
         key: nanoid(),
