@@ -62,7 +62,11 @@ main{
     background-color: transparent;
     border: 2px solid black;
   }
-  
+
+.search-bar{
+  width: 20px;
+  height: 20px;
+}
 
   @media screen and (max-width: 600px) {
     .car-card {

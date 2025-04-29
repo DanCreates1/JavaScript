@@ -8,7 +8,6 @@ function App() {
   const [cars, setCars] = React.useState()
   const carElement = carData.map((car) => {
     return (
-      
       <Car 
             key={car.key}
             country={car.country}
@@ -33,6 +32,7 @@ function App() {
   
   return (
     <main>
+      <input type="text" placeholder="Search for a car" className="search-bar"/>
       {carElement}
     </main>
   );
