@@ -4,10 +4,10 @@ This list includes some of the most iconic, influential, and greatest cars in hi
 
 ---
 
-1. Japan
+1. Japan✅
 
 Nissan
-    GT-R R35
+    GT-R R35✅
     GT-R R34
     GT-R R33
     GT-R R32
@@ -15,18 +15,18 @@ Nissan
     Z370
 
     
-    Subaru
+    Subaru✅
     WRX STI
     WRX
     BRZ
     Legacy GT
     
-    Mazda
+    Mazda✅
     RX7
     RX8
     MX5 Miata
     
-    Lexus
+    Lexus✅
     LFA
     LC500
 
@@ -34,7 +34,7 @@ Nissan
     
     2. Germany
     
-    BMW
+    BMW✅
     M3
     M4
     M5
@@ -779,6 +779,41 @@ import { nanoid } from 'nanoid';
                       Inside, the X6 M features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and comfort.`,
         video: "https://www.youtube.com/embed//UkGqfOGQWkw?si=A4GWYS5Ck7fao6h6"
 
+    },
+    /* 
+        Mercedes-Benz
+    AMG GT
+    C63 AMG
+    E63 AMG
+    SLS AMG
+    SLR McLaren
+    G63 AMG
+    G65 AMG
+    G65 AMG 6x6
+    G-Class
+    G-Wagon
+    */
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz AMG GT",
+        Img: "https://www.topgear.com/sites/default/files/cars-car/image/2024/10/1-Mercedes-AMG-GT-63-Pro-review-2024.jpg",
+        price: "$130,000",
+        engine: "4.0L V8 Twin-Turbo",
+        horsepower: 523,
+        transmission: "7-Speed Dual-Clutch",
+        torque: 670,
+        topSpeed: "317 km/h",
+        to100: 3.6,
+        weight: 1620,
+        fuelEconomy: 12,
+        drivetrin: "RWD",
+        description: `The Mercedes-Benz AMG GT is a high-performance sports car that combines stunning design with exhilarating performance. 
+                      Powered by a twin-turbocharged V8 engine, the AMG GT delivers impressive power and acceleration. 
+                      Its sleek and aerodynamic exterior is complemented by a meticulously crafted interior featuring premium materials and advanced technology. 
+                      With a focus on driving dynamics and precision engineering, the AMG GT offers a thrilling driving experience that appeals to enthusiasts and luxury car buyers alike.`,
+        video:"https://www.youtube.com/embed///HqMBCXvdyw8?si=jIFfogs1tKBOs2vK"
     },
 
     {
