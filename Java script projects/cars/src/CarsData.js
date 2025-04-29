@@ -859,7 +859,30 @@ import { nanoid } from 'nanoid';
                         Inside, the E63 AMG features a luxurious interior with advanced technology and premium materials, making it a favorite among enthusiasts who seek both performance and refinement.`,
         video: "https://www.youtube.com/embed//aeOLFiiVdxw?si=EPldsqB63i5YWDIC"
     },
-    
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz SLS AMG",
+        Img: "https://wieck-mbusa-production.s3.amazonaws.com/photos/1d54dbf0eac7bfa7b0574f3e73d5783882808b85/preview-928x522.jpg",
+        price: "$200,000",
+        engine: "6.2L V8",
+        horsepower: 563,
+        transmission: "7-Speed Dual-Clutch",
+        torque: 650,
+        topSpeed: "317 km/h",
+        to100: 3.8,
+        weight: 1620,
+        fuelEconomy: 13,
+        drivetrin: "RWD",
+        description: `The Mercedes-Benz SLS AMG is a high-performance luxury sports car that combines stunning design with exhilarating performance. 
+                      Powered by a naturally aspirated V8 engine, the SLS AMG delivers impressive power and acceleration. 
+                      Its iconic gullwing doors and sleek aerodynamic lines make it a true head-turner on the road. 
+                      Inside, the SLS AMG features a luxurious interior with advanced technology and premium materials, providing both comfort and performance. 
+                      With its blend of power and refinement, the Mercedes-Benz SLS AMG is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+        video:"https://www.youtube.com/embed//mj_oHQtfnss?si=Iie1NjDRpbJsuVeC"
+
+    },
 
     {
         key: nanoid(),
