@@ -32,7 +32,9 @@ function App() {
   
   return (
     <>
+    <div className='input-container'>
     <input type="text" placeholder="Search for a car" className="search-bar"/>
+    </div>
     <main>
       {carElement}
     </main>

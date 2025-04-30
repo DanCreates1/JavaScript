@@ -72,8 +72,8 @@ main{
   border-radius: 30px;
   text-align: center;
 }
-input{
-  align-items: center;
+.input-container{
+  text-align: center;
 }
 
   @media screen and (max-width: 600px) {
