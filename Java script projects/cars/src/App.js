@@ -31,10 +31,12 @@ function App() {
   )
   
   return (
+    <>
+    <input type="text" placeholder="Search for a car" className="search-bar"/>
     <main>
-      <input type="text" placeholder="Search for a car" className="search-bar"/>
       {carElement}
     </main>
+    </>
   );
 }
 
