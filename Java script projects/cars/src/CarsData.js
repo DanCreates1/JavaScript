@@ -987,29 +987,6 @@ import { nanoid } from 'nanoid';
                     Inside, the G-Class features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
         video: "https://www.youtube.com/embed//ID_e1bgpxLc?si=TnGKBHlTPH9kk3fx"
     },
-    {
-        key: nanoid(),
-        country:"Germany",
-        brand: "Mercedes-Benz",
-        name: "Mercedes-Benz G-Wagon",
-        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cygPekgmzrA65VtqJIzNUojd-mkNhSqPPA&s",
-        price: "$180,000",
-        engine: "4.0L V8 Twin-Turbo",
-        horsepower: 577,
-        transmission: "9-Speed Automatic",
-        torque: 850,
-        topSpeed: "240 km/h",
-        to100: 4.5,
-        weight: 2500,
-        fuelEconomy: "13 L/100 km",
-        drivetrin: "AWD",
-        description: `The Mercedes-Benz G-Wagon is a luxury SUV that combines rugged off-road capability with high-end luxury.
-                      Known for its iconic boxy design and exceptional off-road performance, the G-Wagon delivers a unique driving experience.
-                      Powered by a range of powerful engines, including V8 and V12 options, the G-Wagon offers impressive power and acceleration.
-                      Inside, the G-Wagon features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
-
-        video: "https://www.youtube.com/embed//2v0X1g3q4aE?si=5r7x8J6b9Qe1Wz0G"
-    },
     /*
         Porsche
     911 Turbo S
