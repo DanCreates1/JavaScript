@@ -1010,7 +1010,34 @@ import { nanoid } from 'nanoid';
 
         video: "https://www.youtube.com/embed//2v0X1g3q4aE?si=5r7x8J6b9Qe1Wz0G"
     },
+    /*
+        Porsche
+    911
+    911 Turbo S
+    911 GT3
+    911 GT3 RS
+    911 GT2 RS
+    911 Carrera GTS
+    911 Targa 4 GTS
+    911 S/T
+    911 Sport Classic
+    918 Spyder
+    Cayman GT4
+    718 Cayman GT4 RS
+    718 Cayman GTS 4.0
+    718 Boxster GTS 4.0
+    718 Spyder
+    Panamera Turbo S
     
+     */
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 911",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2X1v4x5b3g7j6k8m1nqYcJr0GzZl4W5f2A&s",
+        price: "$100,000",  
+    },
 
     /*{
         key: nanoid(),
