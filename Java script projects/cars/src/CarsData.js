@@ -969,7 +969,7 @@ import { nanoid } from 'nanoid';
         country:"Germany",
         brand: "Mercedes-Benz",
         name: "Mercedes-Benz G-Class",
-        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2X1v4x5b3g7j6k8m1nqYcJr0GzZl4W5f2A&s",
+        Img: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Mercedes-Benz_W463_G_350_BlueTEC_01.jpg/1200px-Mercedes-Benz_W463_G_350_BlueTEC_01.jpg",
         price: "$180,000",
         engine: "4.0L V8 Twin-Turbo",
         horsepower: 577,
@@ -985,14 +985,14 @@ import { nanoid } from 'nanoid';
                     Known for its iconic boxy design and exceptional off-road performance, the G-Class delivers a unique driving experience.
                     Powered by a range of powerful engines, including V8 and V12 options, the G-Class offers impressive power and acceleration.
                     Inside, the G-Class features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
-        video: "https://www.youtube.com/embed//2v0X1g3q4aE?si=5r7x8J6b9Qe1Wz0G"
+        video: "https://www.youtube.com/embed//ID_e1bgpxLc?si=TnGKBHlTPH9kk3fx"
     },
     {
         key: nanoid(),
         country:"Germany",
         brand: "Mercedes-Benz",
         name: "Mercedes-Benz G-Wagon",
-        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2X1v4x5b3g7j6k8m1nqYcJr0GzZl4W5f2A&s",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1cygPekgmzrA65VtqJIzNUojd-mkNhSqPPA&s",
         price: "$180,000",
         engine: "4.0L V8 Twin-Turbo",
         horsepower: 577,
@@ -1012,7 +1012,6 @@ import { nanoid } from 'nanoid';
     },
     /*
         Porsche
-    911
     911 Turbo S
     911 GT3
     911 GT3 RS
@@ -1034,9 +1033,24 @@ import { nanoid } from 'nanoid';
         key: nanoid(),
         country:"Germany",
         brand: "Porsche",
-        name: "Porsche 911",
-        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2X1v4x5b3g7j6k8m1nqYcJr0GzZl4W5f2A&s",
-        price: "$100,000",  
+        name: "Porsche 911 Turbo S",
+        Img: "https://www.autotrader.ca/editorial/media/199633/2021-porsche-911-turbo-s-td-03-di.jpg?width=1920&height=1080&v=1d77f560bde9310",
+        price: "$232,000",        
+        engine: "3.8L Flat-6 Twin-Turbo",
+        horsepower: 640,
+        transmission: "8-Speed PDK",
+        torque: 800,
+        topSpeed: "330 km/h",
+        to100: 2.6,
+        weight: 1640,
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "AWD",
+        description: `The Porsche 911 Turbo S is a high-performance sports car that combines iconic design with cutting-edge technology.
+                      Powered by a twin-turbocharged flat-six engine, the Turbo S delivers blistering acceleration and impressive handling capabilities.
+                    Its sleek and aerodynamic exterior is complemented by a luxurious interior featuring premium materials and advanced technology.
+                        With a focus on performance and precision engineering, the 911 Turbo S offers a thrilling driving experience that appeals to enthusiasts and luxury car buyers alike.
+                    The Turbo S's combination of power, luxury, and advanced features makes it a standout in the world of high-performance automobiles.`,
+        video: "https://www.youtube.com/embed//lbuWj85y9vo?si=VGK1QKfdDOqAZyRb"
     },
 
     /*{
