@@ -54,7 +54,7 @@ Nissan
     G65 AMG
     G65 AMG 6x6
     G-Class
-    G-Wagon
+    G-Wagon✅
     
     Audi
     R8
@@ -959,7 +959,7 @@ import { nanoid } from 'nanoid';
         brand: "Mercedes-Benz",
         name: "Mercedes-Benz G65 AMG 6x6",
         Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdilY0YwsJ5Y36mZXPiGzoLqAftis8XaSXQ&s",
-        price: "$500,000",
+        price: "$800,000",
         engine: "5.5L V8 Twin-Turbo",
         horsepower: 544,
         transmission: "7-Speed Automatic",
@@ -979,11 +979,57 @@ import { nanoid } from 'nanoid';
 
     {
         key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz G-Class",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2X1v4x5b3g7j6k8m1nqYcJr0GzZl4W5f2A&s",
+        price: "$180,000",
+        engine: "4.0L V8 Twin-Turbo",
+        horsepower: 577,
+        transmission: "9-Speed Automatic",
+        torque: 850,
+        topSpeed: "240 km/h",
+        to100: 4.5,
+        weight: 2500,
+        fuelEconomy: "13 L/100 km",
+        drivetrin: "AWD",
+        description: `The Mercedes-Benz G-Class is a luxury
+                    SUV that combines rugged off-road capability with high-end luxury. 
+                    Known for its iconic boxy design and exceptional off-road performance, the G-Class delivers a unique driving experience.
+                    Powered by a range of powerful engines, including V8 and V12 options, the G-Class offers impressive power and acceleration.
+                    Inside, the G-Class features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
+        video: "https://www.youtube.com/embed//2v0X1g3q4aE?si=5r7x8J6b9Qe1Wz0G"
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz G-Wagon",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq2X1v4x5b3g7j6k8m1nqYcJr0GzZl4W5f2A&s",
+        price: "$180,000",
+        engine: "4.0L V8 Twin-Turbo",
+        horsepower: 577,
+        transmission: "9-Speed Automatic",
+        torque: 850,
+        topSpeed: "240 km/h",
+        to100: 4.5,
+        weight: 2500,
+        fuelEconomy: "13 L/100 km",
+        drivetrin: "AWD",
+        description: `The Mercedes-Benz G-Wagon is a luxury SUV that combines rugged off-road capability with high-end luxury.
+                      Known for its iconic boxy design and exceptional off-road performance, the G-Wagon delivers a unique driving experience.
+                        Powered by a range of powerful engines, including V8 and V12 options, the G-Wagon offers impressive power and acceleration.
+                        Inside, the G-Wagon features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
+
+    },
+
+    {
+        key: nanoid(),
         country:"Italy",
         brand: "Lamborghini",
         name: "Lamborghini Huracan",
         Img: "https://images.unsplash.com/photo-1607870379000-1f6d5e892aba?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        price: "$250,000",
+        price: "$400,000",
         engine: "5.2L V10",
         horsepower: 630,
         transmission: "6-Speed Manual",
@@ -997,7 +1043,9 @@ import { nanoid } from 'nanoid';
         description: `The Lamborghini Huracán is a stunning supercar that embodies the essence of Italian automotive excellence. 
                       With its aggressive design, powerful V10 engine, and advanced aerodynamics, the Huracán delivers exhilarating performance and breathtaking speed. 
                       Its luxurious interior features cutting-edge technology and premium materials, providing a perfect blend of comfort and sportiness. 
-                      Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`
+                      Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`,
+        video: "https://www.youtube.com/embed///w9G9CO72x8g?si=VeYCynQk55tvmivP"
+
     },
     
 ];
