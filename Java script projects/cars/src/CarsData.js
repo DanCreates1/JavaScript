@@ -1018,8 +1018,10 @@ import { nanoid } from 'nanoid';
         drivetrin: "AWD",
         description: `The Mercedes-Benz G-Wagon is a luxury SUV that combines rugged off-road capability with high-end luxury.
                       Known for its iconic boxy design and exceptional off-road performance, the G-Wagon delivers a unique driving experience.
-                        Powered by a range of powerful engines, including V8 and V12 options, the G-Wagon offers impressive power and acceleration.
-                        Inside, the G-Wagon features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
+                      Powered by a range of powerful engines, including V8 and V12 options, the G-Wagon offers impressive power and acceleration.
+                      Inside, the G-Wagon features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
+
+        video: "https://www.youtube.com/embed//2v0X1g3q4aE?si=5r7x8J6b9Qe1Wz0G"
 
     },
 
