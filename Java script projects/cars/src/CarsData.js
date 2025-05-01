@@ -952,7 +952,29 @@ import { nanoid } from 'nanoid';
                       Inside, the G65 AMG features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.
                       With its blend of power and refinement, the Mercedes-Benz G65 AMG is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
        video:"https://www.youtube.com/embed///vu9fQfA3IwI?si=C94cnM8cfMVHufLj"
-
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz G65 AMG 6x6",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbdilY0YwsJ5Y36mZXPiGzoLqAftis8XaSXQ&s",
+        price: "$500,000",
+        engine: "5.5L V8 Twin-Turbo",
+        horsepower: 544,
+        transmission: "7-Speed Automatic",
+        torque: 760,
+        topSpeed: "160 km/h",
+        to100: 7.8,
+        weight: 3800,
+        fuelEconomy: "20 L/100 km",
+        drivetrin: "AWD",
+        description: `The Mercedes-Benz G65 AMG 6x6 is a limited-production luxury off-road vehicle that combines rugged capability with high-performance luxury. 
+                      Powered by a twin-turbocharged V8 engine, the G65 AMG 6x6 delivers impressive power and off-road prowess. 
+                      Its unique six-wheel-drive system and elevated suspension make it capable of tackling the toughest terrains. 
+                      Inside, the G65 AMG 6x6 features a luxurious interior with premium materials and advanced technology, providing both comfort and performance. 
+                      With its blend of power and refinement, the Mercedes-Benz G65 AMG 6x6 is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+       video:"https://www.youtube.com/embed//zrESlrGCALM?si=qeUstzM8SAosEAzT"
     },
 
     {
