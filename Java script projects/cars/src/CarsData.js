@@ -1009,10 +1009,10 @@ import { nanoid } from 'nanoid';
                       Inside, the G-Wagon features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
 
         video: "https://www.youtube.com/embed//2v0X1g3q4aE?si=5r7x8J6b9Qe1Wz0G"
-
     },
+    
 
-    {
+    /*{
         key: nanoid(),
         country:"Italy",
         brand: "Lamborghini",
@@ -1035,6 +1035,6 @@ import { nanoid } from 'nanoid';
                       Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`,
         video: "https://www.youtube.com/embed///w9G9CO72x8g?si=VeYCynQk55tvmivP"
 
-    },
+    },*/
     
 ];
