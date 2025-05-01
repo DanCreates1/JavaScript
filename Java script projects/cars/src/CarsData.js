@@ -950,6 +950,8 @@ import { nanoid } from 'nanoid';
                       Powered by a twin-turbocharged V12 engine, the G65 AMG delivers impressive power and acceleration.
                         Its iconic design, aggressive styling, and advanced technology make it a standout on and off the road.
                         Inside, the G65 AMG features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.
+                        With its blend of power and refinement, the Mercedes-Benz G65 AMG is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+
     },
 
     {
