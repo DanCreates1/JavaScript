@@ -1030,6 +1030,30 @@ import { nanoid } from 'nanoid';
         video: "https://www.youtube.com/embed//lbuWj85y9vo?si=VGK1QKfdDOqAZyRb"
     },
 
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 911 GT3",
+        Img: "https://hips.hearstapps.com/hmg-prod/images/2025-porsche-911-gt3-102-67127828064af.jpg?crop=0.595xw:0.520xh;0.300xw,0.177xh&resize=1200:*",
+        price: "$240,000",
+        engine: "4.0L Flat-6",
+        horsepower: 502,
+        transmission: "6-Speed Manual",
+        torque: 470,
+        topSpeed: "318 km/h",
+        to100: 3.2,
+        weight: 1410,
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "RWD",
+        description: `The Porsche 911 GT3 is a high-performance sports car that embodies the spirit of motorsport and driving pleasure. 
+                      Powered by a naturally aspirated flat-six engine, the GT3 delivers exhilarating performance and precise handling. 
+                      Its lightweight construction, aerodynamic enhancements, and track-focused features make it a true driver's car. 
+                      Inside, the GT3 features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
+                      With its blend of power, agility, and racing heritage, the Porsche 911 GT3 is a favorite among enthusiasts and track-day aficionados.`,
+        video: "https://www.youtube.com/embed//DZAdVY9kKbc?si=5jqTGH73zv3tYkFZ"
+    },
+
     /*{
         key: nanoid(),
         country:"Italy",
