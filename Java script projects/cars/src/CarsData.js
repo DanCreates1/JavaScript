@@ -780,19 +780,6 @@ import { nanoid } from 'nanoid';
         video: "https://www.youtube.com/embed//UkGqfOGQWkw?si=A4GWYS5Ck7fao6h6"
 
     },
-    /* 
-        Mercedes-Benz
-    AMG GT
-    C63 AMG
-    E63 AMG
-    SLS AMG
-    SLR McLaren✅
-    G63 AMG
-    G65 AMG
-    G65 AMG 6x6
-    G-Class
-    G-Wagon
-    */
     {
         key: nanoid(),
         country:"Germany",
