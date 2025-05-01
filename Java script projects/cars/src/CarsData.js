@@ -786,7 +786,7 @@ import { nanoid } from 'nanoid';
     C63 AMG
     E63 AMG
     SLS AMG
-    SLR McLaren
+    SLR McLaren✅
     G63 AMG
     G65 AMG
     G65 AMG 6x6
@@ -906,6 +906,29 @@ import { nanoid } from 'nanoid';
                       The SLR McLaren's combination of power, luxury, and cutting-edge technology makes it a standout in the world of high-performance automobiles.`,
         video : "https://www.youtube.com/embed///hjzfHp3TNL8?si=x3AfnECbvqmOpEo7"
 
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz G63 AMG",
+        Img: "https://www.topgear.com/sites/default/files/2024/11/1-Mercedes-AMG-G63-review-UK-2024.jpg",
+        price: "$160,000",
+        engine: "4.0L V8 Twin-Turbo",
+        horsepower: 577,
+        transmission: "9-Speed Automatic",
+        torque: 850,
+        topSpeed: "240 km/h",
+        to100: 4.5,
+        weight: 2500,
+        fuelEconomy: "13 L/100 km",
+        drivetrin: "AWD",
+        description: `The Mercedes-Benz G63 AMG is a high-performance luxury SUV that combines rugged off-road capability with exhilarating performance. 
+                      Powered by a twin-turbocharged V8 engine, the G63 AMG delivers impressive power and acceleration. 
+                      Its iconic design, aggressive styling, and advanced technology make it a standout on and off the road. 
+                      Inside, the G63 AMG features a luxurious interior with premium materials and advanced technology, providing both comfort and performance. 
+                      With its blend of power and refinement, the Mercedes-Benz G63 AMG is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+        video:"https://www.youtube.com/embed//CpGr2K9Ugjs?si=kQIyIM-wnt44x7r4"
     },
 
     {
