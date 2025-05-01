@@ -930,6 +930,27 @@ import { nanoid } from 'nanoid';
                       With its blend of power and refinement, the Mercedes-Benz G63 AMG is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
         video:"https://www.youtube.com/embed//CpGr2K9Ugjs?si=kQIyIM-wnt44x7r4"
     },
+    {
+        key:nanoid(),
+        country:"Germany",
+        brand: "Mercedes-Benz",
+        name: "Mercedes-Benz G65 AMG",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsEbQFB-eJ4d3aKiWttf7gCI77uk9qWDTiig&s",
+        price: "$220,000",
+        engine: "6.0L V12 Twin-Turbo",
+        horsepower: 621,
+        transmission: "7-Speed Automatic",
+        torque: 1000,
+        topSpeed: "230 km/h",
+        to100: 5.3,
+        weight: 2700,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Mercedes-Benz G65 AMG is a high-performance luxury SUV that combines rugged off-road capability with exhilarating performance.
+                      Powered by a twin-turbocharged V12 engine, the G65 AMG delivers impressive power and acceleration.
+                        Its iconic design, aggressive styling, and advanced technology make it a standout on and off the road.
+                        Inside, the G65 AMG features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.
+    },
 
     {
         key: nanoid(),
