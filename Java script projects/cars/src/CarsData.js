@@ -1051,7 +1051,7 @@ import { nanoid } from 'nanoid';
                       Its lightweight construction, aerodynamic enhancements, and track-focused features make it a true driver's car. 
                       Inside, the GT3 features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, agility, and racing heritage, the Porsche 911 GT3 is a favorite among enthusiasts and track-day aficionados.`,
-        video: "https://www.youtube.com/embed//DZAdVY9kKbc?si=5jqTGH73zv3tYkFZ"
+        video: "https://www.youtube.com/embed///4XYpVeH-04w?si=xtbDBbp4wmzfxWWz"
     },
 
     /*{
