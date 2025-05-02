@@ -992,7 +992,6 @@ import { nanoid } from 'nanoid';
     911 Turbo S
     911 GT3
     911 GT3 RS
-    911 GT2 RS
     911 Carrera GTS
     911 Targa 4 GTS
     911 S/T
@@ -1075,6 +1074,31 @@ import { nanoid } from 'nanoid';
                       Inside, the GT3 RS features a driver-centric cockpit with racing-inspired elements and advanced technology, providing an immersive driving experience. 
                       With its blend of power, precision, and motorsport heritage, the Porsche 911 GT3 RS is a favorite among enthusiasts and track-day aficionados.`,
         video:"https://www.youtube.com/embed//tkrdeSwWmY0?si=5nNUOdPIFje7fphW"
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "911 Carrera GTS",
+        Img: "https://www.edmunds.com/assets/m/cs/blt7429481dae4dbaef/6655218e672d19c79bdc84fa/2025_Porsche_911_Carrera_GTS_driving_1600.jpg",
+        price: "$150,000",
+        engine: "3.0L Flat-6 Twin-Turbo",
+        horsepower: 473,
+        transmission: "8-Speed PDK",
+        torque: 570,
+        topSpeed: "308 km/h",
+        to100: 3.4,
+        weight: 1500,
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "RWD",
+        description: `The Porsche 911 Carrera GTS is a high-performance sports car that combines the iconic design of the 911 with enhanced power and agility. 
+                      Powered by a twin-turbocharged flat-six engine, the Carrera GTS delivers exhilarating performance and precise handling. 
+                      Its lightweight construction, aerodynamic enhancements, and sport-tuned suspension make it a true driver's car. 
+                      Inside, the Carrera GTS features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
+                      With its blend of power, agility, and Porsche's racing heritage, the 911 Carrera GTS is a favorite among enthusiasts and driving purists.`,
+        video: "https://www.youtube.com/embed///k3hKKhQTjdU?si=iSZOiAvilTeFTDOV"
+
+
     },
 
     /*{
