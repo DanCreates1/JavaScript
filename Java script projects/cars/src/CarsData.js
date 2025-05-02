@@ -1053,6 +1053,29 @@ import { nanoid } from 'nanoid';
                       With its blend of power, agility, and racing heritage, the Porsche 911 GT3 is a favorite among enthusiasts and track-day aficionados.`,
         video: "https://www.youtube.com/embed///4XYpVeH-04w?si=xtbDBbp4wmzfxWWz"
     },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 911 GT3 RS",
+        Img: "https://img.sm360.ca/ir/w940/images/inventory/porsche-laval/porsche/911/2023/33516646/33516646_07434_4fcb279d-0526-4a84-b746-65f5bef4c3da.jpg",
+        price: "$300,000",
+        engine: "4.0L Flat-6",
+        horsepower: 518,
+        transmission: "7-Speed PDK",
+        torque: 470,
+        topSpeed: "320 km/h",
+        to100: 3.0,
+        weight: 1430,
+        fuelEconomy: "13 L/100 km",
+        drivetrin: "RWD",
+        description: `The Porsche 911 GT3 RS is a high-performance track-focused sports car that takes the iconic 911 to the next level. 
+                      Powered by a naturally aspirated flat-six engine, the GT3 RS delivers blistering acceleration and razor-sharp handling. 
+                      Its lightweight construction, aerodynamic enhancements, and advanced suspension system make it a true track weapon. 
+                      Inside, the GT3 RS features a driver-centric cockpit with racing-inspired elements and advanced technology, providing an immersive driving experience. 
+                      With its blend of power, precision, and motorsport heritage, the Porsche 911 GT3 RS is a favorite among enthusiasts and track-day aficionados.`,
+        video:"https://www.youtube.com/embed//tkrdeSwWmY0?si=5nNUOdPIFje7fphW"
+    },
 
     /*{
         key: nanoid(),
