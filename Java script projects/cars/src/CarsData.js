@@ -1168,6 +1168,28 @@ import { nanoid } from 'nanoid';
                         With its blend of power, agility, and Porsche's racing heritage, the 911 Sport Classic is a favorite among enthusiasts and driving purists.`,
         video:"https://www.youtube.com/embed///sUV1C_kNiAY?si=SIyW1KFdRtkwqrt3"
     },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 918 Spyder",
+        Img: "https://www.hiroboy.com/userfiles/images/sys/products/124_Porsche_918_Spyder_Weissach_Sport_Martini_Racing_Design_26944.jpeg",
+        price: "$1,000,000",
+        engine: "4.6L V8 Hybrid",
+        horsepower: 608,
+        transmission: "7-Speed PDK",
+        torque: 528,
+        topSpeed: "340 km/h",
+        to100: 2.6,
+        weight: 1680,
+        fuelEconomy: "3 L/100 km",
+        drivetrin: "AWD",
+        description: `The Porsche 918 Spyder is a limited-production hybrid supercar that represents the pinnacle of Porsche's engineering and design. 
+                      Powered by a combination of a naturally aspirated V8 engine and electric motors, the 918 Spyder delivers breathtaking performance and efficiency. 
+                      Its sleek and aerodynamic exterior is complemented by a luxurious interior featuring premium materials and advanced technology. 
+                      With its blend of power, luxury, and cutting-edge technology, the 918 Spyder is a true driver's car that appeals to enthusiasts and collectors alike.`,
+        video: "https://www.youtube.com/embed///jiKPTadNbPc?si=zoBsjnv8fO-2yEte"
+    },
 
     /*{
         key: nanoid(),
