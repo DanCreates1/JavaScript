@@ -1097,8 +1097,29 @@ import { nanoid } from 'nanoid';
                       Inside, the Carrera GTS features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, agility, and Porsche's racing heritage, the 911 Carrera GTS is a favorite among enthusiasts and driving purists.`,
         video: "https://www.youtube.com/embed///k3hKKhQTjdU?si=iSZOiAvilTeFTDOV"
-
-
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 911 Targa 4 GTS",
+        Img: "https://www.edmunds.com/assets/m/cs/blt7429481dae4dbaef/6655218e672d19c79bdc84fa/2025_Porsche_911_Targa_4_GTS_driving_1600.jpg",
+        price: "$170,000",
+        engine: "3.0L Flat-6 Twin-Turbo",
+        horsepower: 473,
+        transmission: "8-Speed PDK",
+        torque: 570,
+        topSpeed: "304 km/h",
+        to100: 3.5,
+        weight: 1600,
+        fuelEconomy: "11 L/100 km",
+        drivetrin: "AWD",
+        description: `The Porsche 911 Targa 4 GTS is a high-performance convertible that combines the iconic design of the 911 with open-top driving pleasure. 
+                      Powered by a twin-turbocharged flat-six engine, the Targa 4 GTS delivers exhilarating performance and precise handling. 
+                      Its unique Targa roof design allows for an open-air experience while maintaining the structural integrity of the car. 
+                      Inside, the Targa 4 GTS features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
+                      With its blend of power, agility, and Porsche's racing heritage, the 911 Targa 4 GTS is a favorite among enthusiasts and driving purists.`,
+        video: "https://www.youtube.com/embed//2X0g1v4qk3E?si=6r7a5x8wW9bJmYjG"
     },
 
     /*{
