@@ -1103,7 +1103,7 @@ import { nanoid } from 'nanoid';
         country:"Germany",
         brand: "Porsche",
         name: "Porsche 911 Targa 4 GTS",
-        Img: "https://www.edmunds.com/assets/m/cs/blt7429481dae4dbaef/6655218e672d19c79bdc84fa/2025_Porsche_911_Targa_4_GTS_driving_1600.jpg",
+        Img: "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1741107687/evo/2025/02%20Feb/Porsche%20911%20Targa%204%20GTS%20992.2%20review-5.jpg",
         price: "$170,000",
         engine: "3.0L Flat-6 Twin-Turbo",
         horsepower: 473,
@@ -1119,7 +1119,7 @@ import { nanoid } from 'nanoid';
                       Its unique Targa roof design allows for an open-air experience while maintaining the structural integrity of the car. 
                       Inside, the Targa 4 GTS features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, agility, and Porsche's racing heritage, the 911 Targa 4 GTS is a favorite among enthusiasts and driving purists.`,
-        video: "https://www.youtube.com/embed//2X0g1v4qk3E?si=6r7a5x8wW9bJmYjG"
+        video: "https://www.youtube.com/embed//S876FNNQpUY?si=bpqZDXH7HsSp7A0v"
     },
 
     /*{
