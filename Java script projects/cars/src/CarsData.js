@@ -1145,6 +1145,29 @@ import { nanoid } from 'nanoid';
                         With its blend of power, agility, and Porsche's racing heritage, the 911 S/T is a favorite among enthusiasts and driving purists.`,
         video: "https://www.youtube.com/embed//FnGnVnzNMhU?si=5w1HKQhwLTBfxC-r"
     },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 911 Sport Classic",
+        Img: "https://media.autoexpress.co.uk/image/private/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1688749709/autoexpress/2023/07/Porsche%20911%20Sport%20Classic%202023-14.jpg",
+        price: "$300,000",
+        engine: "3.7L Flat-6 Twin-Turbo",
+        horsepower: 550,
+        transmission: "8-Speed PDK",
+        torque: 700,
+        topSpeed: "315 km/h",
+        to100: 3.5,
+        weight: 1600,
+        fuelEconomy: "11 L/100 km",
+        drivetrin: "RWD",
+        description: `The Porsche 911 Sport Classic is a limited-production high-performance sports car that combines the iconic design of the 911 with enhanced power and agility.
+                      Powered by a twin-turbocharged flat-six engine, the Sport Classic delivers exhilarating performance and precise handling.
+                        Its unique design elements, including retro-inspired styling cues, make it a standout in the Porsche lineup.
+                        Inside, the Sport Classic features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience.
+                        With its blend of power, agility, and Porsche's racing heritage, the 911 Sport Classic is a favorite among enthusiasts and driving purists.`,
+        video:"https://www.youtube.com/embed///sUV1C_kNiAY?si=SIyW1KFdRtkwqrt3"
+    },
 
     /*{
         key: nanoid(),
