@@ -1121,6 +1121,30 @@ import { nanoid } from 'nanoid';
                       With its blend of power, agility, and Porsche's racing heritage, the 911 Targa 4 GTS is a favorite among enthusiasts and driving purists.`,
         video: "https://www.youtube.com/embed//S876FNNQpUY?si=bpqZDXH7HsSp7A0v"
     },
+    {
+
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 911 S/T",
+        Img: "https://content-hub.imgix.net/dTak8RsjEkUqPjn8np5rp/2d5d0d1b9d9b01d8039420f5c125eaca/what-20is-20the-20911-20st.jpg?w=1308",
+        price: "$250,000",
+        engine: "4.0L Flat-6",
+        horsepower: 518,
+        transmission: "6-Speed Manual",
+        torque: 470,
+        topSpeed: "320 km/h",
+        to100: 3.0,
+        weight: 1400,
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "RWD",
+        description: `The Porsche 911 S/T is a limited-production high-performance sports car that combines the iconic design of the 911 with enhanced power and agility.
+                      Powered by a naturally aspirated flat-six engine, the S/T delivers exhilarating performance and precise handling.
+                        Its lightweight construction, aerodynamic enhancements, and sport-tuned suspension make it a true driver's car.
+                        Inside, the S/T features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience.
+                        With its blend of power, agility, and Porsche's racing heritage, the 911 S/T is a favorite among enthusiasts and driving purists.`,
+        video: "https://www.youtube.com/embed//FnGnVnzNMhU?si=5w1HKQhwLTBfxC-r"
+    },
 
     /*{
         key: nanoid(),
