@@ -1190,6 +1190,45 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and cutting-edge technology, the 918 Spyder is a true driver's car that appeals to enthusiasts and collectors alike.`,
         video: "https://www.youtube.com/embed///jiKPTadNbPc?si=zoBsjnv8fO-2yEte"
     },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche Cayman GT4",
+        Img: "https://www.carsguide.com.au/car-dimensions/2023-porsche-cayman-gt4-1.jpg",
+        price: "$100,000",
+        engine: "4.0L Flat-6",
+        horsepower: 420,
+        transmission: "6-Speed Manual",
+        torque: 420,
+        topSpeed: "304 km/h",
+        to100: 4.2,
+        weight: 1400,
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "RWD",
+        description: `The Porsche Cayman GT4 is a high-performance sports car that combines the iconic design of the Cayman with enhanced power and agility. 
+                      Powered by a naturally aspirated flat-six engine, the GT4 delivers exhilarating performance and precise handling. 
+                      Its lightweight construction, aerodynamic enhancements, and sport-tuned suspension make it a true driver's car. 
+                      Inside, the GT4 features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
+                      With its blend of power, agility, and Porsche's racing heritage, the Cayman GT4 is a favorite among enthusiasts and driving purists.`,
+        video:"https://www.youtube.com/embed//Xk5a7v8xg9E?si=GqZz1rjYbJm2Wc5N"
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 718 Cayman GT4 RS",
+        Img: "https://hips.hearstapps.com/hmg-prod/images/2023-porsche-718-cayman-gt4-rs-102-63d7f8e9a0f1b.jpg?crop=0.651xw:0.549xh;0.0897xw,0.326xh&resize=1200:*",
+        price: "$150,000",
+        engine: "4.0L Flat-6",
+        horsepower: 493,
+        transmission: "7-Speed PDK",
+        torque: 450,
+        topSpeed: "315 km/h",
+        to100: 3.2,
+        weight: 1420,
+        fuelEconomy: "12
+    },
 
     /*{
         key: nanoid(),
