@@ -8,27 +8,27 @@ This list includes some of the most iconic, influential, and greatest cars in hi
 
 Nissan
     GT-R R35✅
-    GT-R R34
-    GT-R R33
-    GT-R R32
-    Z350
-    Z370
+    GT-R R34✅
+    GT-R R33✅
+    GT-R R32✅
+    Z350✅
+    Z370✅
 
     
     Subaru✅
-    WRX STI
-    WRX
-    BRZ
-    Legacy GT
+    WRX STI✅
+    WRX✅
+    BRZ✅
+    Legacy GT✅
     
     Mazda✅
-    RX7
-    RX8
-    MX5 Miata
+    RX7✅
+    RX8✅
+    MX5 Miata✅
     
     Lexus✅
-    LFA
-    LC500
+    LFA✅
+    LC500✅
 
     ---
     
@@ -81,14 +81,14 @@ Nissan
     
     ---
     
-    3. France
+    3. France✅
     
-    Bugatti
-    Veyron
-    Chiron
-    Divo
-    Centodieci
-    Bolide
+    Bugatti✅
+    Veyron✅
+    Chiron✅
+    Divo✅
+    Centodieci✅
+    Bolide✅
     
     ---
     
@@ -1450,36 +1450,37 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and exclusivity, the Bugatti Chiron Super Sport is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video:"https://www.youtube.com/embed//7-vihGHLjzI?si=frN8ggJhdSzbodeq"
     },
-    /*
-        Bugatti
-    Veyron
-    Chiron
-    Divo
-    Centodieci
-    Bolide
+    ////////////////////// Italy ////////////////////////
     {
-        key: nanoid(),
-        country:"Italy",
-        brand: "Lamborghini",
-        name: "Lamborghini Huracan",
-        Img: "https://images.unsplash.com/photo-1607870379000-1f6d5e892aba?q=80&w=1752&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        price: "$400,000",
-        engine: "5.2L V10",
-        horsepower: 630,
-        transmission: "6-Speed Manual",
-        torque: 442,
-        topSpeed: "325 km/h",
-        to100: 2.5,
-        weight: 3425,
-        fuelEconomy: 15,
-        transmission: "7-Speed Dual-Clutch",
-        drivetrin: "AWD",
-        description: `The Lamborghini Huracán is a stunning supercar that embodies the essence of Italian automotive excellence. 
-                      With its aggressive design, powerful V10 engine, and advanced aerodynamics, the Huracán delivers exhilarating performance and breathtaking speed. 
-                      Its luxurious interior features cutting-edge technology and premium materials, providing a perfect blend of comfort and sportiness. 
-                      Whether on the track or the open road, the Huracán offers an unforgettable driving experience that captures the spirit of Lamborghini's legendary heritage.`,
-        video: "https://www.youtube.com/embed///w9G9CO72x8g?si=VeYCynQk55tvmivP"
-
-    },*/
+       key: nanoid(),
+         country:"Italy",
+        brand: "Ferrari",
+        name: "Ferrari F40",
+        Img: "https://cdn.rmsothebys.com/e/b/e/8/4/c/ebe84cc7867c8fa631b1acb313160ddea33c9590.webp",
+        price: "$1,500,000",
+        engine: "2.9L V8 Twin-Turbo",
+        horsepower: 478,
+        transmission: "5-Speed Manual",
+        torque: 577,
+        topSpeed: "324 km/h",
+        to100: 3.8,
+        weight: 1100,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "RWD",
+        description: `The Ferrari F40 is a legendary supercar that represents the pinnacle of Ferrari's engineering and design. 
+                      Powered by a twin-turbocharged V8 engine, the F40 delivers blistering performance and exhilarating acceleration. 
+                      Its lightweight construction, aerodynamic design, and racing-inspired features make it a true driver's car. 
+                      Inside, the F40 features a minimalist interior focused on performance, with racing-style elements and advanced technology. 
+                      With its blend of power, luxury, and exclusivity, the Ferrari F40 is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video: "https://www.youtube.com/embed//7mZdkfEeJH4?si=mTM-mKVYN9oJoBhD"
+    },
+    /*Italy
     
+    Ferrari
+    F40
+    F50
+    LaFerrari
+    488 Pista
+    812 Superfast
+    SF90 Stradale */
 ];
