@@ -1404,6 +1404,29 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and exclusivity, the Bugatti Bolide is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video:"https://www.youtube.com/embed///fY3vBnJPkto?si=xTLmmn7TlP-z_vBT"
     },
+    {
+        key: nanoid(),
+        country: "France",
+        brand: "Bugatti",
+        name: "Bugatti La Voiture Noire",
+        Img: "https://mediadatabase.cdn.bugatti-newsroom.com/d/to8c8f88/",
+        price: "$18,000,000",
+        engine: "8.0L W16 Quad-Turbo",
+        horsepower: 1500,
+        transmission: "7-Speed DSG",
+        torque: 1600,
+        topSpeed: "420 km/h",
+        to100: 2.5,
+        weight: 2000,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Bugatti La Voiture Noire is a one-of-a-kind hypercar that represents the pinnacle of automotive luxury and performance. 
+                      Powered by an 8.0-liter W16 engine with four turbochargers, the La Voiture Noire delivers an astonishing 1500 horsepower and blistering acceleration. 
+                      Its unique design, inspired by the legendary Bugatti Type 57 SC Atlantic, features a sleek and aerodynamic exterior that exudes elegance and exclusivity. 
+                      Inside, the La Voiture Noire features a luxurious interior with premium materials and advanced technology, providing an unparalleled driving experience. 
+                      With its blend of power, luxury, and exclusivity, the Bugatti La Voiture Noire is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video: "https://www.youtube.com/embed//-s43_RjJiEk?si=m0BuSwn8qGE-y4XJ"
+    },
     /*
         Bugatti
     Veyron
