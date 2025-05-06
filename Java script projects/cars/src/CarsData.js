@@ -1358,6 +1358,30 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and exclusivity, the Bugatti Divo is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video: "https://www.youtube.com/embed///LAWt2yrGq98?si=J-3hfP5a8YSPh6Ub"
     },
+    {
+        key: nanoid(),
+        country: "France",
+        brand: "Bugatti",
+        name: "Bugatti Centodieci",
+        Img: "https://www.motorshow.me/uploadImages/DocumentImages/Doc-P-215954-2637842476868325739.jpg",
+        price: "$9,000,000",
+        engine: "8.0L W16 Quad-Turbo",
+        horsepower: 1600,
+        transmission: "7-Speed DSG",
+        torque: 1600,
+        topSpeed: "380 km/h",
+        to100: 2.4,
+        weight: 2000,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Bugatti Centodieci is a limited-production hypercar that pays homage to the iconic Bugatti EB110. 
+                      Powered by an 8.0-liter W16 engine with four turbochargers, the Centodieci delivers an astonishing 1600 horsepower and blistering acceleration. 
+                      Its unique design, inspired by the EB110, features modern aerodynamic enhancements and a striking exterior. 
+                      Inside, the Centodieci features a luxurious interior with premium materials and advanced technology, providing an unparalleled driving experience. 
+                      With its blend of power, luxury, and exclusivity, the Bugatti Centodieci is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed//0BsJgvXVfWU?si=Wd7Ytj2vYiXSTkkI"
+        
+    },
     /*
         Bugatti
     Veyron
