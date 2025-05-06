@@ -1227,7 +1227,15 @@ import { nanoid } from 'nanoid';
         topSpeed: "315 km/h",
         to100: 3.2,
         weight: 1420,
-        fuelEconomy: "12
+        fuelEconomy: "12 L/100 km",
+        diverstrin: "RWD",
+        description: `The Porsche 718 Cayman GT4 RS is a high-performance sports car that takes the iconic Cayman to the next level. 
+                      Powered by a naturally aspirated flat-six engine, the GT4 RS delivers blistering acceleration and razor-sharp handling. 
+                      Its lightweight construction, aerodynamic enhancements, and advanced suspension system make it a true track weapon. 
+                      Inside, the GT4 RS features a driver-centric cockpit with racing-inspired elements and advanced technology, providing an immersive driving experience. 
+                      With its blend of power, precision, and motorsport heritage, the Porsche 718 Cayman GT4 RS is a favorite among enthusiasts and track-day aficionados.`,
+        video: "https://www.youtube.com/embed//2g0a1r7v4nE?si=5w1HKQhwLTBfxC-r"
+
     },
 
     /*{
