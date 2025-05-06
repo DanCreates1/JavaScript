@@ -1254,7 +1254,17 @@ import { nanoid } from 'nanoid';
         to100: 4.0,
 
         weight: 1400,
-        
+
+        fuelEconomy: "10 L/100 km",
+
+        drivetrin: "RWD",
+        description: `The Porsche 718 Boxster GTS 4.0 is a high-performance convertible that combines the iconic design of the Boxster with enhanced power and agility.
+                      Powered by a naturally aspirated flat-six engine, the GTS 4.0 delivers exhilarating performance and precise handling.
+                        Its lightweight construction, aerodynamic enhancements, and sport-tuned suspension make it a true driver's car.
+                        Inside, the GTS 4.0 features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience.
+                        With its blend of power, agility, and Porsche's racing heritage, the 718 Boxster GTS 4.0 is a favorite among enthusiasts and driving purists.`,
+
+        video: "https://www.youtube.com/embed//33SC1IHld9Q?si=HWm89CwKGR3oz9uN"
 
     },
 
