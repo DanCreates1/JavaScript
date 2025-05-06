@@ -1258,9 +1258,31 @@ import { nanoid } from 'nanoid';
                         With its blend of power, agility, and Porsche's racing heritage, the 718 Boxster GTS 4.0 is a favorite among enthusiasts and driving purists.`,
 
         video: "https://www.youtube.com/embed//33SC1IHld9Q?si=HWm89CwKGR3oz9uN"
-
     },
+    {
 
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche 718 Spyder",
+        Img: "https://www.carsguide.com.au/car-dimensions/2024-porsche-718-spyder-982-2-0t-gts-4.0-manual-awd-dimensions.jpg",
+        price: "$167,000",
+        engine: "4.0L Flat-6",
+        horsepower: 394,
+        transmission: "6-Speed Manual",
+        torque: 420,
+        topSpeed: "300 km/h",
+        to100: 4.0,
+        weight: 1400,
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "RWD",
+        description: `The Porsche 718 Spyder is a high-performance convertible that combines the iconic design of the Boxster with enhanced power and agility. 
+                      Powered by a naturally aspirated flat-six engine, the Spyder delivers exhilarating performance and precise handling. 
+                      Its lightweight construction, aerodynamic enhancements, and sport-tuned suspension make it a true driver's car. 
+                      Inside, the Spyder features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
+                      With its blend of power, agility, and Porsche's racing heritage, the 718 Spyder is a favorite among enthusiasts and driving purists.`,
+        video: "https://www.youtube.com/embed///KjBs23XGIBs?si=peW0KmEqpSbrNDC9"
+    },
     /*{
         key: nanoid(),
         country:"Italy",
