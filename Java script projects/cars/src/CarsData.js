@@ -1240,7 +1240,7 @@ import { nanoid } from 'nanoid';
         country:"Germany",
         brand: "Porsche",
         name: "718 Boxster GTS 4.0",
-        Img: "https://www.porsche.com/filestore/image/multimedia/none/boxster-gts-4-0-982-2024-porsche-ag/normal/1c3f2a5b-8d7e-11ed-80db-005056bbdc38;sZ;w1920h1080;quality=90.jpg",
+        Img: "https://images.pistonheads.com/nimg/42891/PCGB20_0925_fine.jpg",
 
         price: "$90,000",
         engine: "4.0L Flat-6",
