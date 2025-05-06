@@ -1195,7 +1195,7 @@ import { nanoid } from 'nanoid';
         country:"Germany",
         brand: "Porsche",
         name: "Porsche Cayman GT4",
-        Img: "https://www.carsguide.com.au/car-dimensions/2023-porsche-cayman-gt4-1.jpg",
+        Img: "https://newsroom.porsche.com/.imaging/mte/porsche-templating-theme/image_1290x726/dam/pnr/2021/Products/718-Cayman-GT4-RS/769_003_highres.jpeg/jcr:content/769_003_highres.jpeg",
         price: "$100,000",
         engine: "4.0L Flat-6",
         horsepower: 420,
@@ -1211,7 +1211,7 @@ import { nanoid } from 'nanoid';
                       Its lightweight construction, aerodynamic enhancements, and sport-tuned suspension make it a true driver's car. 
                       Inside, the GT4 features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, agility, and Porsche's racing heritage, the Cayman GT4 is a favorite among enthusiasts and driving purists.`,
-        video:"https://www.youtube.com/embed//Xk5a7v8xg9E?si=GqZz1rjYbJm2Wc5N"
+        video:"https://www.youtube.com/embed//K0ctB6ug5Z4?si=WViaiIpzngwzJ0Ns"
     },
     {
         key: nanoid(),
