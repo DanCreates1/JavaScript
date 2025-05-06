@@ -1265,7 +1265,7 @@ import { nanoid } from 'nanoid';
         country:"Germany",
         brand: "Porsche",
         name: "Porsche 718 Spyder",
-        Img: "https://www.carsguide.com.au/car-dimensions/2024-porsche-718-spyder-982-2-0t-gts-4.0-manual-awd-dimensions.jpg",
+        Img: "https://timeandtidewatches.com/wp-content/uploads/2023/06/porsche-718-spyder.jpg.webp",
         price: "$167,000",
         engine: "4.0L Flat-6",
         horsepower: 394,
@@ -1282,6 +1282,28 @@ import { nanoid } from 'nanoid';
                       Inside, the Spyder features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, agility, and Porsche's racing heritage, the 718 Spyder is a favorite among enthusiasts and driving purists.`,
         video: "https://www.youtube.com/embed///KjBs23XGIBs?si=peW0KmEqpSbrNDC9"
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "Porsche Panamera Turbo S",
+        Img: "https://cdn.motor1.com/images/mgl/rKEwG9/321:0:5120:3840/2025-porsche-panamera-turbo-s-e-hybrid-review.webp",
+        price: "$200,000",
+        engine: "4.0L V8 Twin-Turbo",
+        horsepower: 620,
+        transmission: "8-Speed PDK",
+        torque: 820,
+        topSpeed: "315 km/h",
+        to100: 3.1,
+        weight: 2100,
+        fuelEconomy: "10 L/100 km",
+        drivetrin: "AWD",
+        description: `The Porsche Panamera Turbo S is a high-performance luxury sedan that combines the iconic design of the Panamera with exhilarating performance. 
+                      Powered by a twin-turbocharged V8 engine, the Turbo S delivers blistering acceleration and impressive handling capabilities. 
+                      Its sleek and aerodynamic exterior is complemented by a luxurious interior featuring premium materials and advanced technology. 
+                      With its blend of power, luxury, and cutting-edge technology, the Panamera Turbo S is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+        video: "https://www.youtube.com/embed///i6yKJw1aI_M?si=XaZjX3r0-32ax64M"
     },
     /*{
         key: nanoid(),
