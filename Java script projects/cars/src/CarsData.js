@@ -1379,8 +1379,30 @@ import { nanoid } from 'nanoid';
                       Its unique design, inspired by the EB110, features modern aerodynamic enhancements and a striking exterior. 
                       Inside, the Centodieci features a luxurious interior with premium materials and advanced technology, providing an unparalleled driving experience. 
                       With its blend of power, luxury, and exclusivity, the Bugatti Centodieci is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
-        video:"https://www.youtube.com/embed//0BsJgvXVfWU?si=Wd7Ytj2vYiXSTkkI"
-        
+        video:"https://www.youtube.com/embed//0BsJgvXVfWU?si=Wd7Ytj2vYiXSTkkI"  
+    },
+    {
+        key: nanoid(),
+        country: "France",
+        brand: "Bugatti",
+        name: "Bugatti Bolide",
+        Img: "https://www.topgear.com/sites/default/files/news-listicle/image/2023/06/bolide.jpg",
+        price: "$4,000,000",
+        engine: "8.0L W16 Quad-Turbo",
+        horsepower: 1825,
+        transmission: "7-Speed DSG",
+        torque: 1850,
+        topSpeed: "500 km/h",
+        to100: 2.2,
+        weight: 1240,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Bugatti Bolide is a track-focused hypercar that represents the pinnacle of automotive engineering and performance. 
+                      Powered by an 8.0-liter W16 engine with four turbochargers, the Bolide delivers an astonishing 1825 horsepower and blistering acceleration. 
+                      Its lightweight construction, advanced aerodynamics, and cutting-edge technology make it a true masterpiece of automotive art. 
+                      Inside, the Bolide features a minimalist interior designed for maximum performance and driver engagement. 
+                      With its blend of power, luxury, and exclusivity, the Bugatti Bolide is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed///fY3vBnJPkto?si=xTLmmn7TlP-z_vBT"
     },
     /*
         Bugatti
