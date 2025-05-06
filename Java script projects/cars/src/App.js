@@ -40,6 +40,7 @@ function App() {
     <>
       <div className='input-container'>
         <input 
+          className='search-bar'
           type="text"
           placeholder="Search for a car"
           id="search-bar"

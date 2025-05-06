@@ -63,17 +63,16 @@ main{
     border: 2px solid black;
   }
 
-.search-bar{
-  width: 320px;
-  height: 60px;
-  background-color: #b9b9b9;
-  text-decoration: none;
-  border: none;
-  border-radius: 30px;
-  text-align: center;
-}
+
 .input-container{
   text-align: center;
+}
+.search-bar{
+  text-align: center;
+  text-decoration: none;
+  border-radius: 30px;
+  background-color: rgb(210, 210, 210);
+  border: none;
 }
 
   @media screen and (max-width: 600px) {
