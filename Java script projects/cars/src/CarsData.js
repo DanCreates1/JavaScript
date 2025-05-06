@@ -1218,7 +1218,7 @@ import { nanoid } from 'nanoid';
         country:"Germany",
         brand: "Porsche",
         name: "Porsche 718 Cayman GT4 RS",
-        Img: "https://hips.hearstapps.com/hmg-prod/images/2023-porsche-718-cayman-gt4-rs-102-63d7f8e9a0f1b.jpg?crop=0.651xw:0.549xh;0.0897xw,0.326xh&resize=1200:*",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR44G4c2VzNkXJPdj7hquabDwr1Uc4yFSF4OQ&s",
         price: "$150,000",
         engine: "4.0L Flat-6",
         horsepower: 493,
@@ -1234,7 +1234,7 @@ import { nanoid } from 'nanoid';
                       Its lightweight construction, aerodynamic enhancements, and advanced suspension system make it a true track weapon. 
                       Inside, the GT4 RS features a driver-centric cockpit with racing-inspired elements and advanced technology, providing an immersive driving experience. 
                       With its blend of power, precision, and motorsport heritage, the Porsche 718 Cayman GT4 RS is a favorite among enthusiasts and track-day aficionados.`,
-        video: "https://www.youtube.com/embed//2g0a1r7v4nE?si=5w1HKQhwLTBfxC-r"
+        video: "https://www.youtube.com/embed//0kCuIQWGIjc?si=Cu6rhZFEssadWhze"
 
     },
 
