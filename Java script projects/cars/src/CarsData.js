@@ -32,52 +32,52 @@ Nissan
 
     ---
     
-    2. Germany
+    2. Germany✅
     
     BMW✅
-    M3
-    M4
-    M5
-    M6
-    M8
-    X5M
-    X6M
-    Z4M
+    M3✅
+    M4✅
+    M5✅
+    M6✅
+    M8✅
+    X5M✅
+    X6M✅
+    Z4M✅
     
-    Mercedes-Benz
-    AMG GT
-    C63 AMG
-    E63 AMG
-    SLS AMG
-    SLR McLaren
-    G63 AMG
-    G65 AMG
-    G65 AMG 6x6
-    G-Class
+    Mercedes-Benz✅
+    AMG GT✅
+    C63 AMG✅
+    E63 AMG✅
+    SLS AMG✅
+    SLR McLaren✅
+    G63 AMG✅
+    G65 AMG✅
+    G65 AMG 6x6✅
+    G-Class✅
     G-Wagon✅
     
-    Audi
-    R8
-    RS7
-    RS6
+    Audi✅
+    R8✅
+    RS7✅
+    RS6✅
     
-    Porsche
-    911
-    911 Turbo S
-    911 GT3
-    911 GT3 RS
-    911 GT2 RS
-    911 Carrera GTS
-    911 Targa 4 GTS
-    911 S/T
-    911 Sport Classic
-    918 Spyder
-    Cayman GT4
-    718 Cayman GT4 RS
-    718 Cayman GTS 4.0
-    718 Boxster GTS 4.0
-    718 Spyder
-    Panamera Turbo S
+    Porsche✅
+    911✅
+    911 Turbo S✅
+    911 GT3✅
+    911 GT3 RS✅
+    911 GT2 RS✅
+    911 Carrera GTS✅
+    911 Targa 4 GTS✅
+    911 S/T✅
+    911 Sport Classic✅
+    918 Spyder✅
+    Cayman GT4✅
+    718 Cayman GT4 RS✅
+    718 Cayman GTS 4.0✅
+    718 Boxster GTS 4.0✅
+    718 Spyder✅
+    Panamera Turbo S✅
     
     ---
     
@@ -987,23 +987,7 @@ import { nanoid } from 'nanoid';
                     Inside, the G-Class features a luxurious interior with premium materials and advanced technology, providing both comfort and performance.`,
         video: "https://www.youtube.com/embed//ID_e1bgpxLc?si=TnGKBHlTPH9kk3fx"
     },
-    /*
-        Porsche
-    911 Turbo S
-    911 GT3
-    911 GT3 RS
-    911 Carrera GTS
-    911 Targa 4 GTS
-    911 S/T
-    911 Sport Classic
-    918 Spyder
-    Cayman GT4
-    718 Cayman GT4 RS
-    718 Boxster GTS 4.0
-    718 Spyder
-    Panamera Turbo S
-    
-     */
+    // //////////////////// Porsche ////////////////////////
     {
         key: nanoid(),
         country:"Germany",
@@ -1305,7 +1289,60 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and cutting-edge technology, the Panamera Turbo S is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
         video: "https://www.youtube.com/embed///i6yKJw1aI_M?si=XaZjX3r0-32ax64M"
     },
-    /*{
+    {
+        key: nanoid(),
+        country: "France",
+        brand: "Bugatti",
+        name: "Bugatti Veyron",
+        Img: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg/960px-Bugatti_Veyron_16.4_%E2%80%93_Frontansicht_%281%29%2C_5._April_2012%2C_D%C3%BCsseldorf.jpg",
+        price: "$2,000,000",
+        engine: "8.0L W16 Quad-Turbo",
+        horsepower: 1001,
+        transmission: "7-Speed DSG",
+        torque: 1250,
+        topSpeed: "407 km/h",
+        to100: 2.5,
+        weight: 1888,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Bugatti Veyron is a legendary hypercar that redefined the limits of automotive engineering and performance. 
+                      Powered by an 8.0-liter W16 engine with four turbochargers, the Veyron delivers mind-boggling acceleration and a top speed that exceeds 400 km/h. 
+                      Its sleek and aerodynamic design, combined with advanced technology, makes it a true masterpiece of automotive art. 
+                      Inside, the Veyron features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience. 
+                      With its blend of power, luxury, and exclusivity, the Bugatti Veyron is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video: "https://www.youtube.com/embed//SINyunKIqfI?si=pyHESG0kcnINWimh"
+    },
+    {
+        key: nanoid(),
+        country: "France",
+        brand: "Bugatti",
+        name: "Bugatti Chiron",
+        Img: "https://upload.wikimedia.org/wikipedia/commons/1/18/Bugatti_Chiron_1.jpg",
+        price: "$3,000,000",
+        engine: "8.0L W16 Quad-Turbo",
+        horsepower: 1500,
+        transmission: "7-Speed DSG",
+        torque: 1600,
+        topSpeed: "420 km/h",
+        to100: 2.4,
+        weight: 1995,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Bugatti Chiron is a hypercar that represents the pinnacle of automotive engineering and luxury. 
+                      Powered by an 8.0-liter W16 engine with four turbochargers, the Chiron delivers an astonishing 1500 horsepower and blistering acceleration. 
+                      Its sleek and aerodynamic design, combined with advanced technology, makes it a true masterpiece of automotive art. 
+                      Inside, the Chiron features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience. 
+                      With its blend of power, luxury, and exclusivity, the Bugatti Chiron is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video: "https://www.youtube.com/embed//7-vihGHLjzI?si=frN8ggJhdSzbodeq"
+    },
+    /*
+        Bugatti
+    Veyron
+    Chiron
+    Divo
+    Centodieci
+    Bolide
+    {
         key: nanoid(),
         country:"Italy",
         brand: "Lamborghini",
