@@ -1333,7 +1333,7 @@ import { nanoid } from 'nanoid';
                       Its sleek and aerodynamic design, combined with advanced technology, makes it a true masterpiece of automotive art. 
                       Inside, the Chiron features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience. 
                       With its blend of power, luxury, and exclusivity, the Bugatti Chiron is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
-        video: "https://www.youtube.com/embed//7-vihGHLjzI?si=frN8ggJhdSzbodeq"
+        video: "https://www.youtube.com/embed//kcmWknKtJkk?si=HcatqKWdSJ7e9DS0"
     },
     {
         key: nanoid(),
@@ -1426,6 +1426,29 @@ import { nanoid } from 'nanoid';
                       Inside, the La Voiture Noire features a luxurious interior with premium materials and advanced technology, providing an unparalleled driving experience. 
                       With its blend of power, luxury, and exclusivity, the Bugatti La Voiture Noire is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video: "https://www.youtube.com/embed//-s43_RjJiEk?si=m0BuSwn8qGE-y4XJ"
+    },
+    {
+        key: nanoid(),
+        country: "France",
+        brand: "Bugatti",
+        name: "Bugatti Chiron Super Sport",
+        Img: "https://i.gaw.to/content/photos/62/10/621089-bugatti-chiron-super-sport-l-ultime-la-derniere-des-500.jpg",
+        price: "$3,500,000",
+        engine: "8.0L W16 Quad-Turbo",
+        horsepower: 1600,
+        transmission: "7-Speed DSG",
+        torque: 1600,
+        topSpeed: "490 km/h",
+        to100: 2.4,
+        weight: 2000,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Bugatti Chiron Super Sport is a high-performance hypercar that takes the iconic Chiron to the next level. 
+                      Powered by an 8.0-liter W16 engine with four turbochargers, the Super Sport delivers an astonishing 1600 horsepower and blistering acceleration. 
+                      Its unique aerodynamic enhancements and lightweight construction make it a true masterpiece of automotive engineering. 
+                      Inside, the Chiron Super Sport features a luxurious interior with premium materials and advanced technology, providing an unparalleled driving experience. 
+                      With its blend of power, luxury, and exclusivity, the Bugatti Chiron Super Sport is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed//7-vihGHLjzI?si=frN8ggJhdSzbodeq"
     },
     /*
         Bugatti
