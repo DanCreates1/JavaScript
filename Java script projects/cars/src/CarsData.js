@@ -1241,22 +1241,15 @@ import { nanoid } from 'nanoid';
         brand: "Porsche",
         name: "718 Boxster GTS 4.0",
         Img: "https://images.pistonheads.com/nimg/42891/PCGB20_0925_fine.jpg",
-
         price: "$90,000",
         engine: "4.0L Flat-6",
-
         horsepower: 394,
-
         transmission: "6-Speed Manual",
-
         torque: 420,
         topSpeed: "290 km/h",
         to100: 4.0,
-
         weight: 1400,
-
         fuelEconomy: "10 L/100 km",
-
         drivetrin: "RWD",
         description: `The Porsche 718 Boxster GTS 4.0 is a high-performance convertible that combines the iconic design of the Boxster with enhanced power and agility.
                       Powered by a naturally aspirated flat-six engine, the GTS 4.0 delivers exhilarating performance and precise handling.
