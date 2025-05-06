@@ -1335,6 +1335,29 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and exclusivity, the Bugatti Chiron is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video: "https://www.youtube.com/embed//7-vihGHLjzI?si=frN8ggJhdSzbodeq"
     },
+    {
+        key: nanoid(),
+        country: "France",
+        brand: "Bugatti",
+        name: "Bugatti Divo",
+        Img: "https://hips.hearstapps.com/hmg-prod/images/14bugatti-divo-99leadgallery-1535035005.jpg?crop=0.941xw:0.864xh;0.0423xw,0.136xh&resize=1200:*",
+        price: "$5,000,000",
+        engine: "8.0L W16 Quad-Turbo",
+        horsepower: 1500,
+        transmission: "7-Speed DSG",
+        torque: 1600,
+        topSpeed: "380 km/h",
+        to100: 2.5,
+        weight: 1980,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Bugatti Divo is a limited-production hypercar that combines extreme performance with stunning design. 
+                      Powered by an 8.0-liter W16 engine with four turbochargers, the Divo delivers 1500 horsepower and blistering acceleration. 
+                      Its unique aerodynamic design, inspired by the legendary Bugatti Type 57, enhances downforce and handling capabilities. 
+                      Inside, the Divo features a luxurious interior with premium materials and advanced technology, providing an unparalleled driving experience. 
+                      With its blend of power, luxury, and exclusivity, the Bugatti Divo is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video: "https://www.youtube.com/embed///LAWt2yrGq98?si=J-3hfP5a8YSPh6Ub"
+    },
     /*
         Bugatti
     Veyron
