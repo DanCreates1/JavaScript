@@ -999,7 +999,6 @@ import { nanoid } from 'nanoid';
     918 Spyder
     Cayman GT4
     718 Cayman GT4 RS
-    718 Cayman GTS 4.0
     718 Boxster GTS 4.0
     718 Spyder
     Panamera Turbo S
@@ -1235,6 +1234,27 @@ import { nanoid } from 'nanoid';
                       Inside, the GT4 RS features a driver-centric cockpit with racing-inspired elements and advanced technology, providing an immersive driving experience. 
                       With its blend of power, precision, and motorsport heritage, the Porsche 718 Cayman GT4 RS is a favorite among enthusiasts and track-day aficionados.`,
         video: "https://www.youtube.com/embed//0kCuIQWGIjc?si=Cu6rhZFEssadWhze"
+    },
+    {
+        key: nanoid(),
+        country:"Germany",
+        brand: "Porsche",
+        name: "718 Boxster GTS 4.0",
+        Img: "https://www.porsche.com/filestore/image/multimedia/none/boxster-gts-4-0-982-2024-porsche-ag/normal/1c3f2a5b-8d7e-11ed-80db-005056bbdc38;sZ;w1920h1080;quality=90.jpg",
+
+        price: "$90,000",
+        engine: "4.0L Flat-6",
+
+        horsepower: 394,
+
+        transmission: "6-Speed Manual",
+
+        torque: 420,
+        topSpeed: "290 km/h",
+        to100: 4.0,
+
+        weight: 1400,
+        
 
     },
 
