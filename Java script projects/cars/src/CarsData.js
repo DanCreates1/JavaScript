@@ -1474,6 +1474,29 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and exclusivity, the Ferrari F40 is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video: "https://www.youtube.com/embed//7mZdkfEeJH4?si=mTM-mKVYN9oJoBhD"
     },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Ferrari",
+        name: "Ferrari F50",
+        Img: "https://www.supercars.net/blog/wp-content/uploads/2021/04/1995-Ferrari-F50-_0-1.jpg",
+        price: "$3,000,000",
+        engine: "4.7L V12",
+        horsepower: 513,
+        transmission: "6-Speed Manual",
+        torque: 471,
+        topSpeed: "352 km/h",
+        to100: 3.7,
+        weight: 1380,
+        fuelEconomy: "29 L/100 km",
+        drivetrin: "RWD",
+        description: `The Ferrari F50 is a limited-production supercar that represents the pinnacle of Ferrari's engineering and design. 
+                      Powered by a naturally aspirated V12 engine, the F50 delivers blistering performance and exhilarating acceleration. 
+                      Its lightweight construction, aerodynamic design, and racing-inspired features make it a true driver's car. 
+                      Inside, the F50 features a minimalist interior focused on performance, with racing-style elements and advanced technology. 
+                      With its blend of power, luxury, and exclusivity, the Ferrari F50 is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video: "https://www.youtube.com/embed///DSE6-kr8Uoc?si=0vHhtz_g9NnTEVeO"
+    },
     /*Italy
     
     Ferrari
