@@ -1543,7 +1543,51 @@ import { nanoid } from 'nanoid';
                       Inside, the Pista features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, agility, and Ferrari's racing heritage, the 488 Pista is a favorite among enthusiasts and driving purists.`,
         video: "https://www.youtube.com/embed//I1FTyY0l54A?si=1d8KmmnVWF2-CW8M"
-
+    },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Ferrari",
+        name: "Ferrari 812 Superfast",
+        Img: "https://www.carsguide.com.au/car-dimensions/812-superfast.jpg",
+        price: "$400,000",
+        engine: "6.5L V12",
+        horsepower: 789,
+        transmission: "7-Speed DCT",
+        torque: 718,
+        topSpeed: "340 km/h",
+        to100: 2.9,
+        weight: 1630,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "RWD",
+        description:`The Ferrari 812 Superfast is a high-performance grand tourer that combines the iconic design of Ferrari with exhilarating performance. 
+                      Powered by a naturally aspirated V12 engine, the 812 Superfast delivers blistering acceleration and impressive handling capabilities. 
+                      Its sleek and aerodynamic exterior is complemented by a luxurious interior featuring premium materials and advanced technology. 
+                      With its blend of power, luxury, and cutting-edge technology, the 812 Superfast is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+        video:"https://www.youtube.com/embed//-X1v4x8g3rE?si=GkWzqjYt0Jm1aQeN"
+    },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Ferrari",
+        name: "Ferrari SF90 Stradale",
+        Img: "https://cdn.motor1.com/images/mgl/3nKXl/s1/ferrari-sf90-stradale.webp",
+        price: "$600,000",
+        engine: "4.0L V8 Hybrid",
+        horsepower: 986,
+        transmission: "8-Speed DCT",
+        torque: 800,
+        topSpeed: "340 km/h",
+        to100: 2.5,
+        weight: 1575,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description:`The Ferrari SF90 Stradale is a hybrid supercar that represents the pinnacle of Ferrari's engineering and design. 
+                      Powered by a combination of a twin-turbocharged V8 engine and electric motors, the SF90 Stradale delivers blistering performance and exhilarating acceleration.
+                        Its lightweight construction, aerodynamic design, and advanced technology make it a true masterpiece of automotive art.
+                        Inside, the SF90 Stradale features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience.
+                        With its blend of power, luxury, and exclusivity, the Ferrari SF90 Stradale is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video: "https://www.youtube.com/embed//-X1v4x8g3rE?si=GkWzqjYt0Jm1aQeN"
     },
     /*Italy
     
