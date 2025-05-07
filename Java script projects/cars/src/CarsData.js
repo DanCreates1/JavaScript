@@ -92,15 +92,15 @@ Nissan
     
     ---
     
-    4. Italy
+    4. Italy✅
     
-    Ferrari
-    F40
-    F50
-    LaFerrari
-    488 Pista
-    812 Superfast
-    SF90 Stradale
+    Ferrari✅
+    F40✅
+    F50✅
+    LaFerrari✅
+    488 Pista✅
+    812 Superfast✅
+    SF90 Stradale✅
     
     Lamborghini
     Aventador SVJ
