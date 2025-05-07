@@ -1549,7 +1549,7 @@ import { nanoid } from 'nanoid';
         country:"Italy",
         brand: "Ferrari",
         name: "Ferrari 812 Superfast",
-        Img: "https://www.carsguide.com.au/car-dimensions/812-superfast.jpg",
+        Img: "https://cdn.motor1.com/images/mgl/qj21G/s1/ferrari-812-superfast-by-novitec.webp",
         price: "$400,000",
         engine: "6.5L V12",
         horsepower: 789,
@@ -1564,7 +1564,7 @@ import { nanoid } from 'nanoid';
                       Powered by a naturally aspirated V12 engine, the 812 Superfast delivers blistering acceleration and impressive handling capabilities. 
                       Its sleek and aerodynamic exterior is complemented by a luxurious interior featuring premium materials and advanced technology. 
                       With its blend of power, luxury, and cutting-edge technology, the 812 Superfast is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
-        video:"https://www.youtube.com/embed//-X1v4x8g3rE?si=GkWzqjYt0Jm1aQeN"
+        video:"https://www.youtube.com/embed//PD9ENNy6srM?si=jkMfQRtTXaMAwdW0"
     },
     {
         key: nanoid(),
