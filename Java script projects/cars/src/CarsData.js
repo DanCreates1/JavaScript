@@ -1571,7 +1571,7 @@ import { nanoid } from 'nanoid';
         country:"Italy",
         brand: "Ferrari",
         name: "Ferrari SF90 Stradale",
-        Img: "https://cdn.motor1.com/images/mgl/3nKXl/s1/ferrari-sf90-stradale.webp",
+        Img: "https://hips.hearstapps.com/hmg-prod/images/2024-ferrari-sf90-xx-stradale-109-654a668fc71a3.jpg?crop=0.582xw:0.490xh;0.204xw,0.373xh&resize=1200:*",
         price: "$600,000",
         engine: "4.0L V8 Hybrid",
         horsepower: 986,
@@ -1587,7 +1587,7 @@ import { nanoid } from 'nanoid';
                         Its lightweight construction, aerodynamic design, and advanced technology make it a true masterpiece of automotive art.
                         Inside, the SF90 Stradale features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience.
                         With its blend of power, luxury, and exclusivity, the Ferrari SF90 Stradale is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
-        video: "https://www.youtube.com/embed//-X1v4x8g3rE?si=GkWzqjYt0Jm1aQeN"
+        video: "https://www.youtube.com/embed///fxDfgrU0cFE?si=nsiJrNwJD4IwPs5F"
     },
     /*Italy
     
