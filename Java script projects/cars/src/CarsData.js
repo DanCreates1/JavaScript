@@ -1525,7 +1525,7 @@ import { nanoid } from 'nanoid';
         country:"Italy",
         brand: "Ferrari",
         name: "Ferrari 488 Pista",
-        Img: "https://cdn.ferrari.com/cms/network/media/img/resize/5d371735c3f9ec0af647572d-ferrari_488pista_intro_socialshare?width=1080",
+        Img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSStxK5WnOLPJHL7Y2P0vsS2Sz_YA2fTijnnA&s",
         price: "$350,000",
         engine: "3.9L V8 Twin-Turbo",
         horsepower: 710,
@@ -1542,6 +1542,7 @@ import { nanoid } from 'nanoid';
                       Its lightweight construction, aerodynamic enhancements, and racing-inspired features make it a true driver's car. 
                       Inside, the Pista features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, agility, and Ferrari's racing heritage, the 488 Pista is a favorite among enthusiasts and driving purists.`,
+        video: "https://www.youtube.com/embed//I1FTyY0l54A?si=1d8KmmnVWF2-CW8M"
 
     },
     /*Italy
