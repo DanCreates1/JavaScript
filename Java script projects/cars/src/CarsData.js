@@ -1497,13 +1497,60 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and exclusivity, the Ferrari F50 is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video: "https://www.youtube.com/embed///DSE6-kr8Uoc?si=0vHhtz_g9NnTEVeO"
     },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Ferrari",
+        name: "Ferrari LaFerrari",
+        Img: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg/1200px-LaFerrari_in_Beverly_Hills_%2814563979888%29.jpg",
+        price: "$3,500,000",
+        engine: "6.3L V12 Hybrid",
+        horsepower: 950,
+        transmission: "7-Speed DCT",
+        torque: 900,
+        topSpeed: "352 km/h",
+        to100: 2.6,
+        weight: 1585,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Ferrari LaFerrari is a limited-production hybrid supercar that represents the pinnacle of Ferrari's engineering and design. 
+                      Powered by a combination of a naturally aspirated V12 engine and electric motors, the LaFerrari delivers blistering performance and exhilarating acceleration. 
+                      Its lightweight construction, aerodynamic design, and advanced technology make it a true masterpiece of automotive art. 
+                      Inside, the LaFerrari features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience. 
+                      With its blend of power, luxury, and exclusivity, the Ferrari LaFerrari is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed//ngLQfhJZ7Rs?si=XcpdCPGTeW4lSKAu"
+    },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Ferrari",
+        name: "Ferrari 488 Pista",
+        Img: "https://cdn.ferrari.com/cms/network/media/img/resize/5d371735c3f9ec0af647572d-ferrari_488pista_intro_socialshare?width=1080",
+        price: "$350,000",
+        engine: "3.9L V8 Twin-Turbo",
+        horsepower: 710,
+        transmission: "7-Speed DCT",
+        torque: 770,
+        topSpeed: "340 km/h",
+        to100: 2.8,
+        weight: 1385,
+        fuelEconomy: "11 L/100 km",
+        drivetrin: "RWD",
+        description:`The Ferrari
+488 Pista is a high-performance supercar that combines the iconic design of the 488 with enhanced power and agility. 
+                      Powered by a twin-turbocharged V8 engine, the Pista delivers blistering performance and exhilarating acceleration. 
+                      Its lightweight construction, aerodynamic enhancements, and racing-inspired features make it a true driver's car. 
+                      Inside, the Pista features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
+                      With its blend of power, agility, and Ferrari's racing heritage, the 488 Pista is a favorite among enthusiasts and driving purists.`,
+
+    },
     /*Italy
     
     Ferrari
     F40
     F50
-    LaFerrari
     488 Pista
+    LaFerrari
     812 Superfast
     SF90 Stradale */
 ];
