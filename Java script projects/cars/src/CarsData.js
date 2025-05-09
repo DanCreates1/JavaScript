@@ -1589,13 +1589,38 @@ import { nanoid } from 'nanoid';
                         With its blend of power, luxury, and exclusivity, the Ferrari SF90 Stradale is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video: "https://www.youtube.com/embed///fxDfgrU0cFE?si=nsiJrNwJD4IwPs5F"
     },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Ferrari",
+        name: "Ferrari Roma",
+        Img: "https://hips.hearstapps.com/hmg-prod/images/2024-ferrari-roma-spider-117-650b3c92b4ae2.jpg?crop=0.742xw:0.624xh;0.176xw,0.376xh&resize=1200:*",
+        price: "$250,000",
+        engine: "3.9L V8 Twin-Turbo",
+        horsepower: 612,
+        transmission: "8-Speed DCT",
+        torque: 760,
+        topSpeed: "320 km/h",
+        to100: 3.4,
+        weight: 1570,
+        fuelEconomy: "11 L/100 km",
+        drivetrin: "RWD",
+        description:`The Ferrari Roma is a grand tourer that combines the iconic design of Ferrari with exhilarating performance. 
+                      Powered by a twin-turbocharged V8 engine, the Roma delivers blistering acceleration and impressive handling capabilities. 
+                      Its sleek and aerodynamic exterior is complemented by a luxurious interior featuring premium materials and advanced technology. 
+                      With its blend of power, luxury, and cutting-edge technology, the Ferrari Roma is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+        video:"https://www.youtube.com/embed///NAfzDtPuCFg?si=Vkdk9wStqIYk04Cy"
+    },
+    
     /*Italy
     
-    Ferrari
-    F40
-    F50
-    488 Pista
-    LaFerrari
-    812 Superfast
-    SF90 Stradale */
+    Lamborghini
+    Aventador SVJ
+    Huracán STO
+    Revuelto
+    Sesto Elemento
+    Centenario
+    Veneno
+    Sián FKP 37
+    */
 ];
