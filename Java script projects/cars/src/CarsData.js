@@ -1611,6 +1611,30 @@ import { nanoid } from 'nanoid';
                       With its blend of power, luxury, and cutting-edge technology, the Ferrari Roma is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
         video:"https://www.youtube.com/embed///NAfzDtPuCFg?si=Vkdk9wStqIYk04Cy"
     },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Lamborghini",
+        name: "Aventador SVJ",
+        Img: "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2023/aventador-svj-roadster/",
+        price: "$600,000",
+        engine: "6.5L V12",
+        horsepower: 770,
+        transmission: "7-Speed ISR",
+        torque: 720,
+        topSpeed: "350 km/h",
+        to100: 2.8,
+        weight: 1575,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description: `The Lamborghini Aventador SVJ is a high-performance supercar that represents the pinnacle of Lamborghini's engineering and design. 
+                      Powered by a naturally aspirated V12 engine, the SVJ delivers blistering performance and exhilarating acceleration. 
+                      Its lightweight construction, aerodynamic enhancements, and racing-inspired features make it a true driver's car. 
+                      Inside, the SVJ features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
+                      With its blend of power, luxury, and exclusivity, the Lamborghini Aventador SVJ is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video: "https://www.youtube.com/embed//2v0g1q4x5aE?si=6r3X8J7W9bYj0c2G"
+
+    },
     
     /*Italy
     
