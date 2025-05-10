@@ -1616,7 +1616,7 @@ import { nanoid } from 'nanoid';
         country:"Italy",
         brand: "Lamborghini",
         name: "Aventador SVJ",
-        Img: "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/news/2023/aventador-svj-roadster/",
+        Img: "https://www.motortrend.com/uploads/sites/5/2020/02/2020-Lamborghini-Aventador-SVJ-Roadster-45.jpg",
         price: "$600,000",
         engine: "6.5L V12",
         horsepower: 770,
@@ -1632,7 +1632,7 @@ import { nanoid } from 'nanoid';
                       Its lightweight construction, aerodynamic enhancements, and racing-inspired features make it a true driver's car. 
                       Inside, the SVJ features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, luxury, and exclusivity, the Lamborghini Aventador SVJ is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
-        video: "https://www.youtube.com/embed//2v0g1q4x5aE?si=6r3X8J7W9bYj0c2G"
+        video: "https://www.youtube.com/embed///JGdQBA-c24s?si=ybgvPeyaI4oc6O9r"
 
     },
     
