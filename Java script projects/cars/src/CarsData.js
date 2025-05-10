@@ -1622,5 +1622,7 @@ import { nanoid } from 'nanoid';
     Centenario
     Veneno
     Sián FKP 37
+    Urus Performante
+    Huracán EVO
     */
 ];
