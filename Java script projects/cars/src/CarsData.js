@@ -1680,6 +1680,29 @@ import { nanoid } from 'nanoid';
                         With its blend of power, luxury, and exclusivity, the Lamborghini Revuelto is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video:"https://www.youtube.com/embed///GdrBc4Dm0lM?si=ywoehh9sBetFMqQY"
     },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Lamborghini",
+        name: "Sesto Elemento",
+        Img: "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/masterpieces/sesto-elemento/refresh/sesto_elemento_over_rev_01_m.jpg",
+        price: "$2,500,000",
+        engine: "5.2L V10",
+        horsepower: 570,
+        transmission: "6-Speed ISR",
+        torque: 540,
+        topSpeed: "350 km/h",
+        to100: 2.5,
+        weight: 999,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description:`The Lamborghini Sesto Elemento is a limited-production supercar that represents the pinnacle of Lamborghini's engineering and design. 
+                      Powered by a naturally aspirated V10 engine, the Sesto Elemento delivers blistering performance and exhilarating acceleration.
+                        Its lightweight construction, aerodynamic design, and racing-inspired features make it a true driver's car.
+                        Inside, the Sesto Elemento features a minimalist interior focused on performance, with racing-style elements and advanced technology.
+                        With its blend of power, luxury, and exclusivity, the Lamborghini Sesto Elemento is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed//-0v1g7qk4xE?si=8aX9bYj0rJm1z4cG"
+    },
     /*Italy
     
     Lamborghini
