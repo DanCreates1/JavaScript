@@ -1639,7 +1639,7 @@ import { nanoid } from 'nanoid';
         country:"Italy",
         brand: "Lamborghini",
         name: "Huracán STO",
-        Img: "https://www.carsguide.com.au/car-dimensions/2023-lamborghini-huracan-sto-1.jpg",
+        Img: "https://i.ytimg.com/vi/6y4eNROcFik/maxresdefault.jpg",
         price: "$400,000",
         engine: "5.2L V10",
         horsepower: 631,
@@ -1657,7 +1657,29 @@ import { nanoid } from 'nanoid';
                       With its blend of power, agility, and Lamborghini's racing heritage, the Huracán STO is a favorite among enthusiasts and driving purists.`,
         video: "https://www.youtube.com/embed////lrHG5MT6CHk?si=Bx9hkRMsst-2eRET"
     },
-    
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Lamborghini",
+        name: "Revuelto",
+        Img: "https://hips.hearstapps.com/hmg-prod/images/2024-lamborghini-revuelto-125-67aa477039191.jpg?crop=0.623xw:0.524xh;0.272xw,0.376xh&resize=1200:*",
+        price: "$700,000",
+        engine: "6.5L V12 Hybrid",
+        horsepower: 1015,
+        transmission: "8-Speed DCT",
+        torque: 900,
+        topSpeed: "350 km/h",
+        to100: 2.5,
+        weight: 1700,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description:`The Lamborghini Revuelto is a hybrid supercar that represents the pinnacle of Lamborghini's engineering and design. 
+                      Powered by a combination of a naturally aspirated V12 engine and electric motors, the Revuelto delivers blistering performance and exhilarating acceleration.
+                        Its lightweight construction, aerodynamic design, and advanced technology make it a true masterpiece of automotive art.
+                        Inside, the Revuelto features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience.
+                        With its blend of power, luxury, and exclusivity, the Lamborghini Revuelto is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed///GdrBc4Dm0lM?si=ywoehh9sBetFMqQY"
+    },
     /*Italy
     
     Lamborghini
