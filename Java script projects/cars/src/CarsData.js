@@ -1633,7 +1633,29 @@ import { nanoid } from 'nanoid';
                       Inside, the SVJ features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
                       With its blend of power, luxury, and exclusivity, the Lamborghini Aventador SVJ is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video: "https://www.youtube.com/embed///JGdQBA-c24s?si=ybgvPeyaI4oc6O9r"
-
+    },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Lamborghini",
+        name: "Huracán STO",
+        Img: "https://www.carsguide.com.au/car-dimensions/2023-lamborghini-huracan-sto-1.jpg",
+        price: "$400,000",
+        engine: "5.2L V10",
+        horsepower: 631,
+        transmission: "7-Speed DCT",
+        torque: 565,
+        topSpeed: "310 km/h",
+        to100: 3.0,
+        weight: 1430,
+        fuelEconomy: "13 L/100 km",
+        drivetrin: "RWD",
+        description: `The Lamborghini Huracán STO is a high-performance supercar that combines the iconic design of the Huracán with enhanced power and agility. 
+                      Powered by a naturally aspirated V10 engine, the STO delivers blistering performance and exhilarating acceleration. 
+                      Its lightweight construction, aerodynamic enhancements, and racing-inspired features make it a true driver's car. 
+                      Inside, the STO features a driver-centric cockpit with advanced technology and premium materials, providing an immersive driving experience. 
+                      With its blend of power, agility, and Lamborghini's racing heritage, the Huracán STO is a favorite among enthusiasts and driving purists.`,
+        video: "https://www.youtube.com/embed////lrHG5MT6CHk?si=Bx9hkRMsst-2eRET"
     },
     
     /*Italy
