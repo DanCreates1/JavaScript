@@ -1701,6 +1701,29 @@ import { nanoid } from 'nanoid';
                         Its lightweight construction, aerodynamic design, and racing-inspired features make it a true driver's car.
                         Inside, the Sesto Elemento features a minimalist interior focused on performance, with racing-style elements and advanced technology.
                         With its blend of power, luxury, and exclusivity, the Lamborghini Sesto Elemento is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed//DGL_L4xU1vU?si=8cTZS33Mc-WGUPmp"
+    },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Lamborghini",
+        name: "Centenario",
+        Img: "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/masterpieces/centenario/refresh/centenario_over_rev_01_m.jpg",
+        price: "$2,000,000",
+        engine: "6.5L V12",
+        horsepower: 770,
+        transmission: "7-Speed ISR",
+        torque: 690,
+        topSpeed: "350 km/h",
+        to100: 2.8,
+        weight: 1575,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+        description:`The Lamborghini Centenario is a limited-production supercar that celebrates the 100th anniversary of Ferruccio Lamborghini's birth. 
+                      Powered by a naturally aspirated V12 engine, the Centenario delivers blistering performance and exhilarating acceleration.
+                        Its lightweight construction, aerodynamic design, and advanced technology make it a true masterpiece of automotive art.
+                        Inside, the Centenario features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience.
+                        With its blend of power, luxury, and exclusivity, the Lamborghini Centenario is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video:"https://www.youtube.com/embed//-0v1g7qk4xE?si=8aX9bYj0rJm1z4cG"
     },
     /*Italy
