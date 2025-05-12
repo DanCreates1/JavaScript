@@ -1708,7 +1708,7 @@ import { nanoid } from 'nanoid';
         country:"Italy",
         brand: "Lamborghini",
         name: "Centenario",
-        Img: "https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/masterpieces/centenario/refresh/centenario_over_rev_01_m.jpg",
+        Img: "https://robbreport.com/wp-content/uploads/2020/02/3-14.jpg?w=1000",
         price: "$2,000,000",
         engine: "6.5L V12",
         horsepower: 770,
@@ -1724,7 +1724,7 @@ import { nanoid } from 'nanoid';
                         Its lightweight construction, aerodynamic design, and advanced technology make it a true masterpiece of automotive art.
                         Inside, the Centenario features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience.
                         With its blend of power, luxury, and exclusivity, the Lamborghini Centenario is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
-        video:"https://www.youtube.com/embed//-0v1g7qk4xE?si=8aX9bYj0rJm1z4cG"
+        video:"https://www.youtube.com/embed//WXRFYiMlMLs?si=2jqsVvHKJMTD9f_M"
     },
     /*Italy
     
