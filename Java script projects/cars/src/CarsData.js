@@ -1726,6 +1726,29 @@ import { nanoid } from 'nanoid';
                         With its blend of power, luxury, and exclusivity, the Lamborghini Centenario is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video:"https://www.youtube.com/embed//WXRFYiMlMLs?si=2jqsVvHKJMTD9f_M"
     },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Lamborghini",
+        name: "Veneno",
+        Img: "https://cdn.motor1.com/images/mgl/W8M4Go/708:269:2276:1706/2015-lamborghini-veneno-roadster.webp",
+        price: "$10,500,000",
+        engine: "6.5L V12",
+        horsepower: 740,
+        transmission: "7-Speed ISR",
+        torque: 690,
+        topSpeed: "355 km/h",
+        to100: 2.9,
+        weight: 1490,
+        fuelEconomy: "15 L/100 km", 
+        drivetrin: "AWD",
+        description:`The Lamborghini Veneno is a limited-production supercar that represents the pinnacle of Lamborghini's engineering and design. 
+                      Powered by a naturally aspirated V12 engine, the Veneno delivers blistering performance and exhilarating acceleration.
+                        Its lightweight construction, aerodynamic design, and racing-inspired features make it a true driver's car.
+                        Inside, the Veneno features a luxurious interior with premium materials and advanced technology, providing an unparalleled driving experience.
+                        With its blend of power, luxury, and exclusivity, the Lamborghini Veneno is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed//hzfMmDDHjXY?si=GvqVhGGTvXLnez1s"
+    },
     /*Italy
     
     Lamborghini
