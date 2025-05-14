@@ -1772,6 +1772,29 @@ import { nanoid } from 'nanoid';
                             Inside, the Sián FKP 37 features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience.
                             With its blend of power, luxury, and exclusivity, the Lamborghini Sián FKP 37 is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video:"https://www.youtube.com/embed///oHripFEbAcg?si=kS-NBbmUY0P65XZK"
+    },
+    {
+        key: nanoid(),
+        country:"Italy",    
+        brand: "Lamborghini",
+        name: "Urus Performante",
+        Img: "https://www.topgear.com/sites/default/files/2022/10/1-Lamborghini-Urus-Performante.jpg",    
+        price: "$250,000",  
+        engine: "4.0L V8 Twin-Turbo",   
+        horsepower: 657,
+        transmission: "8-Speed ZF",
+        torque: 850,
+        topSpeed: "305 km/h",   
+        to100: 3.3,
+        weight: 2200,
+        fuelEconomy: "12 L/100 km",
+        drivetrin: "AWD",
+        description:`The Lamborghini Urus Performante is a high-performance luxury SUV that combines the iconic design of Lamborghini with exhilarating performance. 
+                      Powered by a twin-turbocharged V8 engine, the Urus Performante
+                        delivers blistering acceleration and impressive handling capabilities.
+                        Its sleek and aerodynamic exterior is complemented by a luxurious interior featuring premium materials and advanced technology.
+                        With its blend of power, luxury, and cutting-edge technology, the Urus Performante is a true driver's car that appeals to enthusiasts and luxury car buyers alike.`,
+        video:"https://www.youtube.com/embed///IclI7nRI0dI?si=v4UM02Lfpf_Fvl4o"
 
     },
     /*Italy
