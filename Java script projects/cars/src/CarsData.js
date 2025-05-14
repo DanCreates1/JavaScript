@@ -1749,6 +1749,31 @@ import { nanoid } from 'nanoid';
                         With its blend of power, luxury, and exclusivity, the Lamborghini Veneno is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
         video:"https://www.youtube.com/embed//hzfMmDDHjXY?si=GvqVhGGTvXLnez1s"
     },
+    {
+        key: nanoid(),
+        country:"Italy",
+        brand: "Lamborghini",
+        name: "Sián FKP 37",
+        Img: "https://www.automoli.com/common/vehicles/_assets/img/gallery/f33/lamborghini-sian-fkp-37.jpg",
+        price: "$3,600,000",
+        engine: "6.5L V12 Hybrid",
+        horsepower: 819,
+        transmission: "7-Speed ISR",
+        torque: 720,
+        topSpeed: "350 km/h",
+        to100: 2.8,
+        weight: 1575,
+        fuelEconomy: "15 L/100 km",
+        drivetrin: "AWD",
+
+        description:`The Lamborghini Sián FKP 37 is a hybrid supercar that represents the pinnacle of Lamborghini's engineering and design.
+                        Powered by a combination of a naturally aspirated V12 engine and electric motors, the Sián FKP 37 delivers blistering performance and exhilarating acceleration.
+                            Its lightweight construction, aerodynamic design, and advanced technology make it a true masterpiece of automotive art.
+                            Inside, the Sián FKP 37 features a luxurious interior with premium materials and cutting-edge technology, providing an unparalleled driving experience.
+                            With its blend of power, luxury, and exclusivity, the Lamborghini Sián FKP 37 is a symbol of automotive excellence and a dream car for enthusiasts worldwide.`,
+        video:"https://www.youtube.com/embed///oHripFEbAcg?si=kS-NBbmUY0P65XZK"
+
+    },
     /*Italy
     
     Lamborghini
