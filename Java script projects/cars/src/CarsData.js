@@ -1819,18 +1819,4 @@ import { nanoid } from 'nanoid';
                         With its blend of power, agility, and Lamborghini's racing heritage, the Huracán EVO is a favorite among enthusiasts and driving purists.`,
         video:"https://www.youtube.com/embed///wGicv0ZrMKQ?si=oc-sh7SXH1bWmVN0"
     },
-    /*Italy
-    
-    Lamborghini
-    Aventador SVJ
-    Huracán STO
-    Revuelto
-    Sesto Elemento
-    Centenario
-    Veneno
-    
-    Sián FKP 37
-    Urus Performante
-    Huracán EVO
-    */
 ];
