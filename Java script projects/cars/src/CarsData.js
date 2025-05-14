@@ -102,14 +102,14 @@ Nissan
     812 Superfast✅
     SF90 Stradale✅
     
-    Lamborghini
-    Aventador SVJ
-    Huracán STO
-    Revuelto
-    Sesto Elemento
-    Centenario
-    Veneno
-    Sián FKP 37
+    Lamborghini✅
+    Aventador SVJ✅
+    Huracán STO✅
+    Revuelto✅
+    Sesto Elemento✅
+    Centenario✅
+    Veneno✅
+    Sián FKP 37✅
     
     Maserati
     MC20
