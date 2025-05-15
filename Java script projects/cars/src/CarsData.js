@@ -173,6 +173,7 @@ Nissan
     
     ---
     
+    
     6. UK
     
     Aston Martin
@@ -1819,4 +1820,6 @@ import { nanoid } from 'nanoid';
                         With its blend of power, agility, and Lamborghini's racing heritage, the Huracán EVO is a favorite among enthusiasts and driving purists.`,
         video:"https://www.youtube.com/embed///wGicv0ZrMKQ?si=oc-sh7SXH1bWmVN0"
     },
+    /*
+     */
 ];
